@@ -8,7 +8,7 @@ tags:
 
 *← [Silver Family Archive](./)*
 
-**David Rodney Silver** (2 January 1924 – 19 April 2003) was an architect, a wartime RAF engine fitter, and, by his grandson's account, a frustrated artist. He was one of the six children of Clifford Marking Silver, a dentist in Exeter, and Gladys Lucy Acott. His siblings were James, Lavender, Philip, [Christopher Patrick](Christopher-Silver/) and Rosemary. He married [Anthea Leigh](Anthea-Silver), whom he met at architecture school in Bristol, and they had three daughters, Tamsin, Bridget and Candy. He was Jago Silver's maternal grandfather, known to the family simply as **Grandpa**.
+**David Rodney Silver** (2 January 1924 – 19 April 2003) was an architect, a wartime RAF engine fitter, and, by his grandson's account, a frustrated artist. He was one of the six children of Clifford Marking Silver, a dentist in Exeter, and Gladys Lucy Acott (see [The Acott Letters](Acott-Letters)). His siblings were James, Lavender, Philip, [Christopher Patrick](Christopher-Silver/) and Rosemary. He married [Anthea Leigh](Anthea-Silver), whom he met at architecture school in Bristol, and they had three daughters, Tamsin, Bridget and Candy. He was Jago Silver's maternal grandfather, known to the family simply as **Grandpa**.
 
 ![David Silver in later life, photographed in the garden at Wadebridge — white hair, wire-rimmed glasses, a cardigan over a blue shirt, a blue garden bench behind. *David Silver, "Grandpa".*](images/DRS-Grandpa.jpg)
 

@@ -39,6 +39,16 @@ Architect, RAF engine fitter and frustrated artist. Christopher's brother David 
 
 ---
 
+## [The Acott Letters](Acott-Letters)
+
+**Family history in two letters — 1942**
+
+In 1942 Edwin Acott, a retired Great Western Railway clerk, wrote two long letters to his niece Muriel in Exeter. They trace the Acott family back to Edward Acott, an Oxford builder born in 1781, and the Baker yeoman farmers of Bampton. Along the way come a printer who blew off his thumb with a powder flask, a New Zealand newspaper, an Anglo-Saxon dictionary, a blind carthorse called Tom, and Edwin's own Victorian Oxford boyhood. These are the forebears of Gladys Lucy Acott, mother of David and Christopher Silver.
+
+→ [Read the letters](Acott-Letters)
+
+---
+
 ## [A Trip on the River](Trip-on-the-River)
 
 **Autobiographical Essay — Wadebridge School, 1995**
