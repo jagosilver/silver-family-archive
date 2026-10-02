@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "umami",
     },
     locale: "en-GB",
-    baseUrl: "jagosilver.github.io/christopher-silver",
+    baseUrl: "jagosilver.github.io/silver-family-archive",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
