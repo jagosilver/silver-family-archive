@@ -54,6 +54,9 @@ His wife, Nancy (née Pym), had been a successful classicist and headmistress. O
 
 Christopher is the brother of [Jago Silver](Jago-Silver)'s maternal grandfather, making him [Jago Silver](Jago-Silver)'s great-uncle. His father [Clifford Marking Silver](Clifford-Marking-Silver) is [Jago Silver](Jago-Silver)'s great-grandfather on the maternal side.
 
+## Letters
+Between 1998 and 2006 Christopher wrote to his great-nephew Jago about photography, and about the Exacta camera he had given him. In 2000 he asked Jago to make a digital photo-montage of Renkioi Hospital for his book. → [Letters from Christopher Silver (1998–2006)](Christopher-Silver/Letters)
+
 ## Published work
 - **Silver's test** — a practical cognitive assessment test he devised, useful in demonstrating functional losses associated with brain disease and ageing
 - *Renkioi: Brunel's forgotten Crimean war hospital* (Valonia Press, Sevenoaks, 2007) — a history of Brunel's prefabricated hospital in the Crimean War, dedicated to his late wife Nancy
@@ -96,6 +99,7 @@ In 1961, CPS and his wife Nancy undertook a grand tour of North America, shootin
 - [Royal College of Physicians — Christopher Patrick Silver] (obituary, published 2005–2018)
 
 ## See also
+- [Letters from Christopher Silver (1998–2006)](Christopher-Silver/Letters)
 - [Jago Silver](Jago-Silver)
 - [Clifford Marking Silver](Clifford-Marking-Silver)
 - [Tamsin Titcomb](Tamsin-Titcomb)
