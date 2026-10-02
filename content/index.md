@@ -29,6 +29,16 @@ Anthea Leigh grew up in Topsham, Devon. She married David Silver, Christopher's 
 
 ---
 
+## [David Silver](David-Silver)
+
+**1924 – 2003**
+
+Architect, RAF engine fitter and frustrated artist. Christopher's brother David trained at Exeter School of Art, spent four years of the war test-running Merlin engines in Spitfires and Hurricanes, then qualified as an architect in Bristol, where he met Anthea. His letters to his grandson, written from Wadebridge and full of pen sketches, cover the war, the history of words, Brittany and the Eden Project.
+
+→ [Read about David and his letters](David-Silver)
+
+---
+
 ## [A Trip on the River](Trip-on-the-River)
 
 **Autobiographical Essay — Wadebridge School, 1995**

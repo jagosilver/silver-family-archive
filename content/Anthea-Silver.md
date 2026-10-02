@@ -8,7 +8,7 @@ tags:
 
 *← [Silver Family Archive](./)*
 
-**Anthea Leigh** (30 April 1928 – ) grew up in Topsham, Devon. She married **David Silver**, the brother of [Christopher Patrick Silver](Christopher-Silver/). David and Anthea were Jago Silver's maternal grandparents.
+**Anthea Leigh** (30 April 1928 – ) grew up in Topsham, Devon. She married **[David Silver](David-Silver)**, the brother of [Christopher Patrick Silver](Christopher-Silver/). David and Anthea were Jago Silver's maternal grandparents.
 
 The memoir below — *A Topsham Childhood* — was written in her own hand and transcribed from the original manuscript pages. It is published here with her words exactly as written.
 

@@ -19,7 +19,7 @@ Some tentative identifications are offered below, but all should be treated as p
 
 ![The same young man (or a very similar one) photographed outdoors, seated in a wicker chair in a garden, wearing the same style of grey suit. A stone wall is visible behind. The setting may be the [Silver family home in Exeter](Christopher-Silver/UK#Exeter). *IChristopher Silver.*](images/CPS-People-23.jpg)
 
-![A formal portrait of a young man with distinctive round tortoiseshell glasses, seated in front of a curtain with a leaded window behind — the setting suggests a college room or a well-furnished house. The glasses date the photograph to the late 1930s or early 1940s. *David Silver, Jago's maternal Grandfather.*](images/CPS-People-17.jpg)
+![A formal portrait of a young man with distinctive round tortoiseshell glasses, seated in front of a curtain with a leaded window behind — the setting suggests a college room or a well-furnished house. The glasses date the photograph to the late 1930s or early 1940s. *[David Silver](David-Silver), Jago's maternal grandfather.*](images/CPS-People-17.jpg)
 
 ## Academic gown portrait
 
