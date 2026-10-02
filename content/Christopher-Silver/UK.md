@@ -14,7 +14,7 @@ tags:
 
 CPS was born in Exeter on 21 April 1920. His father [Clifford Marking Silver](Clifford-Marking-Silver) practised as a dentist there. The large number of Exeter photographs (23 in total) suggests these were taken over many years and include extensive documentation of the family home and garden.
 
-![The rear elevation of the Silver family home in Exeter — a substantial white-rendered Arts & Crafts house with a lean-to greenhouse, a vine-covered pergola, a garden bench, and a well-kept lawn. The greenhouse features in other photographs. This is almost certainly the home of [Clifford Marking Silver](Clifford-Marking-Silver).](../images/CPS-UK-Exeter-18.jpg)
+![The rear elevation of the Silver family home in Exeter — a substantial white-rendered Arts & Crafts house with a lean-to greenhouse, a vine-covered pergola, a garden bench, and a well-kept lawn. The greenhouse features in other photographs. This is Tresillian, the home of [Clifford Marking Silver](Clifford-Marking-Silver). It matches [David Silver](../David-Silver)'s own description and watercolour of the house.](../images/CPS-UK-Exeter-18.jpg)
 
 ![A rockery in the family garden: primulas in full bloom nestled between rough stone slabs, with irises and other plants behind. The planting is deliberate and carefully composed — a well-loved garden.](../images/CPS-UK-Exeter-01.jpg)
 

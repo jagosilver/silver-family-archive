@@ -28,6 +28,45 @@ He illustrated the job for his grandson in the margin of a letter:
 
 The only aircraft he ever flew in was a B-17 Flying Fortress, as a passenger, a few days after the war in Europe ended.
 
+## Tresillian and the Exeter Blitz
+
+David grew up at **Tresillian**, the family home in West Avenue, Exeter. It was an 1899 Arts & Crafts house, white roughcast with a red-tiled roof, by an architect David describes as *a contemporary of Voysey*. On the night of **3–4 May 1942**, during the Exeter Blitz, it was raked by cannon and machine-gun fire from German bombers. A barrier of sandbags under the garden porch and removable steel sheets over the windows saved his parents' lives. The house was uninhabitable for months. After the war he wrote that *"although the roof had been blown off my home and the walls terribly damaged it was all put right."*
+
+While waiting to join the RAF the following summer, David painted the bomb-damaged garden side of the house. It shows the vine-covered porch on its heavy timber posts, the greenhouse, and windows covered with cotton fabric in place of glass. He called it *"this very poor sketch."* His brother Christopher had photographed the same garden front before the war (see [UK photographs](Christopher-Silver/UK)).
+
+![Watercolour detail of a white house: an upper window with dark panes, a red-tiled lean-to porch roof on a timber post with a climbing vine, a grey greenhouse roof at lower left and a stone wall in the foreground. *Tresillian after the bombing, watercolour by David Silver, c. 1942–43 (detail).*](images/DRS-Tresillian-Watercolour.jpg)
+
+On the back he wrote a full account of the raid, with a sketch plan of the ground floor:
+
+![A sheet of textured watercolour paper covered in faint pencil handwriting, with a sketch floor plan at the top labelled with rooms including study, drawing room, court yard and coal house, and margin notes on the right. *The reverse, signed David Silver.*](images/DRS-Tresillian-Notes.jpg)
+
+> **Tresillian, Exeter — After the bombing**
+>
+> The porch facing the garden was (always) carried by large hardwood columns as designed by the architect who built the house in 1899 – who was a contemporary of VOYSEY. … Under the porch is a barrier of sandbags which together with removable steel sheets over the windows saved my parents' lives – on Sunday May (3rd) 1942 (The Exeter Blitz).
+>
+> The house was severely damaged at the front by armour-piercing cannon shells and machine gun bullets from Junkers 87\* dive bombers. One cannon shell went right through the house – through the side-board in the dining room at the front and out through the drawing room facing the garden, down the garden and straight through the garage — all of which means the trajectory was extremely low.
+>
+> The house was uninhabitable for months. The house opposite received a direct hit from an HE bomb, as did many houses on the opposite side of the road.
+>
+> I did this very poor sketch while waiting to go into the RAF during the following summer. The windows are shown with a temporary substitute for glass\*.
+>
+> \* *Thinking later I think they were most likely Junkers 88s. Junkers 87 were single engine, Junkers 88 were twins and probably longer range.*
+>
+> \* *It was a kind of cotton fabric stretched over the frames. The frames were early 1900 metal frames – highly advanced for the time.*
+
+The oak sideboard survived the shell. It was given new doors, and David kept it for the rest of his life.
+
+### Still life, summer 1944
+
+Two years later, on leave, David painted a still life of plums on a patterned dish at Tresillian. Christopher was home at the same time with his leg in plaster from Italy, and painted his own version of the same arrangement.
+
+![Watercolour still life: red plums heaped on a blue-and-white patterned dish, set on an orange and blue patchwork quilt draped with a deep red cloth, pale green leaves behind. Signed David Silver, '44. *Still life with plums, Tresillian, summer 1944.*](images/DRS-Still-Life-1944.jpg)
+
+> Tresillian. I did this, while Christopher on sick leave with a leg in plaster from the Southern Italy landings from North Africa, did another version. It was lovely summer 1944. I must have been on leave.
+> — David Silver, on the back
+
+![The back of the still life: stained, foxed paper with a few lines of faint pencil handwriting near the top, signed David Silver. *The note on the reverse.*](images/DRS-Still-Life-1944-Reverse.jpg)
+
 ## Architect
 
 After the war David trained at the RWA School of Architecture in Bristol on a grant, and met Anthea there. Both of them qualified as architects. He spent most of his career in the civil service. One of his projects was a very large London building for British Telecom. Its design famously outran its own technology. One floor was specified 16 feet high, with reinforced flooring, to carry the giant computers of the day. The building took so long to design that by the time it went up, the specially strengthened floor was no longer needed.
