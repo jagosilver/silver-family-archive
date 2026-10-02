@@ -6,7 +6,7 @@ tags:
   - topsham
 ---
 
-*← [Silver Family Artifacts](./)*
+*← [Silver Family Archive](./)*
 
 An autobiographical essay written by **Jago Silver** (then Jago Edward Titcomb) aged 15, during Year 10 at Wadebridge School, Summer Term 1995. It describes an evening sailing on the River Exe at [Topsham](Anthea-Silver) — the same town where his grandmother [Anthea Silver](Anthea-Silver) grew up and which she wrote about in *A Topsham Childhood*.
 

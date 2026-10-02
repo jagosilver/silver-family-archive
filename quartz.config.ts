@@ -3,12 +3,12 @@ import * as Plugin from "./quartz/plugins"
 
 /**
  * Quartz 4 Configuration
- * Silver Family Artifacts
+ * Silver Family Archive
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Silver Family Artifacts",
-    pageTitleSuffix: " — Silver Family Artifacts",
+    pageTitle: "Silver Family Archive",
+    pageTitleSuffix: " — Silver Family Archive",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

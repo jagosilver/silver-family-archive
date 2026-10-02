@@ -1,9 +1,9 @@
 ---
-title: "Silver Family Artifacts"
+title: "Silver Family Archive"
 description: "Photographs, memoir, archaeology, academic work and family papers from the Silver and Pyne families of Exeter, Topsham and Cornwall."
 ---
 
-# Silver Family Artifacts
+# Silver Family Archive
 
 This archive brings together photographs, writings, academic work and historical documents from the Silver and Pyne families of Exeter, Topsham and Cornwall — spanning from Romano-British antiquity to the twenty-first century.
 
