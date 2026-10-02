@@ -21,7 +21,7 @@ Geriatrician, photographer, soldier. Christopher Patrick Silver was born in Exet
 
 ## [Anthea Silver](Anthea-Silver)
 
-**Born 30 April 1928**
+**1928 – 2009**
 
 Anthea Leigh grew up in Topsham, Devon. She married David Silver, Christopher's brother. In later life she wrote a memoir of her Topsham childhood, covering sixteen chapters of family life, wartime, the River Exe, and the streets and characters of a small Devon town between the wars.
 
