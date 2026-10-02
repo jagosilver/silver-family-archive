@@ -55,6 +55,8 @@ His wife, Nancy (née Pym), had been a successful classicist and headmistress. O
 Christopher is the brother of [Jago Silver](Jago-Silver)'s maternal grandfather, making him [Jago Silver](Jago-Silver)'s great-uncle. His father [Clifford Marking Silver](Clifford-Marking-Silver) is [Jago Silver](Jago-Silver)'s great-grandfather on the maternal side.
 
 ## Letters
+One of Christopher's own schoolboy letters, written from King's School, Bruton on 3 May 1936, is among his brother David's → [The Bruton Letters (1936–1942)](../Bruton-Letters).
+
 Between 1998 and 2006 Christopher wrote to his great-nephew Jago about photography, and about the Exacta camera he had given him. In 2000 he asked Jago to make a digital photo-montage of Renkioi Hospital for his book. → [Letters from Christopher Silver (1998–2006)](Christopher-Silver/Letters)
 
 ## Published work

@@ -16,6 +16,10 @@ David and his brother Christopher were, in Christopher's words, *"close friends 
 
 ---
 
+## Bruton, 1937–1942
+
+From the age of thirteen David boarded at King's School, Bruton, in Somerset, following his brother Christopher. Sixty-eight of his letters home survive, from his first homesick weeks in September 1937 to June 1942: the coming of the war, his Cert "A" and the Home Guard, head of house and of the school Air Training Corps, his RAF aircrew selection board at Oxford, a colour-vision test in which he "can't tell the difference between pink and green", and his letter written five days after the Exeter Blitz. → [The Bruton Letters (1936–1942)](Bruton-Letters)
+
 ## Exeter, and the war
 
 David went to Exeter School of Art for about two terms before joining the RAF. He was accepted for aircrew with 6/36 vision in each eye, but was barred from flying when the eyesight standards were raised for night fighters. Instead he spent four years overhauling and test-running the Rolls-Royce Merlin engines of Spitfires and Hurricanes. His service number was 1587757.
