@@ -41,9 +41,9 @@ Architect, RAF engine fitter and frustrated artist. Christopher's brother David 
 
 ## [The Bruton Letters](Bruton-Letters)
 
-**Letters home from boarding school — 1936–1942**
+**Letters home from boarding school — 1937–1942**
 
-Seventy letters from King's School, Bruton: sixty-eight by David Silver, from a homesick thirteen-year-old in 1937 to an eighteen-year-old RAF aircrew candidate in 1942, and one from his brother Christopher in 1936. Episcopes, cornflakes and caricatures of masters; Munich, gas masks and the *Royal Oak*; the Home Guard, the Air Training Corps, an RAF selection board at Oxford; and, five days after the Exeter Blitz, his letter to his parents on the bombing of Tresillian.
+David Silver's letters home from King's School, Bruton, from a homesick thirteen-year-old in 1937 to an eighteen-year-old RAF aircrew candidate in 1942. Episcopes, cornflakes and caricatures of masters; Munich, gas masks and the *Royal Oak*; the Home Guard, the Air Training Corps, an RAF selection board at Oxford; and, five days after the Exeter Blitz, his letter to his parents on the bombing of Tresillian.
 
 → [Read the letters](Bruton-Letters)
 
