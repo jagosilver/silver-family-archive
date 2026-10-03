@@ -43,7 +43,7 @@ Architect, RAF engine fitter and frustrated artist. Christopher's brother David 
 
 **Exeter dentist — father of Christopher and David**
 
-Clifford and Gladys Silver (née Acott) brought up their six children at Tresillian, an Arts & Crafts house in West Avenue, Exeter, which was wrecked in the Exeter Blitz of May 1942 with them inside. A keen photographer and gardener, he shared both passions with his sons, whose letters home from school are full of cameras, films and plans for the garden.
+Clifford and Gladys Silver (née Acott) brought up their six children at Tresillian, an Arts & Crafts house in West Avenue, Exeter, which was wrecked in the Exeter Blitz of May 1942 with them inside; his dental surgery elsewhere in the city was damaged too. A keen photographer and gardener, he shared both passions with his sons, whose letters home from school are full of cameras, films and plans for the garden.
 
 → [Read about Clifford](Clifford-Marking-Silver)
 

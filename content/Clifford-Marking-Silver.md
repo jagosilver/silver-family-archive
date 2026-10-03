@@ -15,6 +15,10 @@ tags:
 - **Wife:** Gladys Lucy Silver (née Acott), of an Oxford family of builders and printers, one branch of which settled in Exeter. Her family's history is told in [The Acott Letters](Acott-Letters), written in 1942 by Edwin Acott to his niece Muriel; Gladys was most likely Muriel's sister, though that is not yet confirmed. Her birthday was 23 June: David wrote to wish her "Many happy returns" from school (in c. 1939 and 1942).
 - **Children:** James Clifford, Lavender Charlotte, Philip Sidney, [Christopher Patrick](Christopher-Silver/) (21 April 1920 – 12 November 2012), [David Rodney](David-Silver) (2 January 1924 – 19 April 2003) and Rosemary.
 
+## The dental practice
+
+Clifford practised as a dentist at premises elsewhere in Exeter, separate from the family home. The surgery, like Tresillian, was damaged in the air raids of May 1942.
+
 ## Tresillian
 
 The family home was **Tresillian**, near the top of West Avenue in Exeter: an 1899 house by an architect David described as "a contemporary of Voysey", with white roughcast walls, a red-tiled roof, a garden-side porch on heavy timber posts with a vine over it, a greenhouse, and a long garden running back to a garage on the lane behind. Christopher photographed the house and garden many times on glass plates (see [Christopher Silver — UK](Christopher-Silver/UK)).
@@ -29,7 +33,7 @@ The garden was clearly a passion. Christopher's photographs show a carefully pla
 
 On the night of **3–4 May 1942**, in the Exeter Blitz, Tresillian was raked by cannon and machine-gun fire from German bombers. According to David, a barrier of sandbags under the porch and removable steel sheets over the windows saved his parents' lives. One cannon shell went right through the house and down the garden. The house was uninhabitable for months, and many houses on the opposite side of the road took direct hits.
 
-David, then at school at Bruton, wrote to his parents five days later: *"It is quite useless for me to try to say how glad I am you are safe, or how sorry I am that you had such a ghastly time… your extraordinary good fortune in being unhurt more than counterbalances the misfortune of losing the houses."* He wondered whether his father would now retire from the practice, and hoped his parents would find "a small house in the country". By 21 June 1942 they were back at Tresillian, and David hoped they would get a Morrison table-shelter. The house was later repaired; David painted it while waiting to join the RAF, and his watercolour and account of the raid are on [his page](David-Silver).
+David, then at school at Bruton, wrote to his parents five days later: *"It is quite useless for me to try to say how glad I am you are safe, or how sorry I am that you had such a ghastly time… your extraordinary good fortune in being unhurt more than counterbalances the misfortune of losing the houses."* The "houses" were both the family home and the surgery, and he went on to ask, *"as regards the practice, will you retire Daddy? or what?"* He hoped, too, that his parents might retire to "a small house in the country". By 21 June 1942 they were back at Tresillian, and David hoped they would get a Morrison table-shelter. The house was later repaired; David painted it while waiting to join the RAF, and his watercolour and account of the raid are on [his page](David-Silver).
 
 ## Clifford in his sons' letters
 
