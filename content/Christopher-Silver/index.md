@@ -9,7 +9,7 @@ tags:
 
 *← [Silver Family Archive](../)*
 
-**Christopher Patrick Silver** (21 April 1920 – 12 November 2012) was a British geriatrician who worked in the East End of London. He was [Jago Silver](Jago-Silver)'s great-uncle — the brother of Jago's maternal grandfather.
+**Christopher Patrick Silver** (21 April 1920 – 12 November 2012) was a British geriatrician who worked in the East End of London. He was Jago Silver's great-uncle — the brother of Jago's maternal grandfather.
 
 **Qualifications:** BM BChir Oxon (1942); MRCP (1948); DM (1954); FRCP (1972)
 
@@ -52,7 +52,7 @@ His wife, Nancy (née Pym), had been a successful classicist and headmistress. O
 - **Grandchildren:** seven
 - **Great-grandchild:** one (at time of death)
 
-Christopher is the brother of [Jago Silver](Jago-Silver)'s maternal grandfather, making him [Jago Silver](Jago-Silver)'s great-uncle. His father [Clifford Marking Silver](Clifford-Marking-Silver) is [Jago Silver](Jago-Silver)'s great-grandfather on the maternal side.
+Christopher is the brother of Jago Silver's maternal grandfather, making him Jago Silver's great-uncle. His father [Clifford Marking Silver](Clifford-Marking-Silver) is Jago Silver's great-grandfather on the maternal side.
 
 ## Bruton, 1936
 Christopher boarded at King's School, Bruton, in Somerset, in New House; his younger brother [David](../David-Silver) followed him there in 1937 (see [The Bruton Letters](../Bruton-Letters)). One of Christopher's own letters home survives, kept in the same bundle as David's. It is dated **Sunday 3 May 1936**, when he was sixteen, and written to his parents at Tresillian in Exeter. It enclosed the school's printed calendar for the Summer Term 1936, the "blue card", which survives with it. In David's later letters Christopher is "Kit"; by October 1939 he was up at Oxford.
@@ -186,8 +186,6 @@ In 1961, CPS and his wife Nancy undertook a grand tour of North America, shootin
 
 ## See also
 - [Letters from Christopher Silver (1998–2006)](Christopher-Silver/Letters)
-- [Jago Silver](Jago-Silver)
 - [Clifford Marking Silver](Clifford-Marking-Silver)
-- [Tamsin Titcomb](Tamsin-Titcomb)
+- [David Silver](../David-Silver)
 - [Anthea Silver](Anthea-Silver)
-- [Family History](Family-History)

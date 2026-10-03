@@ -10,7 +10,7 @@ tags:
 *← [Christopher Patrick Silver](../)*
 
 |Cornwall||}}
-Christopher Silver photographed Cornwall extensively — its rugged coastline, harbours, and fishing villages. These images were taken on Ilford glass plate stock and show Cornwall as it looked in the early-to-mid twentieth century, before mass tourism transformed many of its communities. Cornwall was the home county of CPS's nephew [Jago Silver](Jago-Silver), who still lives on the North Cornwall coast — a connection that gives these photographs a particular resonance.
+Christopher Silver photographed Cornwall extensively — its rugged coastline, harbours, and fishing villages. These images were taken on Ilford glass plate stock and show Cornwall as it looked in the early-to-mid twentieth century, before mass tourism transformed many of its communities. Cornwall was the home county of CPS's nephew Jago Silver, who still lives on the North Cornwall coast — a connection that gives these photographs a particular resonance.
 
 ## General coastal views
 
@@ -58,4 +58,3 @@ Trebarwith Strand is a beach on the north Cornish coast near Tintagel, known for
 - [Christopher Silver](Christopher-Silver) — main article
 - [Christopher Silver/UK](Christopher-Silver/UK) — other UK locations
 - [Christopher Silver/People](Christopher-Silver/People) — portraits and figures
-- [Jago Silver](Jago-Silver) — lives in North Cornwall
