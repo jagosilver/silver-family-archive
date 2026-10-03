@@ -15,6 +15,7 @@ tags:
 ## On the school war memorial
 
 ![The King's School, Bruton memorial to Old Brutonians who died in the Second World War and later conflicts](images/Bruton-WWII-memorial.jpg)
+*Photo: [King's Bruton](https://www.kingsbruton.com/)*
 
 The school's memorial **"In memory of Old Brutonians who died in the Second World War and later conflicts"** (motto *Spes illorum immortalitate plena est*, "their hope is full of immortality") lists 69 names from 1939–45, one master (**John R.M. Smith**), two from **Korea** and one from **Afghanistan**. Checked against David's letters, about ten names belong to boys he knew or wrote about, mostly the senior boys of 1938–39. Apart from Stansbury and Cabral these are surname matches only: the same surname, at the same time, in a school of about 100 boys.
 
