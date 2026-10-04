@@ -18,9 +18,15 @@ David and his brother Christopher were, in Christopher's words, *"close friends 
 
 ## Bruton, 1937–1942
 
+![David as a boy, in a hand-knitted jumper, leaning his head on one hand. *David as a boy.*](images/DRS-boy.jpg)
+
+![Hand-coloured studio portrait of David as a boy in an open-necked shirt. *A hand-coloured studio portrait.*](images/DRS-boy-studio.jpg)
+
 From the age of thirteen David boarded at [King's School, Bruton](Kings-School-Bruton), in Somerset, following his brother Christopher. Sixty-eight of his letters home survive, from his first homesick weeks in September 1937 to June 1942: the coming of the war, his Cert "A" and the Home Guard, head of house and of the school Air Training Corps, his RAF aircrew selection board at Oxford, a colour-vision test in which he "can't tell the difference between pink and green", and his letter written five days after the Exeter Blitz. → [The Bruton Letters (1937–1942)](Bruton-Letters)
 
 ## Exeter, and the war
+
+![David as a young man in RAF uniform, wearing round glasses. *David in RAF uniform.*](images/DRS-RAF.jpg)
 
 David went to Exeter School of Art for about two terms before joining the RAF. He was accepted for aircrew with 6/36 vision in each eye, but was barred from flying when the eyesight standards were raised for night fighters. Instead he spent four years overhauling and test-running the Rolls-Royce Merlin engines of Spitfires and Hurricanes. His service number was 1587757.
 
@@ -72,6 +78,8 @@ Two years later, on leave, David painted a still life of plums on a patterned di
 ![The back of the still life: stained, foxed paper with a few lines of faint pencil handwriting near the top, signed David Silver. *The note on the reverse.*](images/DRS-Still-Life-1944-Reverse.jpg)
 
 ## Architect
+
+![David in middle age, in glasses, jacket and tie, smiling, outdoors in sunlight. *David in middle age, c. 1970s.*](images/DRS-1970s.jpg)
 
 After the war David trained at the RWA School of Architecture in Bristol on a grant, and met Anthea there. Both of them qualified as architects. He spent most of his career in the civil service. One of his projects was a very large London building for British Telecom. Its design famously outran its own technology. One floor was specified 16 feet high, with reinforced flooring, to carry the giant computers of the day. The building took so long to design that by the time it went up, the specially strengthened floor was no longer needed.
 
