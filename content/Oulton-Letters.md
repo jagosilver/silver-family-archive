@@ -14,7 +14,7 @@ This is the year he set out to become an architect. On the education officer's a
 
 He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by Norwich Cathedral. He finds his hut-mates talk only of "football, riveting, aeroplanes, and beer". He hitch-hikes back from leave through the night on petrol lorries and a milk lorry, "seated on a churn". He hunts Norwich for a birthday present for his mother and is defeated by a shop assistant with a green jug. He draws the coast at Treknow, where his parents are on holiday, to settle an argument about a headland. And he imagines what record he would ask for if he were posted overseas: a voice saying "This is Exeter, Exeter St David's, the train standing on No 1 platform is for Torquay, Newton Abbott and Plymouth."
 
-**About the transcription.** The letters are transcribed with David's own spelling and punctuation. ~~Struck text~~ shows his crossings-out, [?] a doubtful reading and [square brackets] describe drawings and layout. Page breaks appear as *(p. n)*. Most of the letters are dated from the events he mentions; the evidence is given in italics under each heading. One sheet is missing and two pages were damaged in scanning. A letter from RAF Cosford and two pages from his Bruton schooldays, which were filed with these, are given at the end. The scans for each letter are in the collapsible **Scans** box beneath it.
+**About the transcription.** The letters are transcribed with David's own spelling and punctuation. ~~Struck text~~ shows his crossings-out, [?] a doubtful reading and [square brackets] describe drawings and layout. Page breaks appear as *(p. n)*. Most of the letters are dated from the events he mentions; the evidence is given in italics under each heading. One sheet is missing and two pages were damaged in scanning. Two pages from his Bruton schooldays, filed with these, are given at the end; a Cosford letter filed here is on the [Cosford page](Cosford-Letters). The scans for each letter are in the collapsible **Scans** box beneath it.
 
 ---
 
@@ -838,56 +838,6 @@ Two scans of envelopes filed with the Oulton letters. Three are from Oulton, two
 > [!scan]- Scans (2)
 > ![Scan, envelope 1](images/Oulton-Letters-envelopes-envelope1.jpg)
 > ![Scan, envelope 2](images/Oulton-Letters-envelopes-envelope2.jpg)
-
-## A letter from RAF Cosford
-
-A letter from RAF Cosford, near Wolverhampton (an earlier posting, probably early 1944), filed among the Oulton scans. He has just come back from a 48-hour pass home; "48 hrs on March 4th" is noted at the head and the foot. It will move to its own page when the Cosford letters are transcribed.
-
-> *(p. 1)*
-> [Top left:] You Must Not let you know who IN. [?]
-> [Below:] 48 hrs on March 4th
-> [Top right:] Please address Kit's airgraph and post it next time you get a minute to do so. Cosford.
-> Tuesday
-> Dear Daddy & Mummy
-> I got back here in time by the last train from Wolverhampton.
-> I arrived at Bristol about a quarter of an hour late and not knowing which platform my train left from enquired of my old friends the R.T.O. there being no porters about.
-> Never again! must be my motto. There were two or three air force people all enquiring about trains to Cosford. I could scarcely believe my ears as I came in on hearing them told that they would not be able to reach Cosford until the next morning.
->
-> *(p. 2)*
-> They went out and just to make certain I asked again. They told me the same. The 6.55 for Birmingham would leave No 12 platform but there would be no train leaving for Cosford until morning. I began to experience a slight sinking feeling but determined to ask the railway officials. At the Booking Hall I was stopped by the R.A.F. service police. To my relief it was only to ask whether I was the chap they had told to go to No 14 platform because if so, it wasn't No 14 it was No 12. Poor chaps!
-> I patiently explained that I wasn't although it struck me the policeman looked as if he didn't believe me.
-> I asked if we were allowed to use the civilian enquiries office and I was [?] we are not.
->
-> *(p. 3)*
-> He became quite genial and directed me to it, asking me later whether I had found out all I wanted there.
-> The railway official was of the opinion that life was one big joke and the R.T.O had been invented to make him laugh. He informed me that I could reach Cosford by 12.35 a time I had never heard of before. I told him about the Exeter Enquiry Office and he looked it up again. This time he got a different result and mentioned the trains I already had in mind. Much relieved I caught the 6.55. It was nearly a near thing at B'ham as the other train was waiting.
->
-> *(p. 4)*
-> however after everybody in our train had panicked and rushed across the bridge to the other side and got into the train, it waited about ten minutes for the train I would have come on at 4.20. Whether or not this made its connection I don't know but anyway I was glad I had taken the early one as it eliminated a certain amount of nervous strain.
-> The train to Wolverhampton was very fast and I changed stations there and caught the next train to Cosford having forty minutes to catch it in.
-> Over and over again it was worth coming home. I am so glad I did and thank you very much Daddy for paying for the fare and also for the money.
->
-> *(p. 5)*
-> All the people in my hut were confident that I should not get the connections and that I should not have any time at home. They thought I was mad to go - but that's because they are all Scots. I ~~[struck]~~ think that the feeling about madness is mutual.
-> I keep thinking of it all and how lovely it was and being so pleased that I dare think about coming home again as it is not so far off. I still think it's four weeks Daddy, but I'll find out definitely before I post this letter.
->
-> *(p. 6)*
-> I bet you've noticed this crest isn't in the middle of the page by now Daddy! It's only a Naafi block.
-> Mummy, everything was lovely and I am enjoying thinking about the hot water bottle so don't be sorry about that as now I shall always remember that incident and the occasion will stand out in my memory because of it.
-> I shall have to cut that hedge again Boss. The soil here is light and strangely, red. James says it new sandstone or something and that Devon is clay on old sandstone.
-> I am on magnetos they are awful. I feel twice as good as I did before I went home, as if I'd had a lovely holiday, well I have really!
-> with love
-> your loving son
-> David.
-> [Bottom left:] 48 hrs on March 4th
-
-> [!scan]- Scans (6)
-> ![Scan, page 1](images/Oulton-Letters-a-letter-from-raf-cosford-p1.jpg)
-> ![Scan, page 2](images/Oulton-Letters-a-letter-from-raf-cosford-p2.jpg)
-> ![Scan, page 3](images/Oulton-Letters-a-letter-from-raf-cosford-p3.jpg)
-> ![Scan, page 4](images/Oulton-Letters-a-letter-from-raf-cosford-p4.jpg)
-> ![Scan, page 5](images/Oulton-Letters-a-letter-from-raf-cosford-p5.jpg)
-> ![Scan, page 6](images/Oulton-Letters-a-letter-from-raf-cosford-p6.jpg)
 
 ## Two pages from Bruton
 

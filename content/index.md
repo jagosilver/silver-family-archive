@@ -61,11 +61,11 @@ David Silver's letters home from King's School, Bruton, from a homesick thirteen
 
 ## Letters from the RAF
 
-**Letters home — 1944–1946**
+**Letters home — 1943–1947**
 
-David Silver's letters to his parents from four RAF stations. From [Little Horwood](Little-Horwood-Letters) he writes on D-Day, 6 June 1944: "the long awaited day has come". From [Oulton](Oulton-Letters), in Norfolk, come a year of cycling the lanes, hitch-hiking back from leave and starting a correspondence course in architecture. From [Oakington](Oakington-Letters), near Cambridge, come VJ Day, a comic Saturday in Cambridge and his first evening classes in building construction in 1945. From [Henlow](Henlow-Letters), in the first peacetime summer of 1946, come the Victory Parade on the newsreel, a watercolour of Stevenage and an application to London University.
+David Silver's letters to his parents from six RAF stations, from his first day in uniform to demob. At [Skegness](Skegness-Letters) he does his basic training and turns twenty ("I feel as if I stopped growing up when I left Bruton"). At [Cosford](Cosford-Letters) he trains as an engine mechanic and is told he must "LEARN TACT" before he can have a commission. From [Little Horwood](Little-Horwood-Letters) he writes on D-Day, 6 June 1944: "the long awaited day has come". At [Oulton](Oulton-Letters), in Norfolk, he begins a correspondence course in architecture. From [Oakington](Oakington-Letters), near Cambridge, come VJ Day and a comic Saturday in Cambridge. From [Henlow](Henlow-Letters), in the first peacetime summer of 1946, come the Victory Parade and an application to London University. And from [Wellesbourne Mountford](Wellesbourne-Letters), in July 1947, come *Oklahoma!* at Drury Lane and a walk to the Rollright Stones before demob.
 
-→ [Little Horwood (1944)](Little-Horwood-Letters) · [Oulton (1944–45)](Oulton-Letters) · [Oakington (1945–46)](Oakington-Letters) · [Henlow (1946)](Henlow-Letters)
+→ [Skegness (1943–44)](Skegness-Letters) · [Cosford (1944)](Cosford-Letters) · [Little Horwood (1944)](Little-Horwood-Letters) · [Oulton (1944–45)](Oulton-Letters) · [Oakington (1945–46)](Oakington-Letters) · [Henlow (1946)](Henlow-Letters) · [Wellesbourne Mountford (1947)](Wellesbourne-Letters)
 
 ---
 
