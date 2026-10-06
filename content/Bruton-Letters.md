@@ -365,8 +365,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* compare letter of Nov 1937 (scans 0–7): "Christopher wrote to me ... HUGE BOX OF CHOCOLATE BISCUITS" and "Please send me family addresses" — this note probably dates from the same weeks, Nov 1937.
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-05-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-05-p2.jpg)
+> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-06-p1.jpg)
+> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-06-p2.jpg)
 
 ## 1938
 
@@ -2266,8 +2266,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* "Juneero" — a 1930s metal-working construction kit.
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-45-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-45-p2.jpg)
+> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-46-p1.jpg)
+> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-46-p2.jpg)
 
 ## 1940
 
@@ -2368,10 +2368,10 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* Sunday 3 March 1940.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-48-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-48-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-48-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-48-p4.jpg)
+> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-49-p1.jpg)
+> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-49-p2.jpg)
+> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-49-p3.jpg)
+> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-49-p4.jpg)
 
 ### 50. Sunday 10 March 1940
 
