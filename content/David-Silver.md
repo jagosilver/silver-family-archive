@@ -38,6 +38,8 @@ He illustrated the job for his grandson in the margin of a letter:
 
 The only aircraft he ever flew in was a B-17 Flying Fortress, as a passenger, a few days after the war in Europe ended.
 
+His letters home from the RAF survive from three stations. At **Little Horwood**, near Bletchley, he wrote one on D-Day itself, finished at noon on 6 June 1944 as "the long awaited day has come" → [Letters from RAF Little Horwood (1944)](Little-Horwood-Letters). At **Oakington**, near Cambridge, his letters run from VJ Day to the winter of 1945, when he began evening classes in building construction → [Letters from RAF Oakington (1945–1946)](Oakington-Letters).
+
 In 1946, with the war over, he was a Leading Aircraftman on the engine fitters' course at RAF Henlow in Bedfordshire. In his letters home he files a vee-block to a thousandth of an inch, gardens outside his hut, paints Stevenage, and sends for a photograph to go with an application to London University. → [Letters from RAF Henlow (1946)](Henlow-Letters)
 
 ## Tresillian and the Exeter Blitz
