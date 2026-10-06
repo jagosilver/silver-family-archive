@@ -891,39 +891,7 @@ His Christmas letters have pen drawings of the Lincolnshire fens, and on **2 Jan
 > ![Scan, page 7](images/Skegness-Letters-letter-12-p7.jpg)
 > ![Scan, page 8](images/Skegness-Letters-letter-12-p8.jpg)
 
-### 13. c. Tuesday 21 December 1943: a birthday letter to his father
-
-*Undated, wishing his father many happy returns and promising to celebrate with Philip "between 7.30 and nine pm" (Philip's Thursday, 23 December, which the Christmas Day letter describes).*
-
-> *(p. 1)*
-> 1587757 Silver D.R.
-> No4 Section 23 Flight
-> E Squadron 3 Wing
-> 11.R.C. Skegness
-> Lincs.
-> Dear Daddy
-> Many Happy Returns of the day.
-> I am afraid your present is a bit odd but I hope quite useful. The nails are sizes we haven't got I think. The saw is for use on metal or wood and the diary which has a nice cover has I am sorry to say got rather creased in my kitbag.
-> I hope anyway you like the present. It isn't very easy to get anything decent for Christmas here.
-> I hope you have a nice birthday which I shall celebrate with Philip between 7.30 and nine pm.
-> Last week he was much more cheerful
->
-> *(p. 2)*
-> and far less tired and seemed more like his old self.
-> We looked at the engine and I tried to be appreciative. Then we went for a run or rather a race, 53 miles an hour in the blackout!
-> We had the same supper as last week very tough salt bacon and chips.
-> Phil put on his mock exasperated expression, half smile half frown and remarked to the waitress that it must be a big pig.
-> Well there'll be another letter on Christmas Day. I hope you like the present
-> With lots of love
-> your loving son
-> David.
-> (Philip) He's going to send the shelter pump after Christmas by rail. I am so sorry about your having to deal with that sump all alone.
-
-> [!scan]- Scans (2)
-> ![Scan, page 1](images/Skegness-Letters-letter-13-p1.jpg)
-> ![Scan, page 2](images/Skegness-Letters-letter-13-p2.jpg)
-
-### 14. Sunday 19 December 1943 (a Christmas letter)
+### 13. Sunday 19 December 1943 (a Christmas letter)
 
 *Headed only "Dear Daddy + Mummy … This is to wish you a Happy Christmas", written "almost a week before Christmas" on a Sunday; "Fancy me being twenty the Sunday after next" (2 January 1944).*
 
@@ -981,12 +949,44 @@ His Christmas letters have pen drawings of the Lincolnshire fens, and on **2 Jan
 *Notes:* With pen drawings: roof tops at dawn parade, a Lincolnshire landscape and a farm. Churchill was ill with pneumonia in Tunisia ("Poor old Winston"). Mrs Holladay had knitted him mittens.
 
 > [!scan]- Scans (6)
+> ![Scan, page 1](images/Skegness-Letters-letter-13-p1.jpg)
+> ![Scan, page 2](images/Skegness-Letters-letter-13-p2.jpg)
+> ![Scan, page 3](images/Skegness-Letters-letter-13-p3.jpg)
+> ![Scan, page 4](images/Skegness-Letters-letter-13-p4.jpg)
+> ![Scan, page 5](images/Skegness-Letters-letter-13-p5.jpg)
+> ![Scan, page 6](images/Skegness-Letters-letter-13-p6.jpg)
+
+### 14. c. Tuesday 21 December 1943: a birthday letter to his father
+
+*Undated, wishing his father many happy returns and promising to celebrate with Philip "between 7.30 and nine pm" (Philip's Thursday, 23 December, which the Christmas Day letter describes).*
+
+> *(p. 1)*
+> 1587757 Silver D.R.
+> No4 Section 23 Flight
+> E Squadron 3 Wing
+> 11.R.C. Skegness
+> Lincs.
+> Dear Daddy
+> Many Happy Returns of the day.
+> I am afraid your present is a bit odd but I hope quite useful. The nails are sizes we haven't got I think. The saw is for use on metal or wood and the diary which has a nice cover has I am sorry to say got rather creased in my kitbag.
+> I hope anyway you like the present. It isn't very easy to get anything decent for Christmas here.
+> I hope you have a nice birthday which I shall celebrate with Philip between 7.30 and nine pm.
+> Last week he was much more cheerful
+>
+> *(p. 2)*
+> and far less tired and seemed more like his old self.
+> We looked at the engine and I tried to be appreciative. Then we went for a run or rather a race, 53 miles an hour in the blackout!
+> We had the same supper as last week very tough salt bacon and chips.
+> Phil put on his mock exasperated expression, half smile half frown and remarked to the waitress that it must be a big pig.
+> Well there'll be another letter on Christmas Day. I hope you like the present
+> With lots of love
+> your loving son
+> David.
+> (Philip) He's going to send the shelter pump after Christmas by rail. I am so sorry about your having to deal with that sump all alone.
+
+> [!scan]- Scans (2)
 > ![Scan, page 1](images/Skegness-Letters-letter-14-p1.jpg)
 > ![Scan, page 2](images/Skegness-Letters-letter-14-p2.jpg)
-> ![Scan, page 3](images/Skegness-Letters-letter-14-p3.jpg)
-> ![Scan, page 4](images/Skegness-Letters-letter-14-p4.jpg)
-> ![Scan, page 5](images/Skegness-Letters-letter-14-p5.jpg)
-> ![Scan, page 6](images/Skegness-Letters-letter-14-p6.jpg)
 
 ### 15. Christmas Day 1943 – Sunday 26 December
 
