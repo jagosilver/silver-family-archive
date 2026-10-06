@@ -38,6 +38,8 @@ He illustrated the job for his grandson in the margin of a letter:
 
 The only aircraft he ever flew in was a B-17 Flying Fortress, as a passenger, a few days after the war in Europe ended.
 
+In 1946, with the war over, he was a Leading Aircraftman on the engine fitters' course at RAF Henlow in Bedfordshire. In his letters home he files a vee-block to a thousandth of an inch, gardens outside his hut, paints Stevenage, and sends for a photograph to go with an application to London University. → [Letters from RAF Henlow (1946)](Henlow-Letters)
+
 ## Tresillian and the Exeter Blitz
 
 David grew up at **Tresillian**, the family home in West Avenue, Exeter. It was an 1899 Arts & Crafts house, white roughcast with a red-tiled roof, by an architect David describes as *a contemporary of Voysey*. On the night of **3–4 May 1942**, during the Exeter Blitz, it was raked by cannon and machine-gun fire from German bombers. A barrier of sandbags under the garden porch and removable steel sheets over the windows saved his parents' lives. The house was uninhabitable for months. After the war he wrote that *"although the roof had been blown off my home and the walls terribly damaged it was all put right."*
