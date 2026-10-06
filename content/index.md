@@ -63,9 +63,9 @@ David Silver's letters home from King's School, Bruton, from a homesick thirteen
 
 **Letters home — 1944–1946**
 
-David Silver's letters to his parents from three RAF stations. From [Little Horwood](Little-Horwood-Letters) he writes on D-Day, 6 June 1944: "the long awaited day has come". From [Oakington](Oakington-Letters), near Cambridge, come VJ Day, a comic Saturday in Cambridge and his first evening classes in building construction in 1945. From [Henlow](Henlow-Letters), in the first peacetime summer of 1946, come the Victory Parade on the newsreel, a watercolour of Stevenage and an application to London University.
+David Silver's letters to his parents from four RAF stations. From [Little Horwood](Little-Horwood-Letters) he writes on D-Day, 6 June 1944: "the long awaited day has come". From [Oulton](Oulton-Letters), in Norfolk, come a year of cycling the lanes, hitch-hiking back from leave and starting a correspondence course in architecture. From [Oakington](Oakington-Letters), near Cambridge, come VJ Day, a comic Saturday in Cambridge and his first evening classes in building construction in 1945. From [Henlow](Henlow-Letters), in the first peacetime summer of 1946, come the Victory Parade on the newsreel, a watercolour of Stevenage and an application to London University.
 
-→ [Little Horwood (1944)](Little-Horwood-Letters) · [Oakington (1945–46)](Oakington-Letters) · [Henlow (1946)](Henlow-Letters)
+→ [Little Horwood (1944)](Little-Horwood-Letters) · [Oulton (1944–45)](Oulton-Letters) · [Oakington (1945–46)](Oakington-Letters) · [Henlow (1946)](Henlow-Letters)
 
 ---
 

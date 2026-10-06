@@ -14,7 +14,7 @@ In the first, back from a 48-hour pass, he cycles across London between trains f
 
 The second is a **D-Day letter**. He began it on the Monday evening, 5 June 1944, and stopped when the Tannoy called blackout time. He picked it up again at noon on Tuesday 6 June: "Now to-day I cannot continue with my original theme as the long awaited day has come." He tips a plate of custard over himself listening to the 12 o'clock news ("So much for world affairs"), expects the Germans to retaliate, and breaks off because "there is a noise from heaven like the droning of a thousand bees."
 
-**About the transcription.** The letters are transcribed with David's own spelling and punctuation. ~~Struck text~~ shows his crossings-out, [?] a doubtful reading and [square brackets] describe drawings and layout. Page breaks appear as *(p. n)*. The scans for each letter are in the collapsible **Scans** box beneath it. His other RAF letters are from [Oakington (1945–46)](Oakington-Letters) and [Henlow (1946)](Henlow-Letters).
+**About the transcription.** The letters are transcribed with David's own spelling and punctuation. ~~Struck text~~ shows his crossings-out, [?] a doubtful reading and [square brackets] describe drawings and layout. Page breaks appear as *(p. n)*. The scans for each letter are in the collapsible **Scans** box beneath it. His later RAF letters are from [Oulton (1944–45)](Oulton-Letters), [Oakington (1945–46)](Oakington-Letters) and [Henlow (1946)](Henlow-Letters).
 
 ---
 
