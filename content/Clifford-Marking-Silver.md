@@ -17,7 +17,20 @@ tags:
 
 ## The dental practice
 
-Clifford practised as a dentist at premises elsewhere in Exeter, separate from the family home. The surgery, like Tresillian, was damaged in the air raids of May 1942.
+Clifford practised as a dentist in **Bedford Circus**, in the centre of Exeter, separate from the family home. The surgery, like Tresillian, was damaged in the air raids of May 1942.
+
+### Bedford Circus
+
+Bedford Circus was one of the finest pieces of Georgian town planning in England: an ellipse of red-brick townhouses set round a private railed garden of mature trees, just off the High Street and a stone's throw from the cathedral. It stood on the site of Exeter's medieval Dominican friary, which after the Dissolution became Bedford House, the town house of the Russell family, later Dukes of Bedford.
+
+- **1773.** The builder Robert Stribling laid the first stone on 27 May 1773 and built a crescent of fourteen houses, facing the cathedral, over the remains of Bedford House. The workmen dug up medieval bones, lead coffins and pieces of the old friary church. The Russell coat of arms from Bedford House's porch was set into the new façade.
+- **1825–1832.** About fifty years later, T. Horrell completed the circus with a facing crescent of nine matching houses and a small neo-Classical chapel, finished in 1832. Each house had an arched doorway between columns, with a fanlight above, and white stone bands ran between the floors. The whole scheme was entered from the High Street by Bedford Street.
+- **4 May 1942.** In the Exeter Blitz, fire spread from the burning High Street into the Circus. Many houses were gutted, though their walls stood, and a few escaped with broken windows and lost slates.
+- **After the war.** The city council chose not to restore it. The shells and the surviving houses were demolished, the railings and trees removed and the street plan erased; the chapel walls lasted until 1949. The planner Thomas Sharp laid out Princesshay, said to be England's first pedestrian shopping precinct, on the site. It was rebuilt again in 2005–2007, and the historian W. G. Hoskins later called the demolition an act of vandalism.
+
+Since the whole Circus was cleared, Clifford's practice cannot have returned there. Where he practised after 1942 is not yet known.
+
+*Source: "[The Destruction of Bedford Circus](https://demolition-exeter.blogspot.com/2010/09/destruction-of-bedford-circus.html)", Demolition Exeter blog, 26 September 2010, which has period photographs of the Circus before and after the raid.*
 
 ## Tresillian
 
@@ -33,7 +46,7 @@ The garden was clearly a passion. Christopher's photographs show a carefully pla
 
 On the night of **3–4 May 1942**, in the Exeter Blitz, Tresillian was raked by cannon and machine-gun fire from German bombers. According to David, a barrier of sandbags under the porch and removable steel sheets over the windows saved his parents' lives. One cannon shell went right through the house and down the garden. The house was uninhabitable for months, and many houses on the opposite side of the road took direct hits.
 
-David, then at school at Bruton, wrote to his parents five days later: *"It is quite useless for me to try to say how glad I am you are safe, or how sorry I am that you had such a ghastly time… your extraordinary good fortune in being unhurt more than counterbalances the misfortune of losing the houses."* The "houses" were most likely the family home and the surgery, and he went on to ask, *"as regards the practice, will you retire Daddy? or what?"* He hoped, too, that his parents might retire to "a small house in the country". By 21 June 1942 they were back at Tresillian, and David hoped they would get a Morrison table-shelter. The house was later repaired; David painted it while waiting to join the RAF, and his watercolour and account of the raid are on [his page](David-Silver).
+David, then at school at Bruton, wrote to his parents five days later: *"It is quite useless for me to try to say how glad I am you are safe, or how sorry I am that you had such a ghastly time… your extraordinary good fortune in being unhurt more than counterbalances the misfortune of losing the houses."* The "houses" were most likely the family home and the surgery in Bedford Circus, and he went on to ask, *"as regards the practice, will you retire Daddy? or what?"* He hoped, too, that his parents might retire to "a small house in the country". By 21 June 1942 they were back at Tresillian, and David hoped they would get a Morrison table-shelter. The house was later repaired; David painted it while waiting to join the RAF, and his watercolour and account of the raid are on [his page](David-Silver).
 
 ## Clifford in his sons' letters
 
