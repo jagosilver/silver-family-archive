@@ -14,6 +14,8 @@ In the first he finds that "tea" at his digs is really supper, and that the draw
 
 From 1951 the letters are full of **Anthea Leigh**: reading Trollope together, dyeing a bridesmaid's dress in a tin bath, lying ill in a garden hut at Topsham. In November 1952 he sets out, carefully, how they could afford to marry on his grant; soon afterwards he wrote, "Anthea and I are going to be married at Christmas", and they married quietly at St David's, Exeter, at the end of that December. The later letters come from their attic flat in Vyvyan Terrace and include a drawing of the two of them on the motorbike under the Meteor jets at Filton, signed at last "D. & A."
 
+In a summer vacation, probably 1951, he also took the motorbike on a solo tour of France: [Letters from France (c. 1951)](France-Letters).
+
 **About the transcription.** The letters are transcribed with David's own spelling and punctuation. ~~Struck text~~ shows his crossings-out, [?] a doubtful reading and [square brackets] describe drawings and layout. Page breaks appear as *(p. n)*. Most letters are dated from postmarks and from what he says; the evidence is given in italics under each heading. House numbers have been left out. The scans for each letter are in the collapsible **Scans** box beneath it.
 
 ---

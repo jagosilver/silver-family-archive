@@ -75,6 +75,8 @@ David Silver's letters to his parents from eight RAF stations, from his first da
 
 Thirty-two letters from David Silver to his parents while he trained as an architect at the Bristol School of Architecture. He arrives at digs where "tea" turns out to be supper, finds that architecture is "all art from the word go", rides his motorbike home through the Whitsun traffic, and draws the Elizabethan stage at Bristol University. From 1951 the letters are full of Anthea Leigh, and in November 1952 he writes: "Anthea and I are going to be married at Christmas."
 
+In a summer vacation, probably 1951, he also rode his new motorbike alone around France, losing his customs papers on the first day and riding round the Arc de Triomphe "in all that mad hooting traffic" → [Letters from France (c. 1951)](France-Letters)
+
 ---
 
 ## [The Acott Letters](Acott-Letters)
