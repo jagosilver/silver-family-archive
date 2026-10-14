@@ -12,6 +12,8 @@ The last of [David Silver](David-Silver)'s RAF letters come from **RAF Wellesbou
 
 He spends his last weekends in London: Cotman's and De Wint's sketchbooks at the V&A, the Tate crowded with "men with velvet trousers and beards", Big Ben from his bed at the Westminster Y.M.C.A., and **Oklahoma!** at Drury Lane, which he describes for his mother's birthday down to the "Paul Nash clouds" of the backdrop. He takes a dancing lesson in a Stratford house "with a not very good wood Doric column porch" and writes it up like a play. And on his last Sunday before demob he walks with his brother Christopher to the Rollright Stones, where their picnic is "1 egg sandwich (squashed), ¾ lb cherries (also), ⅓ lb chocolates (ditto), two bottles of fizzy lemonade, no opener" against Christopher's six small sandwiches, cake, an orange, sixteen plums, red currants and two Mars bars.
 
+His letters continue three months later, from architecture school: [Letters from Bristol (1947–1953)](Bristol-Letters).
+
 **About the transcription.** The letters are transcribed with David's own spelling and punctuation. ~~Struck text~~ shows his crossings-out, [?] a doubtful reading and [square brackets] describe drawings and layout. Page breaks appear as *(p. n)*. The scans for each letter are in the collapsible **Scans** box beneath it. His RAF letters begin at [Skegness](Skegness-Letters) in 1943.
 
 ---
