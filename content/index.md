@@ -69,6 +69,14 @@ David Silver's letters to his parents from eight RAF stations, from his first da
 
 ---
 
+## [Grandpa's Second World War tape](WWII-Interview)
+
+**In his own voice — c. 1994**
+
+In about June 1994, at the age of seventy, David Silver answered his grandson Jago's school-project questions about the war on cassette. In 47 minutes he covers the Exeter Blitz (it "made my knees tremble"), his whole RAF career as an engine fitter, the V2s falling round Liverpool Street, a flight round Cologne Cathedral just after VE Day, and why the war made him a lifelong democrat: "This hasn't been history for me. For me this has been what happened; for you it's history." Listen to the whole tape or one question at a time, with a full transcript.
+
+---
+
 ## [Letters from Bristol](Bristol-Letters)
 
 **Architecture school and marriage — 1947–1953**
