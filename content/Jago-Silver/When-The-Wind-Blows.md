@@ -1,9 +1,11 @@
 ---
+aliases:
+  - When-The-Wind-Blows
 title: "When The Wind Blows — A Social and Contextual Analysis"
 description: "HACS essay by Jago Titcomb, BA (Hons) Illustration Year One, Falmouth College of Arts, 2001. A social and contextual analysis of Raymond Briggs' When The Wind Blows."
 ---
 
-*← [Silver Family Archive](./)*
+*← [Jago Silver](Jago-Silver/) · [Silver Family Archive](./)*
 
 A HACS (Historical, Analytical and Critical Studies) essay written by **Jago Silver** (then Jago Titcomb) during Year One of BA (Hons) Illustration at Falmouth College of Arts, 2000–2001.
 

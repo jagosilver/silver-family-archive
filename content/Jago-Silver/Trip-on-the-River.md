@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Trip-on-the-River
 title: "A Trip on the River"
 description: "Autobiographical essay by Jago Titcomb, written aged 15 at Wadebridge School in 1995 — an evening sailing on the River Exe at Topsham."
 tags:
@@ -6,9 +8,9 @@ tags:
   - topsham
 ---
 
-*← [Silver Family Archive](./)*
+*← [Jago Silver](Jago-Silver/) · [Silver Family Archive](./)*
 
-An autobiographical essay written by **Jago Silver** (then Jago Edward Titcomb) aged 15, during Year 10 at Wadebridge School, Summer Term 1995. It describes an evening sailing on the River Exe at [Topsham](Anthea-Silver) — the same town where his grandmother [Anthea Silver](Anthea-Silver) grew up and which she wrote about in *A Topsham Childhood*.
+An autobiographical essay written by **Jago Silver** (then Jago Edward Titcomb) aged 15, during Year 10 at Wadebridge School, Summer Term 1995. It describes an evening sailing on the River Exe at [Topsham](Anthea-Silver/) — the same town where his grandmother [Anthea Silver](Anthea-Silver/) grew up and which she wrote about in *A Topsham Childhood*.
 
 ---
 

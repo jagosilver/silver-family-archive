@@ -38,7 +38,23 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      // people in family order, then each folder's pages by the first year in their title
+      sortFn: (a, b) => {
+        const order = ["Clifford-Marking-Silver", "Gladys-Silver", "Christopher-Silver", "David-Silver",
+          "Anthea-Silver", "Jago-Silver", "Places", "Biography", "A-Topsham-Childhood",
+          "UK", "Cornwall", "Wales", "Ireland", "France", "People", "India", "Vietnam", "Canada", "USA", "Letters"]
+        // no named helpers here: the function is serialised, and esbuild would wrap them in __name()
+        const r = [a, b].map((n) => {
+          const i = order.indexOf(n.slugSegment)
+          if (i >= 0) return i - 1000
+          const m = n.displayName.match(/(1[6-9]\d\d|20\d\d)/)
+          return m ? parseInt(m[1]) : 9999
+        })
+        const d = r[0] - r[1]
+        return d !== 0 ? d : a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+      },
+    }),
   ],
   right: [
     Component.Graph(),
@@ -62,7 +78,23 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      // people in family order, then each folder's pages by the first year in their title
+      sortFn: (a, b) => {
+        const order = ["Clifford-Marking-Silver", "Gladys-Silver", "Christopher-Silver", "David-Silver",
+          "Anthea-Silver", "Jago-Silver", "Places", "Biography", "A-Topsham-Childhood",
+          "UK", "Cornwall", "Wales", "Ireland", "France", "People", "India", "Vietnam", "Canada", "USA", "Letters"]
+        // no named helpers here: the function is serialised, and esbuild would wrap them in __name()
+        const r = [a, b].map((n) => {
+          const i = order.indexOf(n.slugSegment)
+          if (i >= 0) return i - 1000
+          const m = n.displayName.match(/(1[6-9]\d\d|20\d\d)/)
+          return m ? parseInt(m[1]) : 9999
+        })
+        const d = r[0] - r[1]
+        return d !== 0 ? d : a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+      },
+    }),
   ],
   right: [],
 }

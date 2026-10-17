@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Wellesbourne-Letters
 title: "Letters from RAF Wellesbourne Mountford (1947)"
 description: "David Silver's last RAF letters, June–July 1947: Oklahoma! at Drury Lane, dancing lessons in Stratford, and a walk to the Rollright Stones before demob."
 tags:
@@ -6,9 +8,9 @@ tags:
   - letters
 ---
 
-*← [Silver Family Archive](./)*
+*← [Letters from the RAF](David-Silver/RAF-Letters/) · [David Silver](David-Silver/) · [Silver Family Archive](./)*
 
-The last of [David Silver](David-Silver)'s RAF letters come from **RAF Wellesbourne Mountford**, near Stratford-upon-Avon, in June and July 1947, as he counts down to his release on **9 July 1947**. They are to his parents at **Tresillian** in Exeter, a year after his [Henlow letters](Henlow-Letters).
+The last of [David Silver](David-Silver/)'s RAF letters come from **RAF Wellesbourne Mountford**, near Stratford-upon-Avon, in June and July 1947, as he counts down to his release on **9 July 1947**. They are to his parents at **Tresillian** in Exeter, a year after his [Henlow letters](Henlow-Letters).
 
 He spends his last weekends in London: Cotman's and De Wint's sketchbooks at the V&A, the Tate crowded with "men with velvet trousers and beards", Big Ben from his bed at the Westminster Y.M.C.A., and **Oklahoma!** at Drury Lane, which he describes for his mother's birthday down to the "Paul Nash clouds" of the backdrop. He takes a dancing lesson in a Stratford house "with a not very good wood Doric column porch" and writes it up like a play. And on his last Sunday before demob he walks with his brother Christopher to the Rollright Stones, where their picnic is "1 egg sandwich (squashed), ¾ lb cherries (also), ⅓ lb chocolates (ditto), two bottles of fizzy lemonade, no opener" against Christopher's six small sandwiches, cake, an orange, sixteen plums, red currants and two Mars bars.
 

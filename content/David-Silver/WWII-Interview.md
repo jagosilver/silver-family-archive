@@ -1,4 +1,6 @@
 ---
+aliases:
+  - WWII-Interview
 title: "Grandpa's Second World War tape (c. 1994)"
 description: "David Silver, aged 70, answers a grandchild's questions about the Second World War: the Exeter Blitz, his RAF career as an engine fitter, the bombing of Germany and why he believed in democracy."
 tags:
@@ -7,9 +9,9 @@ tags:
   - audio
 ---
 
-*← [Silver Family Archive](./)*
+*← [David Silver](David-Silver/) · [Silver Family Archive](./)*
 
-In about **June 1994**, at the age of seventy, [David Silver](David-Silver) sat down with a tape recorder and a list of questions about the Second World War from his grandson Jago, then fourteen, who needed them for a school project. He reads each question aloud and answers it, then goes on to the questions he thinks "I ought to have been asked". The tape begins at question 4, so his first three answers are lost, and it stops mid-thought where the side ran out.
+In about **June 1994**, at the age of seventy, [David Silver](David-Silver/) sat down with a tape recorder and a list of questions about the Second World War from his grandson Jago, then fourteen, who needed them for a school project. He reads each question aloud and answers it, then goes on to the questions he thinks "I ought to have been asked". The tape begins at question 4, so his first three answers are lost, and it stops mid-thought where the side ran out.
 
 He talks about the convoys and his brother Christopher's landings in North Africa and Italy, and the night in the **Exeter Blitz** when he was most frightened, when the bombing "made my knees tremble". He takes his whole RAF career in order, from the night-fighter medical that kept him on the ground to his work as an **engine fitter** on Fortresses, Mosquitoes, Liberators, Spitfires and Wellingtons. Along the way come train journeys through air raids, his kit bag ("I still have got mine. It's in the garage"), the Baedeker raids, and a flight **round Cologne Cathedral a few days after VE Day, about forty feet below the top of the spires**. He ends with why the war shaped the rest of his life: "This hasn't been history for me. For me this has been what happened; for you it's history."
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Dissertation
 title: "Authorship: is 'software art' challenging our accepted notions?"
 description: "BA Hons Illustration dissertation by Jago Titcomb, University College Falmouth, 2003. An examination of whether software art and digital media challenge established ideas about authorship and originality."
 ---

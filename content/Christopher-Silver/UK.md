@@ -8,13 +8,13 @@ tags:
 
 *← [Christopher Patrick Silver](../)*
 
-[Christopher Patrick Silver](Christopher-Silver) was born in Exeter, educated at King's School Bruton and Hertford College Oxford, and spent much of his career in London. His UK photographs span decades and range from intimate images of the family home in Exeter to grand architectural subjects — ruined abbeys, college buildings, cathedral towns — and chance documents of the wartime landscape. The Exeter photographs in particular carry a strong personal character; many were taken in and around the family home of his father, [Clifford Marking Silver](Clifford-Marking-Silver), the dentist.
+[Christopher Patrick Silver](Christopher-Silver) was born in Exeter, educated at King's School Bruton and Hertford College Oxford, and spent much of his career in London. His UK photographs span decades and range from intimate images of the family home in Exeter to grand architectural subjects — ruined abbeys, college buildings, cathedral towns — and chance documents of the wartime landscape. The Exeter photographs in particular carry a strong personal character; many were taken in and around the family home of his father, [Clifford Marking Silver](Clifford-Marking-Silver/), the dentist.
 
 ## Exeter
 
-CPS was born in Exeter on 21 April 1920. His father [Clifford Marking Silver](Clifford-Marking-Silver) practised as a dentist there. The large number of Exeter photographs (23 in total) suggests these were taken over many years and include extensive documentation of the family home and garden.
+CPS was born in Exeter on 21 April 1920. His father [Clifford Marking Silver](Clifford-Marking-Silver/) practised as a dentist there. The large number of Exeter photographs (23 in total) suggests these were taken over many years and include extensive documentation of the family home and garden.
 
-![The rear elevation of the Silver family home in Exeter — a substantial white-rendered Arts & Crafts house with a lean-to greenhouse, a vine-covered pergola, a garden bench, and a well-kept lawn. The greenhouse features in other photographs. This is Tresillian, the home of [Clifford Marking Silver](Clifford-Marking-Silver). It matches [David Silver](../David-Silver)'s own description and watercolour of the house.](../images/CPS-UK-Exeter-18.jpg)
+![The rear elevation of the Silver family home in Exeter — a substantial white-rendered Arts & Crafts house with a lean-to greenhouse, a vine-covered pergola, a garden bench, and a well-kept lawn. The greenhouse features in other photographs. This is Tresillian, the home of [Clifford Marking Silver](Clifford-Marking-Silver/). It matches [David Silver](David-Silver/)'s own description and watercolour of the house.](../images/CPS-UK-Exeter-18.jpg)
 
 ![A rockery in the family garden: primulas in full bloom nestled between rough stone slabs, with irises and other plants behind. The planting is deliberate and carefully composed — a well-loved garden.](../images/CPS-UK-Exeter-01.jpg)
 
@@ -114,4 +114,4 @@ CPS photographed the interior of a church in Suffolk in considerable detail — 
 - [Christopher Silver](Christopher-Silver) — main article
 - [Christopher Silver/Cornwall](Christopher-Silver/Cornwall) — Cornish coast photographs
 - [Christopher Silver/People](Christopher-Silver/People) — portraits and figures
-- [Clifford Marking Silver](Clifford-Marking-Silver) — CPS's father, based in Exeter
+- [Clifford Marking Silver](Clifford-Marking-Silver/) — CPS's father, based in Exeter

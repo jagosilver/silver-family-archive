@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Acott-Letters
 title: "The Acott Letters (1942)"
 description: "Two family-history letters written in 1942 by Edwin Acott to his niece Muriel — the Acotts of Oxford and the Bakers of Bampton, ancestors of Gladys Lucy Silver (née Acott)."
 tags:
@@ -6,11 +8,11 @@ tags:
   - letters
 ---
 
-*← [Silver Family Archive](./)*
+*← [Gladys Silver](Gladys-Silver/) · [Silver Family Archive](./)*
 
 In the summer of 1942, **Edwin Joseph Acott**, then eighty, wrote two long letters on family history from his home in Acton, west London. He had retired after forty-five years with the Great Western Railway. The letters went to his niece **Muriel**, daughter of his brother **Rupert Philip Acott** (1853–1941), a draper who had settled in **Exeter**. Muriel had asked where the family came from. Edwin answered with the **Bakers**, his mother's family of yeoman farmers at Bampton, Oxfordshire, on **16 June**. On **23 August** he followed with the **Acotts**: Edward Acott, an Oxford builder born in 1781; Edwin's father Charles Henry, a printer at the University Press; Edwin's twelve brothers and sisters; and his own life.
 
-The Acotts matter to this archive through **Gladys Lucy Acott**, who married the Exeter dentist [Clifford Marking Silver](Clifford-Marking-Silver). She was the mother of [David Silver](David-Silver) and [Christopher Patrick Silver](Christopher-Silver/). Neither letter names her, but the Exeter connection suggests she was another of Rupert's daughters, which would make Muriel her sister. That is not yet confirmed.
+The Acotts matter to this archive through **Gladys Lucy Acott**, who married the Exeter dentist [Clifford Marking Silver](Clifford-Marking-Silver/). She was the mother of [David Silver](David-Silver/) and [Christopher Patrick Silver](Christopher-Silver/). Neither letter names her, but the Exeter connection suggests she was another of Rupert's daughters, which would make Muriel her sister. That is not yet confirmed.
 
 The letters survive as scans in a folder labelled *"Peter's Letters"*, together with a typed family tree. Both letters are transcribed in full below, keeping Edwin's spellings, his ampersands and his underlining (shown here as **bold**). Original page numbers appear as *(p. n)*, and doubtful readings are marked [?].
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Oakington-Letters
 title: "Letters from RAF Oakington (1945–1946)"
 description: "David Silver's letters home from RAF Oakington near Cambridge, August 1945 to January 1946: VJ Day, a Saturday in Cambridge, and the first steps towards architecture."
 tags:
@@ -6,9 +8,9 @@ tags:
   - letters
 ---
 
-*← [Silver Family Archive](./)*
+*← [Letters from the RAF](David-Silver/RAF-Letters/) · [David Silver](David-Silver/) · [Silver Family Archive](./)*
 
-From the summer of 1945 [David Silver](David-Silver) was stationed at **RAF Oakington**, near Cambridge, as **AC Silver** of 4206 S.E. These six letters to his parents at **Tresillian** in Exeter run from the last days of the war to January 1946, between his [Little Horwood letters](Little-Horwood-Letters) of 1944 and his [Henlow letters](Henlow-Letters) of 1946.
+From the summer of 1945 [David Silver](David-Silver/) was stationed at **RAF Oakington**, near Cambridge, as **AC Silver** of 4206 S.E. These six letters to his parents at **Tresillian** in Exeter run from the last days of the war to January 1946, between his [Little Horwood letters](Little-Horwood-Letters) of 1944 and his [Henlow letters](Henlow-Letters) of 1946.
 
 On the night of **11 August 1945** he waits for the nine o'clock news, hoping "we don't accept Japan's peace feelers until they come right down off their high horse and let us do what we like unconditionally", and tells his parents that his brother Christopher "is not very far away by air. My work is very closely connected with where he is." Coming back from leave he cycles through blacked-out London past St Paul's, "standing very stately and silent in the darkness". He goes to a Harvest Festival at Great St Mary's, where the vicar seizes his hand: "Good Morning, My Boy". He watches a ginger cat stalk a water rat on the Backs. By December he has arranged **building-construction classes at the Cambridge Technical School** and is asking about a grant, the first steps towards the architecture that became his career.
 

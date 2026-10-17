@@ -7,6 +7,22 @@ description: "Photographs, memoir, archaeology, academic work and family papers 
 
 This archive brings together photographs, writings, academic work and historical documents from the Silver and Pyne families of Exeter, Topsham and Cornwall — spanning from Romano-British antiquity to the twenty-first century.
 
+
+## People
+
+Each person has a hub page with a short biography and every page about them, in date order.
+
+| | |
+| --- | --- |
+| [Clifford Marking Silver](Clifford-Marking-Silver/) | Exeter dentist, of Tresillian, West Avenue |
+| [Gladys Silver (née Acott)](Gladys-Silver/) | his wife, of the Acotts of Oxford |
+| [Christopher Patrick Silver](Christopher-Silver/) (1920–2012) | their son: geriatrician, soldier, photographer |
+| [David Silver](David-Silver/) (1924–2003) | their son: architect, RAF engine fitter, artist |
+| [Anthea Silver (née Leigh)](Anthea-Silver/) (1928–2009) | David's wife: architect, artist, memoirist of Topsham |
+| [Jago Silver](Jago-Silver/) | David and Anthea's grandson, compiler of this archive |
+
+Also: [Places & history](Places/), covering King's School, Bruton, and Roman Topsham.
+
 ---
 
 ## [Christopher Patrick Silver](Christopher-Silver/)
@@ -15,37 +31,37 @@ This archive brings together photographs, writings, academic work and historical
 
 Geriatrician, photographer, soldier. Christopher Patrick Silver was born in Exeter, served with the RAMC in North Africa, Italy and India, and spent his career caring for the elderly in the East End of London. He was a keen photographer throughout his life. His archive of 229 photographs — glass plates and Kodachrome slides — ranges from Exeter garden portraits in the 1930s to wartime India and a grand North American tour in 1961.
 
-→ [View the photography archive](Christopher-Silver/)
+→ [View the photography archive](Christopher-Silver/Biography#photography)
 
 ---
 
-## [Anthea Silver](Anthea-Silver)
+## [Anthea Silver](Anthea-Silver/)
 
 **1928 – 2009**
 
 Anthea Leigh grew up in Topsham, Devon. She married David Silver, Christopher's brother. In later life she wrote a memoir of her Topsham childhood, covering sixteen chapters of family life, wartime, the River Exe, and the streets and characters of a small Devon town between the wars.
 
-→ [Read *A Topsham Childhood*](Anthea-Silver)
+→ [Read *A Topsham Childhood*](A-Topsham-Childhood)
 
 ---
 
-## [David Silver](David-Silver)
+## [David Silver](David-Silver/)
 
 **1924 – 2003**
 
 Architect, RAF engine fitter and frustrated artist. Christopher's brother David trained at Exeter School of Art, spent four years of the war test-running Merlin engines in Spitfires and Hurricanes, then qualified as an architect in Bristol, where he met Anthea. His letters to his grandson, written from Wadebridge and full of pen sketches, cover the war, the history of words, Brittany and the Eden Project.
 
-→ [Read about David and his letters](David-Silver)
+→ [Read about David and his letters](David-Silver/)
 
 ---
 
-## [Clifford Marking Silver](Clifford-Marking-Silver)
+## [Clifford Marking Silver](Clifford-Marking-Silver/)
 
 **Exeter dentist — father of Christopher and David**
 
 Clifford and Gladys Silver (née Acott) brought up their six children at Tresillian, an Arts & Crafts house in West Avenue, Exeter, which was wrecked in the Exeter Blitz of May 1942 with them inside; his dental surgery elsewhere in the city was damaged too. A keen photographer and gardener, he shared both passions with his sons, whose letters home from school are full of cameras, films and plans for the garden.
 
-→ [Read about Clifford](Clifford-Marking-Silver)
+→ [Read about Clifford](Clifford-Marking-Silver/)
 
 ---
 
@@ -65,7 +81,7 @@ David Silver's letters home from King's School, Bruton, from a homesick thirteen
 
 David Silver's letters to his parents from eight RAF stations, from his first day in uniform to demob. At [Skegness](Skegness-Letters) he does his basic training and turns twenty ("I feel as if I stopped growing up when I left Bruton"). At [Cosford](Cosford-Letters) he trains as an engine mechanic and is told he must "LEARN TACT" before he can have a commission. From [Little Horwood](Little-Horwood-Letters) he writes on D-Day, 6 June 1944: "the long awaited day has come". At [Oulton](Oulton-Letters), in Norfolk, he begins a correspondence course in architecture. From [Oakington](Oakington-Letters), near Cambridge, come VJ Day and a comic Saturday in Cambridge. From [Henlow](Henlow-Letters), in the first peacetime summer of 1946, come the Victory Parade and an application to London University. From the [Isle of Man](Isle-of-Man-Letters), in the winter of 1946–47, come Wellingtons in the gales, the Manx electric railway and his plans for architecture. And from [Wellesbourne Mountford](Wellesbourne-Letters), in July 1947, come *Oklahoma!* at Drury Lane and a walk to the Rollright Stones before demob.
 
-→ [Skegness (1943–44)](Skegness-Letters) · [Cosford (1944)](Cosford-Letters) · [Little Horwood (1944)](Little-Horwood-Letters) · [Oulton (1944–45)](Oulton-Letters) · [Oakington (1945–46)](Oakington-Letters) · [Henlow (1946)](Henlow-Letters) · [Isle of Man (1946–47)](Isle-of-Man-Letters) · [Wellesbourne Mountford (1947)](Wellesbourne-Letters)
+→ [All the RAF letters](David-Silver/RAF-Letters/) · [Skegness (1943–44)](Skegness-Letters) · [Cosford (1944)](Cosford-Letters) · [Little Horwood (1944)](Little-Horwood-Letters) · [Oulton (1944–45)](Oulton-Letters) · [Oakington (1945–46)](Oakington-Letters) · [Henlow (1946)](Henlow-Letters) · [Isle of Man (1946–47)](Isle-of-Man-Letters) · [Wellesbourne Mountford (1947)](Wellesbourne-Letters)
 
 ---
 

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bristol-Letters
 title: "Letters from Bristol (1947–1953)"
 description: "David Silver's letters home while he trained as an architect in Bristol, 1947–53: lodgings, the School of Architecture, Anthea, and marriage."
 tags:
@@ -6,9 +8,9 @@ tags:
   - letters
 ---
 
-*← [Silver Family Archive](./)*
+*← [David Silver](David-Silver/) · [Silver Family Archive](./)*
 
-Three months after leaving the RAF, [David Silver](David-Silver) began training as an architect at the **Bristol School of Architecture** in Clifton. These thirty-two letters and notes to his parents in Exeter run from his first week in lodgings in October 1947 to August 1953, when he left Bristol, newly married, for his first job.
+Three months after leaving the RAF, [David Silver](David-Silver/) began training as an architect at the **Bristol School of Architecture** in Clifton. These thirty-two letters and notes to his parents in Exeter run from his first week in lodgings in October 1947 to August 1953, when he left Bristol, newly married, for his first job.
 
 In the first he finds that "tea" at his digs is really supper, and that the drawing board and adjustable set squares have left him broke. Within a month he decides that architecture is "the right job for me — its all art from the word go". He makes a balsa-wood model of an information bureau, designs terrace houses, and has a church design torn apart by the principal. He shares a flat with his friend Michael Eames and Eames's car "Jemima", and rides his motorbike "Susie" home through the Whitsun traffic.
 

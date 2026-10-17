@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Isle-of-Man-Letters
 title: "Letters from the Isle of Man (1946–1947)"
 description: "David Silver's letters home from RAF Andreas and RAF Jurby on the Isle of Man, July 1946 to March 1947: Wellingtons in the gales, the electric railway, and an application to London University."
 tags:
@@ -6,9 +8,9 @@ tags:
   - letters
 ---
 
-*← [Silver Family Archive](./)*
+*← [Letters from the RAF](David-Silver/RAF-Letters/) · [David Silver](David-Silver/) · [Silver Family Archive](./)*
 
-From [Henlow](Henlow-Letters), [David Silver](David-Silver) was posted in July 1946 to the **Isle of Man**, first to RAF Andreas and then to RAF Jurby, as an engine fitter, LAC 1587757. These eighteen letters to his parents at **Tresillian** in Exeter run through the island's long winter until March 1947, a few months before his last posting, to [Wellesbourne Mountford](Wellesbourne-Letters).
+From [Henlow](Henlow-Letters), [David Silver](David-Silver/) was posted in July 1946 to the **Isle of Man**, first to RAF Andreas and then to RAF Jurby, as an engine fitter, LAC 1587757. These eighteen letters to his parents at **Tresillian** in Exeter run through the island's long winter until March 1947, a few months before his last posting, to [Wellesbourne Mountford](Wellesbourne-Letters).
 
 He arrives on the brand-new *Mona's Queen*, falls asleep on a train of forty-year-old carriages pulled by a little green engine with a copper dome, and sends home a pen map of the island, which he finds "a sort of combination of Cornwall and Wales". He walks to the Point of Ayre, sketches at Peel and Port Mooar, and hunts the shops of Ramsey and Douglas for Christmas presents, finding only "trinkets brooches and trash". He hates the motorcycle races and thinks Andreas "the most inefficient unit I have ever been on". He works on derelict Wellingtons in the rain with the hangars pulled down around him, flies the five miles to Jurby in one ("much better" than a Fortress), and talks German with an anti-Nazi prisoner from Chemnitz. After seeing *School for Secrets*, a film about radar, he writes that it showed "all about the work I should have done if I hadn't been shoved onto the ground". All the while he is planning his escape into architecture: the application to London University, the prospectuses, the maths books, and the History of Architecture read by the E.V.T. room fire.
 

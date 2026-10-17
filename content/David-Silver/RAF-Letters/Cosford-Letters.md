@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Cosford-Letters
 title: "Letters from RAF Cosford (1944)"
 description: "David Silver's letters home from the engine fitters' course at RAF Cosford, January to May 1944."
 tags:
@@ -6,9 +8,9 @@ tags:
   - letters
 ---
 
-*← [Silver Family Archive](./)*
+*← [Letters from the RAF](David-Silver/RAF-Letters/) · [David Silver](David-Silver/) · [Silver Family Archive](./)*
 
-From [Skegness](Skegness-Letters), [David Silver](David-Silver) went in January 1944 to **RAF Cosford**, near Wolverhampton, for an eighteen-week course as a Flight Mechanic (Engines). These thirteen letters to his parents at **Tresillian** in Exeter cover the whole course.
+From [Skegness](Skegness-Letters), [David Silver](David-Silver/) went in January 1944 to **RAF Cosford**, near Wolverhampton, for an eighteen-week course as a Flight Mechanic (Engines). These thirteen letters to his parents at **Tresillian** in Exeter cover the whole course.
 
 He files steel plates to a thousandth of an inch, learns Whitworth threads, carburettors and magnetos, and admits "I should never make an engineer." He tries hard to escape: he applies to become a meteorologist, is turned down, and is told by his Wing Commanding Officer that he is too young for a commission and must "LEARN TACT". Around the course: an afternoon in Wolverhampton with a hut-mate who finds everything "too dear", visits to his brother James at the Oxford Group's house in Cheshire, the International Ballet, evening classes at the School of Art, a midnight stranded in Birmingham, and tea with a pilot officer whose mother would not let David move to another table. In March he predicts the invasion "within 3 days of April the 8th or May the 8th" from the moon, and in May he passes his final board. A few weeks later he wrote from [Little Horwood](Little-Horwood-Letters) on D-Day.
 

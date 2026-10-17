@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Henlow-Letters
 title: "Letters from RAF Henlow (1946)"
 description: "David Silver's letters home from RAF Henlow in 1946, training as an engine fitter after the war: the Victory Parade, Stevenage, Heffer's canvas boards and an application to London University."
 tags:
@@ -6,9 +8,9 @@ tags:
   - letters
 ---
 
-*← [Silver Family Archive](./)*
+*← [Letters from the RAF](David-Silver/RAF-Letters/) · [David Silver](David-Silver/) · [Silver Family Archive](./)*
 
-Four years after the last of [The Bruton Letters](Bruton-Letters), [David Silver](David-Silver) was writing home again, this time as **LAC Silver D.R.**, a Leading Aircraftman at **No. 14 School of Technical Training, RAF Henlow** in Bedfordshire, the RAF's school for engine fitters. These four letters from **1946** are to his parents, the Exeter dentist [Clifford Marking Silver](Clifford-Marking-Silver) and his wife Gladys, at **Tresillian** in West Avenue, Exeter, the house that had been wrecked in the Exeter Blitz four years earlier.
+Four years after the last of [The Bruton Letters](Bruton-Letters), [David Silver](David-Silver/) was writing home again, this time as **LAC Silver D.R.**, a Leading Aircraftman at **No. 14 School of Technical Training, RAF Henlow** in Bedfordshire, the RAF's school for engine fitters. These four letters from **1946** are to his parents, the Exeter dentist [Clifford Marking Silver](Clifford-Marking-Silver/) and his wife Gladys, at **Tresillian** in West Avenue, Exeter, the house that had been wrecked in the Exeter Blitz four years earlier.
 
 The war is over and the mood is peacetime. David files a vee-block to a thousandth of an inch, plants stonecrop and French marigolds outside his hut, and goes on drawing all the time: the train window, the plants on his handlebars, an American electric mixer from *Life* magazine. He watches the **Victory Parade** on the newsreel ("The Wrens and the army marched much the best. The Waaf looked awful So did the RAF. as usual."). He sends his mother a watercolour of **Stevenage**, just named the first New Town, which he thinks a "very good example of how unattractive ribbon development can be". He also collects his first canvas boards from Heffer's in Cambridge, "dying to try my hand at oils when I get home". And in a postscript he asks for a photograph to go with **an application to London University**, the first sign of the architecture training that became his career.
 

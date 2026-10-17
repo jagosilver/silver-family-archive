@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Oulton-Letters
 title: "Letters from RAF Oulton (1944–1945)"
 description: "David Silver's letters home from RAF Oulton in Norfolk, June 1944 to April 1945: the year he set out to become an architect, written from a Flying Fortress training station."
 tags:
@@ -6,9 +8,9 @@ tags:
   - letters
 ---
 
-*← [Silver Family Archive](./)*
+*← [Letters from the RAF](David-Silver/RAF-Letters/) · [David Silver](David-Silver/) · [Silver Family Archive](./)*
 
-A week after D-Day, [David Silver](David-Silver) arrived at **RAF Oulton**, near Aylsham in Norfolk, as **AC2 Silver** of 1699 Flight, a unit that trained crews on the B-17 Flying Fortress. These thirteen letters to his parents at **Tresillian** in Exeter run from June 1944 to Easter 1945, between his [Little Horwood letters](Little-Horwood-Letters) and his [Oakington letters](Oakington-Letters).
+A week after D-Day, [David Silver](David-Silver/) arrived at **RAF Oulton**, near Aylsham in Norfolk, as **AC2 Silver** of 1699 Flight, a unit that trained crews on the B-17 Flying Fortress. These thirteen letters to his parents at **Tresillian** in Exeter run from June 1944 to Easter 1945, between his [Little Horwood letters](Little-Horwood-Letters) and his [Oakington letters](Oakington-Letters).
 
 This is the year he set out to become an architect. On the education officer's advice he writes to the R.I.B.A. In August a **War Office correspondence course in the History of Architecture** comes through, with a Cambridge lecturer as his tutor, and through the autumn and winter he buys a drawing board and T-square in Norwich, draws Egyptian temples in a borrowed office in the evenings, and wishes he had more time: "it would take me a year to do a couple of months work at peace time speed." By day he sits "in the mud on a tin can under a tarpaulin", hates being an AC2, and longs for a commission in meteorology.
 

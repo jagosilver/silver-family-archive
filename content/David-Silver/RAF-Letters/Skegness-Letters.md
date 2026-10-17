@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Skegness-Letters
 title: "Letters from RAF Skegness (1943–1944)"
 description: "David Silver's first RAF letters, from basic training at Skegness, October 1943 to his twentieth birthday on 2 January 1944."
 tags:
@@ -6,9 +8,9 @@ tags:
   - letters
 ---
 
-*← [Silver Family Archive](./)*
+*← [Letters from the RAF](David-Silver/RAF-Letters/) · [David Silver](David-Silver/) · [Silver Family Archive](./)*
 
-In October 1943 [David Silver](David-Silver), nineteen, arrived at **No. 11 Recruit Centre, RAF Skegness**, as **AC2 Silver**, for eight weeks of basic training in a seaside town whose hotels and boarding houses had become billets. These are the earliest of his RAF letters home to his parents at **Tresillian** in Exeter.
+In October 1943 [David Silver](David-Silver/), nineteen, arrived at **No. 11 Recruit Centre, RAF Skegness**, as **AC2 Silver**, for eight weeks of basic training in a seaside town whose hotels and boarding houses had become billets. These are the earliest of his RAF letters home to his parents at **Tresillian** in Exeter.
 
 He is up at 5.25 and drilled until he is "one big ache all over". He polishes the back of his cap badge twice a day and scrubs floors "with a scrubbing brush with no bristles no hot water no soap and a leaky bucket". He throws a live grenade, fires a Sten gun, and has to crawl across a rope over the ornamental lake. A fever puts him in hospital, and for weeks he is moved "from pillar to post", back to the start of his training and from flight to flight. He finds almost no one to talk to: "I met somebody the other day who spoke and was literate, it was quite a treat." The bright spot is his brother Philip, a doctor holding a clinic in the town every Thursday, with fried plaice and "two milds please".
 

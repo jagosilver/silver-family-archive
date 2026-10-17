@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Kings-School-Bruton
 title: "King's School, Bruton"
 description: "The Somerset school where Christopher and David Silver boarded in the 1930s and early 1940s, and the boys David knew who are named on its Second World War memorial."
 tags:
@@ -6,11 +8,11 @@ tags:
   - places
 ---
 
-*← [Silver Family Archive](./)*
+*← [Places & history](Places/) · [Silver Family Archive](./)*
 
 **King's School, Bruton** (today **King's Bruton**) is a boarding school in Bruton, Somerset, founded in **1519** by Richard FitzJames, Bishop of London, with his nephew Sir John FitzJames and Dr John Edmondes, and refounded by **Edward VI in 1550**, which is where "King's" comes from. Its motto is *Deo Juvante* ("with God's help") and its emblem a dolphin, taken from the FitzJames coat of arms. Its magazine is *The Dolphin*.
 
-[Christopher Silver](Christopher-Silver/) ("Kit") boarded there until 1938, and his younger brother [David Silver](David-Silver) from September 1937 to June 1942, both in **New House**. In 1936, during Christopher's time, a rare 1297 copy of **Magna Carta** was found in the school's archives. During and after the war the school grew from about 100 boys to over 250. David's letters home from these years are transcribed in full in **[The Bruton Letters (1937–1942)](Bruton-Letters)**.
+[Christopher Silver](Christopher-Silver/) ("Kit") boarded there until 1938, and his younger brother [David Silver](David-Silver/) from September 1937 to June 1942, both in **New House**. In 1936, during Christopher's time, a rare 1297 copy of **Magna Carta** was found in the school's archives. During and after the war the school grew from about 100 boys to over 250. David's letters home from these years are transcribed in full in **[The Bruton Letters (1937–1942)](Bruton-Letters)**.
 
 ## On the school war memorial
 

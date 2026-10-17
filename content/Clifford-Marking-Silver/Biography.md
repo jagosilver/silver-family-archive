@@ -1,19 +1,19 @@
 ---
-title: "Clifford Marking Silver"
+title: "Clifford Marking Silver: biography"
 description: "Clifford Marking Silver — Exeter dentist, father of Christopher and David Silver, of Tresillian, West Avenue, Exeter."
 tags:
   - family
   - people
 ---
 
-*← [Silver Family Archive](./)*
+*← [Clifford Marking Silver](Clifford-Marking-Silver/) · [Silver Family Archive](./)*
 
-**Clifford Marking Silver** was a dentist in Exeter. With his wife **Gladys Lucy Silver (née Acott)** he brought up six children at **Tresillian**, a large Arts & Crafts house in West Avenue, Exeter. He was the father of the geriatrician and photographer [Christopher Patrick Silver](Christopher-Silver/) and of the architect [David Silver](David-Silver), Jago Silver's maternal grandfather, which makes Clifford Jago's great-grandfather. Clifford and Gladys were both born in or around Exeter.
+**Clifford Marking Silver** was a dentist in Exeter. With his wife **Gladys Lucy Silver (née Acott)** he brought up six children at **Tresillian**, a large Arts & Crafts house in West Avenue, Exeter. He was the father of the geriatrician and photographer [Christopher Patrick Silver](Christopher-Silver/) and of the architect [David Silver](David-Silver/), Jago Silver's maternal grandfather, which makes Clifford Jago's great-grandfather. Clifford and Gladys were both born in or around Exeter.
 
 ## Family
 
 - **Wife:** Gladys Lucy Silver (née Acott), of an Oxford family of builders and printers, one branch of which settled in Exeter. Her family's history is told in [The Acott Letters](Acott-Letters), written in 1942 by Edwin Acott to his niece Muriel; Gladys was most likely Muriel's sister, though that is not yet confirmed. Her birthday was 23 June: David wrote to wish her "Many happy returns" from school (in c. 1939 and 1942).
-- **Children:** James Clifford, Lavender Charlotte, Philip Sidney, [Christopher Patrick](Christopher-Silver/) (21 April 1920 – 12 November 2012), [David Rodney](David-Silver) (2 January 1924 – 19 April 2003) and Rosemary.
+- **Children:** James Clifford, Lavender Charlotte, Philip Sidney, [Christopher Patrick](Christopher-Silver/) (21 April 1920 – 12 November 2012), [David Rodney](David-Silver/) (2 January 1924 – 19 April 2003) and Rosemary.
 
 ## The dental practice
 
@@ -46,7 +46,7 @@ The garden was clearly a passion. Christopher's photographs show a carefully pla
 
 On the night of **3–4 May 1942**, in the Exeter Blitz, Tresillian was raked by cannon and machine-gun fire from German bombers. According to David, a barrier of sandbags under the porch and removable steel sheets over the windows saved his parents' lives. One cannon shell went right through the house and down the garden. The house was uninhabitable for months, and many houses on the opposite side of the road took direct hits.
 
-David, then at school at Bruton, wrote to his parents five days later: *"It is quite useless for me to try to say how glad I am you are safe, or how sorry I am that you had such a ghastly time… your extraordinary good fortune in being unhurt more than counterbalances the misfortune of losing the houses."* The "houses" were most likely the family home and the surgery in Bedford Circus, and he went on to ask, *"as regards the practice, will you retire Daddy? or what?"* He hoped, too, that his parents might retire to "a small house in the country". By 21 June 1942 they were back at Tresillian, and David hoped they would get a Morrison table-shelter. The house was later repaired; David painted it while waiting to join the RAF, and his watercolour and account of the raid are on [his page](David-Silver).
+David, then at school at Bruton, wrote to his parents five days later: *"It is quite useless for me to try to say how glad I am you are safe, or how sorry I am that you had such a ghastly time… your extraordinary good fortune in being unhurt more than counterbalances the misfortune of losing the houses."* The "houses" were most likely the family home and the surgery in Bedford Circus, and he went on to ask, *"as regards the practice, will you retire Daddy? or what?"* He hoped, too, that his parents might retire to "a small house in the country". By 21 June 1942 they were back at Tresillian, and David hoped they would get a Morrison table-shelter. The house was later repaired; David painted it while waiting to join the RAF, and his watercolour and account of the raid are on [his page](David-Silver/).
 
 ## Clifford in his sons' letters
 
@@ -57,8 +57,8 @@ Clifford appears throughout the letters Christopher and David sent home from **K
 - **Health.** Several letters hope "Daddy" is better after illness, and in 1941 David mentions sharing his father's "liverish turns, when I can't see anything".
 - **Holidays.** In 1936 Christopher urged his parents not to put off a holiday on his account, and around November 1937 they stayed at Percival's Hotel, West Worthing.
 
-The letters themselves are transcribed in full: Christopher's of 1936 on [his page](Christopher-Silver/#bruton-1936), and David's of 1937–1942 as [The Bruton Letters](Bruton-Letters).
+The letters themselves are transcribed in full: Christopher's of 1936 on [his page](Christopher-Silver/Biography#bruton-1936), and David's of 1937–1942 as [The Bruton Letters](Bruton-Letters).
 
 ---
 
-*← [Silver Family Archive](./) · [Christopher Patrick Silver](Christopher-Silver/) · [David Silver](David-Silver) · [The Acott Letters](Acott-Letters) · [The Bruton Letters](Bruton-Letters)*
+*← [Silver Family Archive](./) · [Christopher Patrick Silver](Christopher-Silver/) · [David Silver](David-Silver/) · [The Acott Letters](Acott-Letters) · [The Bruton Letters](Bruton-Letters)*

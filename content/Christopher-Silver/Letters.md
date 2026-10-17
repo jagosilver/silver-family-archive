@@ -9,7 +9,7 @@ tags:
 
 *← [Christopher Patrick Silver](../)*
 
-These are letters and postcards from **Christopher Silver ("Uncle Christopher")** to his great-nephew **Jago** (then Jago Titcomb), written between 1998 and 2006. Christopher was the brother of Jago's grandfather [David Silver](../David-Silver). By then he was a retired geriatrician, a keen photographer and, in his last years, the historian of Brunel's Renkioi Hospital. He wrote from his home on Primrose Hill in London. His letters were typed and signed by hand, always just "Christopher".
+These are letters and postcards from **Christopher Silver ("Uncle Christopher")** to his great-nephew **Jago** (then Jago Titcomb), written between 1998 and 2006. Christopher was the brother of Jago's grandfather [David Silver](David-Silver/). By then he was a retired geriatrician, a keen photographer and, in his last years, the historian of Brunel's Renkioi Hospital. He wrote from his home on Primrose Hill in London. His letters were typed and signed by hand, always just "Christopher".
 
 Two threads run through them. The first is **photography**: Christopher had given the teenage Jago his old Exacta camera, and coached him by post. The second, in 2000, is the **Renkioi Hospital book**, for which Jago made a digital photo-montage. Each letter is transcribed below, with Christopher's own spellings and emphasis, followed by a scan of the original. Address labels have been blanked out of the scans.
 
@@ -105,5 +105,5 @@ Two threads run through them. The first is **photography**: Christopher had give
 ## See also
 
 - [Christopher Patrick Silver](../) — biography and photography archive
-- [David Silver](../David-Silver) — Christopher's brother, and his letters to Jago
-- [Anthea Silver](../Anthea-Silver)
+- [David Silver](David-Silver/) — Christopher's brother, and his letters to Jago
+- [Anthea Silver](Anthea-Silver/)

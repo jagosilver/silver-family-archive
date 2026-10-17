@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Little-Horwood-Letters
 title: "Letters from RAF Little Horwood (1944)"
 description: "David Silver's letters home from RAF Little Horwood near Bletchley in May–June 1944, including one written on D-Day."
 tags:
@@ -6,9 +8,9 @@ tags:
   - letters
 ---
 
-*← [Silver Family Archive](./)*
+*← [Letters from the RAF](David-Silver/RAF-Letters/) · [David Silver](David-Silver/) · [Silver Family Archive](./)*
 
-Two years after leaving [Bruton](Bruton-Letters), [David Silver](David-Silver) was **AC2 Silver D.R.**, an Aircraftman with the **Servicing Flight at RAF Little Horwood**, near Bletchley in Buckinghamshire. These are the earliest of his RAF letters to survive, both written to his parents at **Tresillian** in Exeter in the weeks before and on the day of the Normandy landings.
+Two years after leaving [Bruton](Bruton-Letters), [David Silver](David-Silver/) was **AC2 Silver D.R.**, an Aircraftman with the **Servicing Flight at RAF Little Horwood**, near Bletchley in Buckinghamshire. These are the earliest of his RAF letters to survive, both written to his parents at **Tresillian** in Exeter in the weeks before and on the day of the Normandy landings.
 
 In the first, back from a 48-hour pass, he cycles across London between trains for the first time: Waterloo Bridge, the Strand, Trafalgar Square ("my old shipmate"), and Westminster Bridge, where Big Ben strikes six "with its BBC voice. I wondered whether you were at that moment listening to it down in Exeter." Then he finds that all 48-hour passes have been cancelled, "so no more flying visits I fear till after Hitler's fall".
 

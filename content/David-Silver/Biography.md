@@ -1,14 +1,14 @@
 ---
-title: "David Silver"
+title: "David Silver: biography"
 description: "David Rodney Silver (1924–2003) — architect, RAF engine fitter and frustrated artist, in his own words and pen sketches."
 tags:
   - family
   - letters
 ---
 
-*← [Silver Family Archive](./)*
+*← [David Silver](David-Silver/) · [Silver Family Archive](./)*
 
-**David Rodney Silver** (2 January 1924 – 19 April 2003) was an architect, a wartime RAF engine fitter, and, by his grandson's account, a frustrated artist. He was one of the six children of [Clifford Marking Silver](Clifford-Marking-Silver), a dentist in Exeter, and Gladys Lucy Acott (see [The Acott Letters](Acott-Letters)). His siblings were James, Lavender, Philip, [Christopher Patrick](Christopher-Silver/) and Rosemary. He married [Anthea Leigh](Anthea-Silver), whom he met at architecture school in Bristol, and they had three daughters, Tamsin, Bridget and Candy. He was Jago Silver's maternal grandfather, known to the family simply as **Grandpa**.
+**David Rodney Silver** (2 January 1924 – 19 April 2003) was an architect, a wartime RAF engine fitter, and, by his grandson's account, a frustrated artist. He was one of the six children of [Clifford Marking Silver](Clifford-Marking-Silver/), a dentist in Exeter, and Gladys Lucy Acott (see [The Acott Letters](Acott-Letters)). His siblings were James, Lavender, Philip, [Christopher Patrick](Christopher-Silver/) and Rosemary. He married [Anthea Leigh](Anthea-Silver/), whom he met at architecture school in Bristol, and they had three daughters, Tamsin, Bridget and Candy. He was Jago Silver's maternal grandfather, known to the family simply as **Grandpa**.
 
 ![David Silver in later life, photographed in the garden at Wadebridge — white hair, wire-rimmed glasses, a cardigan over a blue shirt, a blue garden bench behind. *David Silver, "Grandpa".*](images/DRS-Grandpa.jpg)
 
@@ -42,13 +42,13 @@ His letters home from the RAF survive from basic training to demob. At **Skegnes
 
 In about June 1994, aged seventy, he recorded his own account of the war for his grandson Jago's school project: the convoys, the Exeter Blitz, every RAF posting from Penarth and Cardington to demob, train journeys through air raids and the V2s at Liverpool Street, and why it left him believing above all in democracy. The tape and a full transcript, with a player for each question → [Grandpa's Second World War tape (c. 1994)](WWII-Interview).
 
-Three months later he started the five-year course at the **Bristol School of Architecture**. His letters from Bristol follow him from lodgings in Clifton to a shared flat and his courtship of **[Anthea Leigh](Anthea-Silver)**, a fellow student, ill for much of it with TB. They married quietly at St David's, Exeter, at the end of December 1952, lived in an attic flat in Clifton, and left Bristol in August 1953 for his first job → [Letters from Bristol (1947–1953)](Bristol-Letters). In a summer vacation, probably 1951, he toured France alone on his new motorbike → [Letters from France (c. 1951)](France-Letters).
+Three months later he started the five-year course at the **Bristol School of Architecture**. His letters from Bristol follow him from lodgings in Clifton to a shared flat and his courtship of **[Anthea Leigh](Anthea-Silver/)**, a fellow student, ill for much of it with TB. They married quietly at St David's, Exeter, at the end of December 1952, lived in an attic flat in Clifton, and left Bristol in August 1953 for his first job → [Letters from Bristol (1947–1953)](Bristol-Letters). In a summer vacation, probably 1951, he toured France alone on his new motorbike → [Letters from France (c. 1951)](France-Letters).
 
 In 1946, with the war over, he was a Leading Aircraftman on the engine fitters' course at RAF Henlow in Bedfordshire. In his letters home he files a vee-block to a thousandth of an inch, gardens outside his hut, paints Stevenage, and sends for a photograph to go with an application to London University. → [Letters from RAF Henlow (1946)](Henlow-Letters)
 
 ## Tresillian and the Exeter Blitz
 
-David grew up at **Tresillian**, the family home in West Avenue, Exeter. It was an 1899 Arts & Crafts house, white roughcast with a red-tiled roof, by an architect David describes as *a contemporary of Voysey*. On the night of **3–4 May 1942**, during the Exeter Blitz, it was raked by cannon and machine-gun fire from German bombers. A barrier of sandbags under the garden porch and removable steel sheets over the windows saved his parents' lives. The house was uninhabitable for months, and his father's dental surgery in [Bedford Circus](Clifford-Marking-Silver#bedford-circus), the Georgian circus off the High Street, was damaged in the same raid. The Circus was later demolished altogether. After the war he wrote that *"although the roof had been blown off my home and the walls terribly damaged it was all put right."*
+David grew up at **Tresillian**, the family home in West Avenue, Exeter. It was an 1899 Arts & Crafts house, white roughcast with a red-tiled roof, by an architect David describes as *a contemporary of Voysey*. On the night of **3–4 May 1942**, during the Exeter Blitz, it was raked by cannon and machine-gun fire from German bombers. A barrier of sandbags under the garden porch and removable steel sheets over the windows saved his parents' lives. The house was uninhabitable for months, and his father's dental surgery in [Bedford Circus](Clifford-Marking-Silver/Biography#bedford-circus), the Georgian circus off the High Street, was damaged in the same raid. The Circus was later demolished altogether. After the war he wrote that *"although the roof had been blown off my home and the walls terribly damaged it was all put right."*
 
 While waiting to join the RAF the following summer, David painted the bomb-damaged garden side of the house. It shows the vine-covered porch on its heavy timber posts, the greenhouse, and windows covered with cotton fabric in place of glass. He called it *"this very poor sketch."* His brother Christopher had photographed the same garden front before the war (see [UK photographs](Christopher-Silver/UK)).
 

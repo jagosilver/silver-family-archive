@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Denver-Excavation
 title: "Romano-British Antiquities Found at Topsham"
 description: "An archaeological report on Romano-British finds from Park Field, Topsham — the site of Denver Nurseries, the Pyne family home."
 tags:
@@ -7,7 +9,7 @@ tags:
   - archaeology
 ---
 
-*← [Silver Family Archive](./) · [A Topsham Childhood](Anthea-Silver)*
+*← [Silver Family Archive](./) · [A Topsham Childhood](Anthea-Silver/)*
 
 # Romano-British Antiquities Found at Topsham
 
@@ -19,7 +21,7 @@ The site known as **Park Field** — by the Exeter Road, opposite Mr Pyne's Nurs
 
 This report, published by L. A. D. Montague, catalogues pottery, bronze, stone, coins and glass recovered from the site — evidence that Topsham was a significant Romano-British settlement, likely connected to the Roman port and the nearby legionary fortress at Exeter (Isca Dumnoniorum).
 
-For Anthea's own memories of Denver House and Denver Nurseries, see [Chapter 6 of *A Topsham Childhood*](Anthea-Silver#chapter-6-denver-house-and-denver-nurseries).
+For Anthea's own memories of Denver House and Denver Nurseries, see [Chapter 6 of *A Topsham Childhood*](Anthea-Silver/A-Topsham-Childhood#chapter-6-denver-house-and-denver-nurseries).
 
 ---
 

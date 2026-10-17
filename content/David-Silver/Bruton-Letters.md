@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bruton-Letters
 title: "The Bruton Letters (1937–1942)"
 description: "David Silver's letters home from King's School, Bruton, 1937 to 1942, aged 13 to 18 — through the coming of the Second World War to the Exeter Blitz."
 tags:
@@ -6,9 +8,9 @@ tags:
   - letters
 ---
 
-*← [Silver Family Archive](./)*
+*← [David Silver](David-Silver/) · [Silver Family Archive](./)*
 
-These are the letters [David Silver](David-Silver) wrote home from boarding school at **[King's School, Bruton](Kings-School-Bruton)**, in Somerset, between **September 1937**, when he arrived aged thirteen, and **June 1942**, when he was eighteen and waiting to join the RAF. His elder brother [Christopher ("Kit")](Christopher-Silver/) had been at the school before him; Christopher's own letter home of May 1936 is on [his page](Christopher-Silver/#bruton-1936). Nearly all of David's letters are addressed to "Daddy and Mummy", the Exeter dentist [Clifford Marking Silver](Clifford-Marking-Silver) and his wife Gladys (née Acott, see [The Acott Letters](Acott-Letters)), at **Tresillian**, the family home in West Avenue, Exeter.
+These are the letters [David Silver](David-Silver/) wrote home from boarding school at **[King's School, Bruton](Kings-School-Bruton)**, in Somerset, between **September 1937**, when he arrived aged thirteen, and **June 1942**, when he was eighteen and waiting to join the RAF. His elder brother [Christopher ("Kit")](Christopher-Silver/) had been at the school before him; Christopher's own letter home of May 1936 is on [his page](Christopher-Silver/Biography#bruton-1936). Nearly all of David's letters are addressed to "Daddy and Mummy", the Exeter dentist [Clifford Marking Silver](Clifford-Marking-Silver/) and his wife Gladys (née Acott, see [The Acott Letters](Acott-Letters)), at **Tresillian**, the family home in West Avenue, Exeter.
 
 They begin with a homesick new boy counting the days to the next "Sunday leave", drawing his locker and asking for toothpaste, cornflakes and an episcope for Christmas. They run straight through the coming of the war: school debates after Munich, the first wartime term with gas masks, blackout and evacuees, the sinking of the *Royal Oak*, the fall of France, German bombers passing over towards Bristol on the night of the Coventry raid. By the end David is head of his house and of the school's Air Training Corps, sitting an RAF aircrew selection board in Oxford, and, five days after the **Exeter Blitz** of 3–4 May 1942 wrecked Tresillian, writing to his parents that "your extraordinary good fortune in being unhurt more than counterbalances the misfortune of losing the houses." In the same letter he tells them he is to be "the second person in a two seater night-fighter", working the radar.
 
@@ -3203,4 +3205,4 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 
 ---
 
-*← [Silver Family Archive](./) · [David Silver](David-Silver) · [Christopher Patrick Silver](Christopher-Silver/) · [The Acott Letters](Acott-Letters)*
+*← [Silver Family Archive](./) · [David Silver](David-Silver/) · [Christopher Patrick Silver](Christopher-Silver/) · [The Acott Letters](Acott-Letters)*

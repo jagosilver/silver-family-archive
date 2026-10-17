@@ -1,4 +1,6 @@
 ---
+aliases:
+  - France-Letters
 title: "Letters from France (c. 1951)"
 description: "David Silver's letters home from a solo motorbike tour of France, probably summer 1951: lost papers, bad petrol, the Arc de Triomphe and the Loire."
 tags:
@@ -6,9 +8,9 @@ tags:
   - letters
 ---
 
-*← [Silver Family Archive](./)*
+*← [David Silver](David-Silver/) · [Silver Family Archive](./)*
 
-While he was training as an architect in [Bristol](Bristol-Letters), [David Silver](David-Silver) set off alone on his new motorbike, later called "Susie", for a tour of France, probably in the summer of 1951. These three letters to his parents in Exeter follow him from the West Country to Dover, across to Calais and on to Amiens, Paris, Bourges and the Loire, and then home again.
+While he was training as an architect in [Bristol](Bristol-Letters), [David Silver](David-Silver/) set off alone on his new motorbike, later called "Susie", for a tour of France, probably in the summer of 1951. These three letters to his parents in Exeter follow him from the West Country to Dover, across to Calais and on to Amiens, Paris, Bourges and the Loire, and then home again.
 
 On the way to Dover he waits for two circus elephants at Fenny Bridges, is buttonholed in Lewes by an Irishman wanting his "passage home", and crosses Romney Marsh at 33 mph, sounding "like an awfully angry bluebottle imprisoned in a jam jar". In France he loses the pack holding the bike's customs papers between Calais and Boulogne (the police find it), meets "the worst roads in the world" and bad petrol, and arrives at the Loire with his panniers in ribbons and only top gear. He enjoys it all the same: riding round the Arc de Triomphe "in all that mad hooting traffic", the châteaux, the poplar-lined roads, and the French saying "Oui Oui Oui Oui Oui like machine guns". It was, he wrote, "rather like being thrown into a swimming bath if you can't swim. First you think you are drowning and then you find out how to swim and begin to enjoy yourself."
 
