@@ -14,7 +14,7 @@ Four years after the last of [The Bruton Letters](Bruton-Letters), [David Silver
 
 The war is over and the mood is peacetime. David files a vee-block to a thousandth of an inch, plants stonecrop and French marigolds outside his hut, and goes on drawing all the time: the train window, the plants on his handlebars, an American electric mixer from *Life* magazine. He watches the **Victory Parade** on the newsreel ("The Wrens and the army marched much the best. The Waaf looked awful So did the RAF. as usual."). He sends his mother a watercolour of **Stevenage**, just named the first New Town, which he thinks a "very good example of how unattractive ribbon development can be". He also collects his first canvas boards from Heffer's in Cambridge, "dying to try my hand at oils when I get home". And in a postscript he asks for a photograph to go with **an application to London University**, the first sign of the architecture training that became his career.
 
-**About the transcription.** The letters are transcribed with David's own spelling and punctuation. ~~Struck text~~ shows his crossings-out, [?] a doubtful reading and [square brackets] describe drawings and layout. Page breaks appear as *(p. n)*. Most of the letters are undated, so each has been dated from postmarks or the events he mentions; the evidence is given in italics under each heading. The March letter's small sheets were scanned overlapping, so only part of it can be read. One page of the summer letter is missing, and the comic story from *Punch* that he copied out in it is summarised, not transcribed. The scans for each letter are in the collapsible **Scans** box beneath it. His earlier RAF letters are from [Little Horwood (1944)](Little-Horwood-Letters) and [Oakington (1945–46)](Oakington-Letters).
+**About the transcription.** The letters are transcribed with David's own spelling and punctuation. ~~Struck text~~ shows his crossings-out, [?] a doubtful reading and [square brackets] describe drawings and layout. Page breaks appear as *(p. n)*. Most of the letters are undated, so each has been dated from postmarks or the events he mentions; the evidence is given in italics under each heading. One page of the summer letter is missing, and the comic story from *Punch* that he copied out in it is summarised, not transcribed. The scans for each letter are in the collapsible **Scans** box beneath it. His earlier RAF letters are from [Little Horwood (1944)](Little-Horwood-Letters) and [Oakington (1945–46)](Oakington-Letters).
 
 ---
 
@@ -33,8 +33,6 @@ The war is over and the mood is peacetime. David files a vee-block to a thousand
 > [2d orange + ½d green King George VI stamps; postmark HITCHIN HERTS 9.30 AM 29 MCH 1946]
 >
 > *(p. 1)*
-> [Overlapping sheet, top:] ...11.40 ... Twenty minutes to go and my pass would be invalid and the last special train left at 10.30.
-> [Main sheet:]
 > 1587757 LAC Silver D.R.
 > Hut 441. 2 Wing
 > 14 S of T.T.
@@ -46,21 +44,48 @@ The war is over and the mood is peacetime. David files a vee-block to a thousand
 > It hangs in the balance whether I shall get a 36 or a 48, if it's a 48 I shall come home any way.
 > I had a rotten journey back. I was due in by midnight you know. Well I caught the first part of the 4.55. at 4.40 at the Central.
 >
-> *[One or more pages missing here.]*
->
 > *(p. 2)*
-> [Top of the underneath sheet:] ...let me know how much it cost when you get the bill. Forty something shillings I should think. Shall sell old bicycle when I've painted front mudguard. ~~Somebody~~ Somebody thought I'd get six pounds for it. I shall put up an advertisement for offers over £4 10s. The dynamo's worth 25/- (said he in defence ~~from~~ against the outburst by his elder brother) I feel confident in support from Wiggs ~~with~~ with her great business experience when I ask for £4 10s
+> The engine went very slowly as if the weight was too much, then going down a hill near Sherborne according to reports (probably wrong) the coupling between the engine and the train snapped - any way we came to a very jerky stand still just outside Sherborne. So jerky that those facing the way the train was going bounded forward to the astonishment of those seated with their backs to the engine.
+> We stayed there for two hours twenty minutes and held up the traffic, then on we went again.
+> The train stopped out in the country near no station, the rear light had gone out, it had to be changed. Off we went again. Next time we stopped because someone pulled the
+>
+> *(p. 3)*
+> communication cord - I don't know why. Then we went tearing along and got in to Waterloo having made up a little time at 11.40 instead of 9.22.
+> Twenty minutes to go and my pass would be invalid and the last special train left for Henlow at 10.30.
+> I got the R.T.O. to write me out a chit explaining about the train, got an inter station bus to Kings Cross and slept in an arm chair on and off in a canteen until 5.45. Arrived at Hitchin and collected bike at station at ten to seven. Rode like stink to Henlow, got there at about 7.20. Changed from best to working clothes - on parade
+>
+> *(p. 4)*
+> off to work. ~~No~~ No questions asked no breakfast taken.
+> Next time I go by the 4.20 G.W.R. (Sundays)
+> Demob news.
+> I shall be out by Christmas definitely, if not before.
+> There are no Technical Schools round here running summer classes, I am wondering if I can do anything in London. Have made out an application to see Senior Education Officer, shall probably be palmed off with junior office boy.
+> The filing goes on, I finished one thing to-day
+> [Sketch: a 3-inch rectangular block with a stepped slot, labelled "has to fit no daylight! of no use to anyone when finished"; width marked 3"]
+> This is a terrible letter but a thousand files are churning
+>
+> *(p. 5)*
+> their screeching way through my head, interspersed with insignificant cocky [?] little warrant officers running round shouting "get fell in" I shall be glad to get out.
+> G.S.T. tomorrow - General Service Training - ie learning how to shoot people and how to march.
+> Do you know if I'd been delayed a week I should never have been sent on this wretched course. Only those over group 56 from now on will be trained, they don't consider it worth while training those below.
+> Don't bother about that accumulator yet, I'll see about it;
+>
+> *(p. 6)*
+> As regards that bicycle wheel I suppose that Wippells have charged it to your account, Daddy as they sent it up, so please let me know how much it cost when you get the bill. Forty something shillings I should think. Shall sell old bicycle when I've painted front mudguard. Somebody thought I'd get six pounds for it. I shall put up an advertisement for offers over £4 10s. The dynamo's worth 25/- (said he in defence ~~from~~ against the outburst by his elder brother) I feel confident in support from Wiggs ~~with~~ with her great business experience when I ask for £4 10s
 > with lots of love
 > your loving son
 > David.
-> [Second sheet, showing below:] We stayed there [?] twenty minutes and held up the traffic, then on we went again. The train stopped out in the country near no station, the rear light had gone out, it had to be changed. Off we went again. Next time we stopped because someone pulled the
 
-*Notes:* Incomplete. These are small folded sheets and were scanned overlapping, so only the first page, part of the last page and glimpses of the pages under them are visible; the rest of the letter (the full story of the journey back) was not scanned. "Christopher" is his brother Kit; "Wiggs" also appears in the Bruton letters. A "36" or "48" is a 36- or 48-hour pass.
+*Notes:* Complete since the October 2026 rescan: the small folded sheets were first scanned overlapping ("… Beds 0 11" and "0 12"), and Jago rescanned each side separately. The journey back went by the Southern line through Sherborne to Waterloo (the 4.55 from Exeter Central), so he missed the last special train to Henlow and slept in a canteen at King's Cross. Demob "by Christmas definitely" and his enquiry about summer classes in London are the first signs of his plans for after the RAF. Wippells, the Exeter firm, sent up his bicycle wheel. "Christopher" is his brother Kit; "Wiggs" also appears in the Bruton letters. A "36" or "48" is a 36- or 48-hour pass.
 
-> [!scan]- Scans (3)
+> [!scan]- Scans (7)
 > ![Scan, envelope](../../images/Henlow-letter-01-envelope.jpg)
 > ![Scan, page 1](../../images/Henlow-letter-01-p1.jpg)
 > ![Scan, page 2](../../images/Henlow-letter-01-p2.jpg)
+> ![Scan, page 3](../../images/Henlow-letter-01-p3.jpg)
+> ![Scan, page 4](../../images/Henlow-letter-01-p4.jpg)
+> ![Scan, page 5](../../images/Henlow-letter-01-p5.jpg)
+> ![Scan, page 6](../../images/Henlow-letter-01-p6.jpg)
 
 ### 02. Saturday 15 June 1946
 
@@ -257,7 +282,7 @@ The war is over and the mood is peacetime. David files a vee-block to a thousand
 > your loving son
 > David.
 
-*Notes:* At least one page is missing after p. 2, where he began retelling a radio thriller serial starring Basil Radford and Naunton Wayne (as "Woolcott and Spencer"). Pages 3–4 finish that retelling; pages 5–9 are his handwritten copy of a comic story from *Punch*, "The Portrait", which is summarised rather than transcribed because it is a published piece, not his own writing (it can be read in the scans). Heffer's is the Cambridge bookshop and art supplier; "Honeywood" is probably a firm or shop the family knew.
+*Notes:* The scans are the clean October 2026 rescans ("… Beds R 6"–"R 15"), which replace the first scans 0 17–0 26; the rescan turned up no extra page, so the gap remains. At least one page is missing after p. 2, where he began retelling a radio thriller serial starring Basil Radford and Naunton Wayne (as "Woolcott and Spencer"). Pages 3–4 finish that retelling; pages 5–9 are his handwritten copy of a comic story from *Punch*, "The Portrait", which is summarised rather than transcribed because it is a published piece, not his own writing (it can be read in the scans). Heffer's is the Cambridge bookshop and art supplier; "Honeywood" is probably a firm or shop the family knew.
 
 > [!scan]- Scans (10)
 > ![Scan, page 1](../../images/Henlow-letter-04-p1.jpg)

@@ -1474,7 +1474,7 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 
 ### 32. Sunday 7 May 1939
 
-*Dated "Sunday 7th May"; a Sunday in 1939. An envelope postmarked BRUTON … MY 39 (scan 31) was scanned close by and probably belongs to it. Pages 23–25 may not all be consecutive.*
+*Dated "Sunday 7th May"; a Sunday in 1939. An envelope postmarked BRUTON … MY 39 (scan 31) was scanned close by and probably belongs to it. Complete since Jago's October 2026 rescan, which supplied three pages that were never scanned (901–903) and showed the order of the pages.*
 
 > *(p. 1)*
 > Kings School
@@ -1485,9 +1485,13 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > Thankyou very much for the music which arrived quite safely in time. I have decided that I shall not join the musical society until something happens like the time when we went to Bournemouth as apart from an occasional ~~[struck]~~ meeting nothing ever happens. I like this pen very much it has a nib called an oblique nib and is rather similar to a relief nib.
 > Philip must have been travelling at about 45 m.p.h. all the way, does the car still work?
 > Mr Venters told me he had dinner
-> [continues on a page not in sequence]
 >
 > *(p. 2)*
+> with Philip and he appears to like him very much. He's much more friendly than he used to be also when he was teaching before he used to prance round the room asking question and saying "don't talk 50 lines, Sorry!" It got to be quite a song and people used to go round singing it and imitating him, he's stopped all that now. (I don't mean people imitating him, I mean him saying "Don't talk")
+> I am ~~including~~, what on earth is that matter with me I keep writing the wrong words, enclosing the school calendar.
+> ~~Darling~~ Daddy, which print of those two large rough seas do you like better than the other I printed one backwards by mistake
+>
+> *(p. 3)*
 > I didn't have time to see the last one as it wasn't fixed when I had to go.
 > Please if you send my bike will you send it as it is, not with the black bag or any accessories.
 > I can't draw Mr Venters, Phil, but I'll draw the other masters and so if he wasn't either of them he must have been Mr Venters
@@ -1497,24 +1501,43 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > - Mr Tyndal (curly hair labelled "Dark") — "not very like him I'm afraid"
 > - Mr South (music) (round glasses; hair labelled "Fair")
 >
-> *(p. 3)*
+> *(p. 4)*
+> I'm afraid this letter's frightfully patchy.
+> Phil did you know they make Kodak 2¼ + 3¼ XX the fastest film in existence they have just brought it out, its the same price as the other panchromatics and I think its just as fine grain as S.H.P.2.
+> The library seems to be less and less used there are only two people here today.
+> I wondered whether a dock ~~[struck]~~ scene would be necessary for my ~~theatre~~ theatre, Daddy as it would be a lovely thing to draw.
+> Yesterday I watched a match, it rained at the beginning but gradually cleared up, we lost of course.
+> Its a beautiful day and I wish
+>
+> *(p. 5)*
 > it was either the holidays or a Sunday here as it seems such a pity to waste it.
 > There are marvellous clouds today just the thing for my filter if there were only a landscape to put under it. I haven't taken one photograph worth taking yet in Somerset and its my belief that there isn't one, the only one that was any good at all was that one at Lacock and I'm not sure if that's in Somerset. Do you think you will use Kodak Super XX, Daddy, I've decided that I shall try it, though I feel you can't do much more with it than you can with Selo H.P.2.
 > I've decided that I shall go for a walk this afternoon probably onto Creech there is some lovely blossom about.
 > Have you given any tomatoes
-> [continues on a page not in sequence]
 >
-> *(p. 4)*
+> *(p. 6)*
+> to Aunty Lulu I should think she needs them, and have you done anything about the pond yet, I feel inclined to buy a swan jelly mould I saw in the town.
+> By the way I wondered if that swan had swallowed some rat poison or anything. I want to write to Kit so I must be stopping soon, I wish that it would rain this afternoon because I want to write to James and Wiggs too. Is James still at 7 Hays Mews Berkeley Square and what part of London is that W what?
+> Corpus is a week earlier than usual isn't it? I'm jolly glad they've cancelled camp. I'm sure the King & Queen will be nearly blown up by that submarine
+> with love
+> your loving son
+> David
+> P.S. THEY HAVE A SMALL WIRELESS IN THE DAY ROOM [and, to the right:] BUT IT'S VERY WEAK
+>
+> *(p. 7)*
 > Mrs G. L. Silver
 > West Avenue
 > Exeter
 > [1½d brown King George VI stamp; postmark BRUTON SOMERSET 5.45 PM, day and month unclear (possibly "MY"), 39]
 
-> [!scan]- Scans (4)
+> [!scan]- Scans (7)
 > ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-32-p1.jpg)
 > ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-32-p2.jpg)
 > ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-32-p3.jpg)
 > ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-32-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-32-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-32-p6.jpg)
+> ![Scan, page 7](../images/Bruton-David-Silver-Bruton-letter-32-p7.jpg)
 
 ### 33. 22 June, c. 1939
 
@@ -1551,7 +1574,7 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 
 ### 34. Sunday 16 July 1939
 
-*Dated "Sunday 16th July"; a Sunday in 1939. Pages numbered 1–5; pages 3–5 describe the Bournemouth concert with Percy Whitlock. Page 5 is badly faded.*
+*Dated "Sunday 16th July"; a Sunday in 1939. Pages numbered 1–5; pages 3–5 describe the Bournemouth concert with Percy Whitlock. Jago's October 2026 rescan made page 5 readable (905, replacing the faded scan 30) and supplied an unnumbered page before it (904, the drive home and Rosaire's circus).*
 
 > *(p. 1)*
 > [page number] 1
@@ -1580,26 +1603,33 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > [continues on page 5]
 >
 > *(p. 5)*
-> Appears to be page "5" of a letter (faint page number at top), ending with a sign-off. Only fragments are visible even with contrast enhanced:
-> [... illegible ...]
-> with love
+> Then Mr Venters suggested going to a film but Mr South said we had to be back for prep (this was at 4.30) We walked round for a little while 3 people went to a news theatre and then we came home I went back in Mr South's Standard driven by Mr Tyndall, Mr South was staying the night at Bournemouth, He sang half the way back and went the rest of the way trying to make the car go which nearly boiled on every hill. The whole day was most successful except we got in, in time for prep. luckily I had a lot of revising to do so it didn't matter. When we ~~went~~ got back we found that ROSAIRE'S circus
+>
+> *(p. 6)*
+> [page number] 5
+> had visited Bruton and that half the school had gone to it. They had lions tigers and elephants. The Thursday before we went to Bournemouth,
+> The Canadian Public schools cricket team arrived, (the best boy players in Canada) we flogged them absolutely we beat them by nine wickets.
+> Sherborne first didn't beat them half as easily as we did, and our ~~second~~ 1st generally play Sherborne 2nd.
+> I'm going to stop now but I may supplement this letter later.
+> With love
 > your loving son
 > David
-> [a faint postscript line below the signature, illegible]
-> [Probably p. 5 of the concert letter (scans 28–29).]
+> P.S Please remember the Masters' leaving fund.
+> The Canadians came in an Exeter bus
 
 *Notes:* "Percy Whitlock" is squeezed into the space he left for the name. Whitlock was organist at the Bournemouth Pavilion from 1932, so this concert was probably at the Pavilion, Bournemouth — compare "the time when we went to Bournemouth" in the 7 May letter (scan 23).
 
-> [!scan]- Scans (5)
+> [!scan]- Scans (6)
 > ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-34-p1.jpg)
 > ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-34-p2.jpg)
 > ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-34-p3.jpg)
 > ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-34-p4.jpg)
 > ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-34-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-34-p6.jpg)
 
 ### 35. A Sunday in the summer term, c. July 1939
 
-*Undated first page; the fête pages (scans 20–21) seem to belong but the pages in between are missing. Envelope postmarked BRUTON … JY 39 (scan 18) scanned with it.*
+*Undated. The fête was "last Thursday". Envelope postmarked BRUTON … JY 39 (scan 18) scanned with it. Jago's October 2026 rescan supplied the missing page between the first page and the fête pages (906) and clearer copies of the fête pages (907–908); the letter still breaks off before the signature.*
 
 > *(p. 1)*
 > C. M. Silver Esq.
@@ -1619,24 +1649,28 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > Isn't it lovely to think that next Sunday is third Sunday again so quickly.
 > Its pouring here as usual. We have thundery weather for some time and when it thundered a little the day Kit came home it was practically the first time I have ever seen since I've been here.
 > Notice in the Dolphin for Christmas Term 1937 it puts quite a
-> [continues on a page not in sequence]
 >
 > *(p. 3)*
-> [...] 6d for members of the school, 1/- for the people in the town. I also had a plate of strawberries and cream 4d I didn't notice that there was some sugar so I it was rather sour. Tom treated me to a free go at the skittles 3 shots for 2d. After tea I continued alone with cheese and got 20/- 3d as the other boy didn't want to go on and I wanted to get a pound.
+> lot about Philip in the rugger notes it puts "This forward improves with each game he plays" and various other complements.
+> We had the fête last Thursday it was jolly good. Elgar (an old house prefect) asked me to help Gibson take a great cheese round and make people guess the weight of it. I said I would so we went round till tea with this thing (3d guesses) and made about 15/- I held the cheese while he wrote down the people's ~~[struck]~~ names every now and then we changed round. At tea (we were given 2/- ~~[struck]~~ to spend on the fête) I had an enormous and very good 6d tea
+>
+> *(p. 4)*
+> 6d for members of the school, 1/- for the people in the town. I also had a plate of strawberries and cream 4d I didn't notice that there was some sugar so I it was rather sour. Tom treated me to a free go at the skittles 3 shots for 2d. After tea I continued alone with cheese and got 20/- 3d as the other boy didn't want to go on and I wanted to get a pound.
 > Mr Borer guessed the right weight for the cheese (I don't know what kind of cheese it was but it had a powerful smell) 8 lb 10 oz I think it was.
 > I didn't go on after I got 20/3
 >
-> *(p. 4)*
+> *(p. 5)*
 > I'm afraid this letter has been more-or-less all about the fête but there isn't much other news (incidentally Tom pronounces fête as feet)
 > It made £50 profit according to the vicar.
 > A most awfully ~~sa~~ [silly?] thing nearly occurred but luckily didn't. In P.T. when we do ground work (somersaults handstands head springs etc) I take my glasses off put them on the instructor's table card (a piece of three ply with sheets of cardboard on which the exercises are written) and I then put the table card on the grass well out of the way of the P.T. squads
 > [continues on a page not in sequence]
 
-> [!scan]- Scans (4)
+> [!scan]- Scans (5)
 > ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-35-p1.jpg)
 > ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-35-p2.jpg)
 > ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-35-p3.jpg)
 > ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-35-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-35-p5.jpg)
 
 ### 36. Saturday–Sunday at the start of the autumn term, September 1939
 

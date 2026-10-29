@@ -14,7 +14,7 @@ From [Henlow](Henlow-Letters), [David Silver](David-Silver/) was posted in July 
 
 He arrives on the brand-new *Mona's Queen*, falls asleep on a train of forty-year-old carriages pulled by a little green engine with a copper dome, and sends home a pen map of the island, which he finds "a sort of combination of Cornwall and Wales". He walks to the Point of Ayre, sketches at Peel and Port Mooar, and hunts the shops of Ramsey and Douglas for Christmas presents, finding only "trinkets brooches and trash". He hates the motorcycle races and thinks Andreas "the most inefficient unit I have ever been on". He works on derelict Wellingtons in the rain with the hangars pulled down around him, flies the five miles to Jurby in one ("much better" than a Fortress), and talks German with an anti-Nazi prisoner from Chemnitz. After seeing *School for Secrets*, a film about radar, he writes that it showed "all about the work I should have done if I hadn't been shoved onto the ground". All the while he is planning his escape into architecture: the application to London University, the prospectuses, the maths books, and the History of Architecture read by the E.V.T. room fire.
 
-**About the transcription.** The letters are transcribed with David's own spelling and punctuation. ~~Struck text~~ shows his crossings-out, [?] a doubtful reading and [square brackets] describe drawings and layout. Page breaks appear as *(p. n)*. Most of the letters are dated from what he says and from postmarks; the evidence is given in italics under each heading. One sheet is missing and a few pages were scanned at an angle. A letter from his brother Christopher, filed with these, is given at the end. The scans for each letter are in the collapsible **Scans** box beneath it.
+**About the transcription.** The letters are transcribed with David's own spelling and punctuation. ~~Struck text~~ shows his crossings-out, [?] a doubtful reading and [square brackets] describe drawings and layout. Page breaks appear as *(p. n)*. Most of the letters are dated from what he says and from postmarks; the evidence is given in italics under each heading. Since a rescan in October 2026 no sheet is missing. A letter from his brother Christopher, filed with these, is given at the end. The scans for each letter are in the collapsible **Scans** box beneath it.
 
 ---
 
@@ -205,9 +205,19 @@ He arrives on the brand-new *Mona's Queen*, falls asleep on a train of forty-yea
 > The train went on via about two other places to Douglas I think it took about 2 hours.
 > Douglas isn't a very attractive place, I should think it must have catered for midland and north country factory workers
 >
-> *[One or more pages missing here.]*
->
 > *(p. 7)*
+> 4.
+> It was very full but apparently not half as full as usual.
+> It has a long sea front, along which buses of the type that used to run at Exmouth with no sides and little wheels and also horse trams (single deck) run.
+> I wanted to [get] a cap badge as I'd lost my second one and the AOC's inspection is on Thursday. I couldn't get one in Ramsey and was glad when I saw one in a jeweller's in Douglas. I bought it and found to my disgust that it is a sort of broach that looks like a cap badge on one side and has a clasp the other side
+> [Sketch: the brooch pin seen from the side, a long pin with a catch.]
+>
+> *(p. 8)*
+> I had a bath in a very nice bath in the public swimming baths.
+> I then paid through the nose for a meal. It was by this time about six p.m. They don't have tea in Douglas but that hateful meal they have in Wales. The service was rotten and the meal insufficient. This place appears to be ~~[struck]~~ charging double for everything. The fares on the buses are about 3d a mile and the railways are worse. However I will say this, there are a lot of eggs about. I've had six since I've been here.
+> I didn't like Douglas. I couldn't get any drawing paper there.
+>
+> *(p. 9)*
 > 5.
 > It's not very big
 > [Sketch plan of Douglas: the town on the hill, a row of hotels along the sea front, the curve of the bay and the harbour piers.]
@@ -216,30 +226,30 @@ He arrives on the brand-new *Mona's Queen*, falls asleep on a train of forty-yea
 > It is undoubtedly a beautiful island. It's a sort of combination of Cornwall and Wales.
 > If you took a part of North Cornwall planted it in the sea, took away its yellow sandy beaches and given it biscuit coloured sand with shingle and small stones in places and warm grey cliffs,
 >
-> *(p. 8)*
+> *(p. 10)*
 > and then in the middle you raised a range of Welsh mountains only with grass heather and gorse and greener than the Welsh ones, If you did that you'd have a fair idea of what this island looks like. The lower hills have in some parts little woods like Devon.
 > MONDAY - Yesterday I went to the point of Ayre that is the furthest point to the north. The last mile or so is scarcely above sea level and rocks run out into the sea with a light house like Trevose Head.
 > [Sketch map: the tip of the island, with "Bride" at its foot, "rocks" and the "light house" at the point, and "sea" on either side.]
 > It wasn't clear enough to see Scotland which I understand is only 15 miles North.
 > After going to the Point of Ayre
 >
-> *(p. 9)*
+> *(p. 11)*
 > 6.
 > I returned via Bride a village of white cottages and two churches.
 > Incidentally the churches here are most extraordinary looking not English churches at all. I once saw an Irish church on a postcard and they are more like that. They use the stone for decoration. What I mean is that the surface of each block is cut in decoration and also the colours of different stones are arranged to form patterns. The stone is a very speckly sort of stone, sometimes as cold as Cornish slate sometimes almost as warm as sandstone. Andreas Church is like this I haven't had a good look at it yet.
 > [Sketch: a simple church with a tall square tower.]
 >
-> *(p. 10)*
+> *(p. 12)*
 > I walked from Bride to ~~[struck]~~ Ramsey along a road by the sea. The sea was just over the other side of the hedge all the way.
 > Arrived at Ramsey I had supper. As I'd missed tea and not had much lunch I was quite glad of it. I asked them if they had eggs and they said they had. They brought me two fried eggs bacon and fried potato. I nearly collapsed when I saw two eggs. I shall be the size of an elephant when I get home. I got the bus back. I'd walked about seven or eight miles. So since Friday I've walked about sixteen or seventeen miles.
 > I had a look at the Hotels in Douglas and they don't any of
 >
-> *(p. 11)*
+> *(p. 13)*
 > 7.
 > them look very attractive. They are all scarcely more than boarding houses with the exception of about three. The largest of these is one of the ultra modern not very attractive (probably very expensive) kind with swimming pool and I should think a lot of fat north country business men.
 > To-day, Monday, is very dull, the hills are out of sight in the clouds. I've discovered something odd about these clouds. It isn't because the hills are so high but because the clouds come so low across the Irish sea that they don't rise in time to miss the island. Consequently they ~~[struck]~~ often cover the hills entirely
 >
-> *(p. 12)*
+> *(p. 14)*
 > My application for admission ~~[struck]~~ to London University has been despatched.
 > Please could you send me
 > 1) my pyjamas (in dressing table)
@@ -248,7 +258,7 @@ He arrives on the brand-new *Mona's Queen*, falls asleep on a train of forty-yea
 > 4. Building Construction (Mitchell) greasy dirty brown paper dust cover, in my bedroom.
 > Don't bother to send them all at once or in a hurry. Please send Banister Fletcher and the pyjamas by registered post I'll pay the postage
 >
-> *(p. 13)*
+> *(p. 15)*
 > [Top, in blue ink:] I am afraid as usual this is a very peculiar letter.
 > [Up the right margin:] Electrolux technical supplement attached
 > Tuesday here is some stop press as a result of that telephone conversation and your letter, Mummy.
@@ -256,7 +266,7 @@ He arrives on the brand-new *Mona's Queen*, falls asleep on a train of forty-yea
 > 2. Leave Misunderstanding. I have 47 days between 15th August 1945 - March 31st 1947
 > I have had either 21 days of this or 28 according to whether they count the seven days I had on leaving Henlow. I shall be able to find this out when my documents come through from Henlow to Andreas. That may be a week hence, when I've found out I shall put in for leave. The quickest I could get it would be ten days after that. But there's a waiting list. I hope to get it in 4 w[eeks ... the rest under the folded corner]
 >
-> *(p. 14)*
+> *(p. 16)*
 > 8
 > The Georgic was in Liverpool harbour as we left it. She seems to be a liner.
 > [Drawing: the liner's side towering over the deck rail of his ferry, with a tiny figure: "If this was me that's how much the Georgic seemed higher than my ship".]
@@ -266,7 +276,7 @@ He arrives on the brand-new *Mona's Queen*, falls asleep on a train of forty-yea
 > your loving son
 > David.
 >
-> *(p. 15)*
+> *(p. 17)*
 > Instructions on Electrolux.
 > I am sorry it went wrong. I don't think it's serious or that it affected the motor other than to let it race.
 > 1. Remove inside working parts from case by undoing 3 set screws in case and the strap on top.
@@ -278,11 +288,11 @@ He arrives on the brand-new *Mona's Queen*, falls asleep on a train of forty-yea
 > iii Set screw with washer. Set screw goes through middle of revolving fan and into the end of the spindle.
 > I had difficulty when I put that together and I wondered whether it might
 >
-> *(p. 16)*
+> *(p. 18)*
 > slip after a time but not so soon. I hoped I'd be able to come home in a week or two and make certain it didn't. I think the thing to do is to remove that little screw if it hasn't removed itself. to put in a washer (thin made of an old kid glove or something like that. To put back with the leather washer and the metal one so that it grips and if necessary to put a longer set screw of the same thread in the place of the other one. It sounds a lot but it's only half an hour's work if that is what's wrong. If you find that you have to take out the fixed fan housing it has springy metal bands that you press inward to free it.
 > [Diagram: the fan housing held to the motor by a springy band.]
 >
-> *(p. 17)*
+> *(p. 19)*
 > I keep wondering whether I left something out or why it was that I experienced the difficulty I did last time with it when I never experienced any difficulty before with that part of the cleaner.
 > I wish I could get home to look at it. I am sure it's nothing electrical.
 > * *
@@ -291,14 +301,14 @@ He arrives on the brand-new *Mona's Queen*, falls asleep on a train of forty-yea
 > [Diagram: the end view, "It looks like this from the end doesn't it", with the screw and the revolving fan labelled.]
 > Anyway it's perfectly straight forward and you'll be able to
 >
-> *(p. 18)*
+> *(p. 20)*
 > see at once what's wrong when you take the inside out.
 > I don't think I assembled it wrong. Please could you note the way it's assembled and see if there's any other possible way.
 > The motor got hot because it ran free with no load. I think it will be all right but I suppose it would be playing for safety to check it against the pipes again if you do get the slipping fan right. I am sorry it should so soon go wrong. I thought it might need attention but not so soon. I hope it hasn't been an awful bother. I wish I could get at it. I was so sure it would be trouble free too.
 
-*Notes:* Sheet 4 is missing: its scan, 0 196, is an empty file. With a pen map of the island, and drawings of the Manx Electric Railway, Port Mooar and Andreas church. He has sent off his application for admission to London University. He has 47 days' leave due between 15 August 1945 and 31 March 1947. The *Georgic* was the Cunard White Star liner, then a troopship.
+*Notes:* Sheet 4 (Douglas: the horse trams, a cap badge that turned out to be a brooch, a dear and "insufficient" meal) was missing until Jago rescanned it in October 2026; the first scan, 0 196, was an empty file. With a pen map of the island, and drawings of the Manx Electric Railway, Port Mooar and Andreas church. He has sent off his application for admission to London University. He has 47 days' leave due between 15 August 1945 and 31 March 1947. The *Georgic* was the Cunard White Star liner, then a troopship.
 
-> [!scan]- Scans (18)
+> [!scan]- Scans (20)
 > ![Scan, page 1](../../images/Isle-of-Man-Letters-letter-02-p1.jpg)
 > ![Scan, page 2](../../images/Isle-of-Man-Letters-letter-02-p2.jpg)
 > ![Scan, page 3](../../images/Isle-of-Man-Letters-letter-02-p3.jpg)
@@ -317,6 +327,8 @@ He arrives on the brand-new *Mona's Queen*, falls asleep on a train of forty-yea
 > ![Scan, page 16](../../images/Isle-of-Man-Letters-letter-02-p16.jpg)
 > ![Scan, page 17](../../images/Isle-of-Man-Letters-letter-02-p17.jpg)
 > ![Scan, page 18](../../images/Isle-of-Man-Letters-letter-02-p18.jpg)
+> ![Scan, page 19](../../images/Isle-of-Man-Letters-letter-02-p19.jpg)
+> ![Scan, page 20](../../images/Isle-of-Man-Letters-letter-02-p20.jpg)
 
 ### 03. Friday 16 – Sunday 18 August 1946
 
@@ -361,7 +373,7 @@ He arrives on the brand-new *Mona's Queen*, falls asleep on a train of forty-yea
 >
 > *(p. 7)*
 > 4
-> It may not be very clear I am afraid. The sketch is terribly flat as is the other one with it. This though much may be attributed to my inabi[lity] is also partly caused by the fact that the paper is meant only for black and white Indian ink draw[ing] and has a glazed china clay surf[ace]. I walked back by a road high up in the hills overlooking the s[ea]. It was part of the T.T. race course I think. It was a love[ly] day and I could see between the boughs of the trees, the sea and Scotland looming up to the east just one tone of blue rising out of the sea It seemed to be most mounta[inous]
+> It may not be very clear I am afraid. The sketch is terribly flat as is the other one with it. This though much may be attributed to my inability is also partly caused by the fact that the paper is meant only for black and white Indian ink drawing and has a glazed china clay surf[ace]. I walked back by a road high up in the hills overlooking the sea. It was part of the T.T. race course I think. It was a love[ly] day and I could see between the boughs of the trees, the sea and Scotland looming up to the east just one tone of blue rising out of the sea It seemed to be most mountainous
 >
 > *(p. 8)*
 > I walked back to Ramsey and then on to Andreas. Quite a good walk all together. Then last Sunday I walked to Sulby Glen. From there I caught a 'bus to Peel. Peel is quite an attractive spot with a bay like a horseshoe laid sideways to the coast.
@@ -371,7 +383,7 @@ He arrives on the brand-new *Mona's Queen*, falls asleep on a train of forty-yea
 > 5.
 > or yellow beach. There was a harbour full of fishing smacks between the beach and the castle
 > [Sketch: the bay with "castle", "rocks", "lighthouse", "harbour", "sea", "beach" and "coast".]
-> I crossed the harbour where the tide was in by means of a ferry. I didn't go up to the castle but walked to the end of the harbour wall, and then back to the rocks on the outsi[de] of the harbour wall. There I spent the whole of the afternoon drawing the second picture. Then I had tea and returned by bus to Ramsey and then [on to] and[reas]
+> I crossed the harbour where the tide was in by means of a ferry. I didn't go up to the castle but walked to the end of the harbour wall, and then back to the rocks on the outside of the harbour wall. There I spent the whole of the afternoon drawing the second picture. Then I had tea and returned by bus to Ramsey and then to Andreas
 >
 > *(p. 10)*
 > I forgot to mention that on the coast between Kirk Michael and Peel I could see Ireland. Looking it up on a map I find that what I saw was the Mourne Mountains (an attractive name I think) and Slieve Donard. Some way below Belfast on the East coast. I think below Dublin in the Free State.
@@ -392,7 +404,7 @@ He arrives on the brand-new *Mona's Queen*, falls asleep on a train of forty-yea
 > 7.
 > This is one of the weeks. I wish it weren't as all ~~[struck]~~ we get is the American Forces Network. It will get the other stations but nobody likes them but me. I can't make out which the best home service is here but I'll tell you if I ever get the chance to fiddle with the wireless on my own.
 > Yesterday I got a sable brush in Douglas, the first since I was at the Art School. I also got some cartridge, there is no Whatman on the island.
-> This morning at ten o'clock the wireless announced a gale approaching the island from Northern Ireland. It looks as [if]
+> This morning at ten o'clock the wireless announced a gale approaching the island from Northern Ireland. It looks as if
 >
 > *(p. 14)*
 > it's nearly here. Great clouds are rolling down over the mountain side. We get the best weather here in the extreme north as the mountains are to the Southwest of ~~[struck]~~ us and they bring all the rain down while our part is more or less flat.
@@ -402,7 +414,7 @@ He arrives on the brand-new *Mona's Queen*, falls asleep on a train of forty-yea
 > 8
 > The general standard of the island is like Criccieth was, lots of midland factory people. Charabancs, glens of fairies and ye olde cafés.
 > The island itself is very attractive particularly the west side (again by my standards not by popular standards) As it's more open and wild.
-> I don't think you'd wear it out quickly, I think it's larger than you think. It would be like taking the coast from Treknow to Newquay and bending it round in a circle with Bodmin moor [in] the middle.
+> I don't think you'd wear it out quickly, I think it's larger than you think. It would be like taking the coast from Treknow to Newquay and bending it round in a circle with Bodmin moor in the middle.
 > It is not as nice as Cornw[all]
 >
 > *(p. 16)*
@@ -450,7 +462,7 @@ He arrives on the brand-new *Mona's Queen*, falls asleep on a train of forty-yea
 > David.
 > P.S. This letter is so long that I haven't time to read it all through to find out the mistakes so please forgive any howlers
 
-*Notes:* Scans 0 113–0 128 were made at an angle, so a word or two at the edge of some lines is lost or supplied in brackets. Andreas was a gunnery school and Jurby a navigation school; he contrasts "Training Command" with the operational commands he had served in (Little Horwood and Oulton, Bomber Command; Leuchars, Coastal Command; Oakington, Transport Command). Criccieth is in North Wales.
+*Notes:* Scans 0 113–0 128 were first made at an angle; the October 2026 rescans are flat, and the words clipped at the edges have been checked against them. Andreas was a gunnery school and Jurby a navigation school; he contrasts "Training Command" with the operational commands he had served in (Little Horwood and Oulton, Bomber Command; Leuchars, Coastal Command; Oakington, Transport Command). Criccieth is in North Wales.
 
 > [!scan]- Scans (22)
 > ![Scan, page 1](../../images/Isle-of-Man-Letters-letter-03-p1.jpg)
@@ -686,7 +698,7 @@ He arrives on the brand-new *Mona's Queen*, falls asleep on a train of forty-yea
 > your loving son
 > David.
 > P.S. We still have only two lights I can hardly see to write this. I should think it will be rough when I come across.
-> The door has not been mended yet either. We've nowhere to dry our clothes and no fuel for a fire. I hear on the news tonight that A.C.M. Lord Tedder is disappointed that not more people are volunteering for the RAF. They might if conditions were better. The camp is open to civilians this week end & [the foot of the page is cut off]
+> The door has not been mended yet either. We've nowhere to dry our clothes and no fuel for a fire. I hear on the news tonight that A.C.M. Lord Tedder is disappointed that not more people are volunteering for the RAF. They might if conditions were better. The camp is open to civilians this week end I hope they see my billet
 
 *Notes:* *I Know Where I'm Going!* (1945) is the Powell and Pressburger film. The German prisoner was from Chemnitz ("Kemnitz near Leipzig"); the prisoners at Andreas were anti-Nazis on light work. Lord Tedder was Chief of the Air Staff. One rider was killed in the race.
 

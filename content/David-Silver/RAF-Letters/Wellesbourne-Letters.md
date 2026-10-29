@@ -210,34 +210,46 @@ His letters continue three months later, from architecture school: [Letters from
 > ![Scan, page 7](../../images/Wellesbourne-Letters-letter-02-p7.jpg)
 > ![Scan, page 8](../../images/Wellesbourne-Letters-letter-02-p8.jpg)
 
-### 03. c. Monday 7 July 1947 (a walk with Christopher to the Rollright Stones)
+### 03. Monday 7 July 1947 (a walk with Christopher to the Rollright Stones)
 
-*Undated; describes meeting Christopher at Long Compton "next Sunday" as planned in the previous letter (Sunday 6 July). He will send Christopher's bicycle on "tomorrow night" and be home early on Friday after his demob. An envelope postmarked WARWICK 8 JLY 1947 fits.*
+*Headed "Monday" on sheet 1 (found and scanned in October 2026); "yesterday" he met Christopher at Long Compton, as planned in the previous letter for Sunday 6 July. He will send Christopher's bicycle on "tomorrow night" and be home early on Friday after his demob. An envelope postmarked WARWICK 8 JLY 1947 fits.*
 
-> *[One or more pages missing here.]*
->
 > *(p. 1)*
+> 1.
+> [Top left:] Write Burslem School for advice.
+> 1587757 LAC Silver
+> Hut 77. R & I.P.
+> R.A.F. Wellesbourne
+> Mountford
+> Warwickshire.
+> Monday.
+> My dear Daddy & Mummy
+> Having already written you a letter on Friday which is now out of date and still unposted I shan't edit it but shall write another one.
+> This shows that I have plenty of leisure I have To-day, Tomorrow, and Wednesday with nothing special to do - very unusual.
+> Now let's put the clock back 24 hours to about this time yesterday and we find me waiting in Stratford on Avon for a Stratford 'Blue 'Bus to Long Compton having just cycled in on Christopher's bike and left it chained up in a garage.
+>
+> *(p. 2)*
 > There is a 'bus strike and the Midland Reds and Stratford Blues (not a regiment - two 'bus companies) are only operating a skeleton service.
 > However my 'bus and Christopher's 'bus are to be part of the skeleton.
 > Off goes the 'bus with me on board down strange roads through lovely country to Shipston on Stour. The Avon splits near Stratford into the Avon and the Stour. Then after a ten minute wait while the driver smokes a cigarette on to Long Compton.
 > I didn't realise that we had reached Long Compton and stayed in the 'bus until it got to its turning round place. Christopher's 'bus ~~[struck]~~ was to arrive a few minutes later.
 >
-> *(p. 2)*
+> *(p. 3)*
 > 2. I started to walk back down the village street (I know why they call it Long Compton too now - it's very long).
 > A red double decker came past me and there seated upstairs ~~[struck]~~ was Christopher. It stopped and he got out and there was one of those Stanley and Livingstone meetings I have had before.
 > We set off at a smart pace out of Long Compton up a hill on which I gathered were the seventy stones. Christopher was carrying a brown square parcel which might have been a gas mask but fortunately wasn't. I was carrying a small pack. I explained to him that I had been almost unable to get anything at all to eat as the Naafi had sold out (to bring out with me I mean.)
 >
-> *(p. 3)*
+> *(p. 4)*
 > As we went up the hill we kept looking back at the view. It was beautiful. It's Cotswold country and a little like that picture called "Something Folly" [written above: Faringdon?] that you have in the drawing room - a card. Hills with deep valleys filled with farms and trees and all the buildings made of a warm coloured stone.
 > I could see three church spires shining in the sunshine in the distance. It was a fine view and a pretty sky. The wind was fresh so we were never too hot.
 > When we reached the top there were ~~many~~ several cars parked along the road with people going round a ring of stones counting them.
 >
-> *(p. 4)*
+> *(p. 5)*
 > 3. This counting business amused Christopher greatly as he felt sure they all disagreed as to the number of stones. We didn't go in ~~and~~ to look at the stones as there were so many people but went and gazed at a blank field in the opposite direction. I wondered whether a crowd would form round us trying to see what we were looking at but it didn't. After a while we went into a field where there was one large ~~of~~ stone railed round in case it should escape like this.
 > [Drawing: a tall standing stone inside a circular iron railing (the King Stone).]
 > We then decided to go into the next field ~~[struck]~~ and have lunch.
 >
-> *(p. 5)*
+> *(p. 6)*
 > It was what Christopher called a ~~stubbl~~ stubble field and he sat on a newspaper to have his lunch. It wasn't quite so bad as I ~~[struck]~~ pointed out when he said he thought it was a bit plebeian to sit on a newspaper as it was the Sunday Times. It was a good view. I hadn't got a very solid sort of meal with me.
 > 1 egg sandwich (squashed)
 > ¾ lb cherries (also)
@@ -251,19 +263,19 @@ His letters continue three months later, from architecture school: [Letters from
 > some red currants
 > 2 mars bars
 >
-> *(p. 6)*
+> *(p. 7)*
 > 4. Fortunately for me we pooled our resources or I should have been sick on my diet of cherries and chocolates.
 > We then walked for six miles, Christopher having had a good deal of entertainment out of seeing me trying to knock the cap off a bottle on a wooden fence that kept breaking up. I succeeded in the end.
 > It was a pretty walk very up and down ~~and~~ but unfortunately I had had to walk the day before about 12 miles because of the 'bus strike. At four o'clock after some more plums and chocolates we departed in opposite directions from different parts of the village the two buses passing each other. I enjoyed it very much. (the day)
 >
-> *(p. 7)*
+> *(p. 8)*
 > Don't expect me to be able to tell you how Christopher looked as I haven't the slightest idea but I suppose he looked quite well or else I should have noticed it. He certainly walked with great energy. Long Compton would have been a very good place to paint.
 > I shall send Christopher's bicycle by Passenger Train tomorrow night. That means it will probably get to Exeter ~~[struck]~~ on Wednesday afternoon and I shall myself collect it on Friday.
 > That's about all for now except to say that I think I shall be home during the early hours of Friday morning but will let you know please hang key up - Lots of love David
 
-*Notes:* The first sheet seems to be missing. The "circle of Druid's stones, seventy I believe" are the Rollright Stones on the Oxfordshire–Warwickshire border, and the railed-round single stone is the King Stone. "Something Folly" is a card in the drawing room at Tresillian, perhaps of Faringdon Folly.
+*Notes:* The first sheet, rescanned as "00" in October 2026, explains that a letter written on the Friday was out of date and never posted. "Write Burslem School for advice", a note at its head, is presumably the Burslem School of Art in Stoke-on-Trent. The "circle of Druid's stones, seventy I believe" are the Rollright Stones on the Oxfordshire–Warwickshire border, and the railed-round single stone is the King Stone. "Something Folly" is a card in the drawing room at Tresillian, perhaps of Faringdon Folly.
 
-> [!scan]- Scans (7)
+> [!scan]- Scans (8)
 > ![Scan, page 1](../../images/Wellesbourne-Letters-letter-03-p1.jpg)
 > ![Scan, page 2](../../images/Wellesbourne-Letters-letter-03-p2.jpg)
 > ![Scan, page 3](../../images/Wellesbourne-Letters-letter-03-p3.jpg)
@@ -271,6 +283,7 @@ His letters continue three months later, from architecture school: [Letters from
 > ![Scan, page 5](../../images/Wellesbourne-Letters-letter-03-p5.jpg)
 > ![Scan, page 6](../../images/Wellesbourne-Letters-letter-03-p6.jpg)
 > ![Scan, page 7](../../images/Wellesbourne-Letters-letter-03-p7.jpg)
+> ![Scan, page 8](../../images/Wellesbourne-Letters-letter-03-p8.jpg)
 
 ## Envelopes
 

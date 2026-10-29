@@ -130,7 +130,7 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 > I hope you enjoyed thanking the donor for the 'cellophane sack' as you describe it Daddy. (that's in code you see that's why it's worded like that.)
 >
 > *(p. 2)*
-> I should … to popularity among the other officers when he inoculated the battalion including officers. I wonder if he did himself.
+> I should think Kit sealed his fate with regard to popularity among the other officers when he inoculated the battalion including officers. I wonder if he did himself.
 > I had realized I was nearer Exeter by the distinctly warmer climate, though I suppose that may have been the East coast and the sea.
 > I seem to remember Daddy you said you could do with some of the fresh bracing air at Skegness. Well as regards bracing air the place is a flop, it's no more bracing than Dawlish Warren. It is simply cold and occasionally windy.
 > By the way à propos of Skegness I saw "rime" there for the first time. I think it's called "rime" an ice coating which forms overnight about ¼" thick all over the roads and pavements. It was awfully difficult to march on it.
@@ -263,7 +263,7 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 > It's rather funny the Scotch people in my hut laugh at the North country people as they say 'Nut' as in 'look'. And the funny part is that the Scotch themselves are talking so broadly you can hardly understand them.
 > I never knew before that Scotch people said their "U"s like we do.
 
-*Notes:* The pages were scanned out of order and have been put together by their content. The top of the second page is lost to a scanner fault. His parents had "boiled down" his leave notes (see the note on the envelope at the end). The comic afternoon in Wolverhampton with a hut-mate who finds everything "too dear" is one of the best things in the letters. Beattie's is the Wolverhampton department store.
+*Notes:* The pages were scanned out of order and have been put together by their content. The top of the second page was lost to a scanner fault and was rescanned in October 2026. His parents had "boiled down" his leave notes (see the note on the envelope at the end). The comic afternoon in Wolverhampton with a hut-mate who finds everything "too dear" is one of the best things in the letters. Beattie's is the Wolverhampton department store.
 
 > [!scan]- Scans (18)
 > ![Scan, page 1](../../images/Cosford-Letters-letter-02-p1.jpg)
@@ -595,28 +595,31 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 > The Station was crowded, more so perhaps than in daytime, the larger part of the crowd being forces. I hurried off to the Rotten Transport Office to get my pass signed, as the 10.15 had been the last train scheduled to reach here before midnight. Here was I, in a hole and feeling very civilian and not going to be sat on sort of feeling. So I said I wanted my pass signed and an American Corporal whom I later took a dislike signed it, to say that the next train was at 10.35 and told me it was in No 1 Bay.
 > Now I knew A. that it was after 10.35 now and B that there wasn't another train till 11.10 anyway. So I went up to three railway officials in turn after practically having to send out a search party to find them and had the words from their lips that there wasn't a train until 11.10
 >
-> *[One or more pages missing here.]*
->
 > *(p. 4)*
+> Then I went back to the American Corporal and told him as tactfully as I could that he must have made a mistake. I made the mistake in being tactful he started trying to create a train at 10.35 on No 2 Platform then and I thought it was time he stopped inventing these trains for his amusement. So I told him that I couldn't help it but the Railway People couldn't possibly be all three wrong. ~~and~~"
+> Finally with a very bad grace he added to my pass "11.10 J.G." leaving the old 10.35 as a form of compromise between victory & defeat. I took it and went skating down to No 3 platform. Here I boarded the train now waiting. I had some doubt as to whether the corridor would hold more but eventually got in at a spot between two next door neighbours of mine from G.9 hut.
+> The train set out about 11.20 and all went well for a few miles. Then for censored reasons which
+>
+> *(p. 5)*
 > are so obvious that any spy reading this could guess them we had to wait for half an hour or so.
 > We reached Wolves about quarter to one, an hour late. I got the R.T.O. to sign my pass again and inquired about the next train fully expecting it to be the 4.10. However Fortune was good to me the 12.37 had not yet left and was even now waiting for the London Train. I thought this called for a certain amount of hurry on my part but was calmly told by the ticket collector that there wasn't any hurry as we shouldn't be leaving for another hour or so.
 > Then my words of only a few hours previously were proved. Looking round the station I saw the welcome sign board of the Y.M.C.A.
 > It's jolly good, I don't believe there's another organization to beat it. There it was open and warm. Every where were sleeping airmen and soldiers.
 >
-> *(p. 5)*
+> *(p. 6)*
 > There were three voluntary workers at the counter dishing out tea and coffee, ginger beer and sandwiches cakes and toast. (This sounds a bit like a sort of recommendation of a hotel).
 > I had already consumed the vast supplies of sandwiches etc which you made me Mummy, very good they were too. However this had been over six hours before so I fell too on two bottles of ginger beer and a sandwich.
 > This done I made my way between the snoring forms out to the platform and into the train. I had the misfortune to go into a compartment were there were four unfortunates who had been to Manchester without passes and had just been picked up by S.P's. who were it appeared now on the train.
 > This was a new one on me S.P's on the train and the pass in my pocket seemed to be burning with the words 2359.
 >
-> *(p. 6)*
+> *(p. 7)*
 > In the R.A.F. at Cosford getting your pass signed is no safeguard against going on a charge.
 > They talked so loud I couldn't sleep. By the way I had to stand between B'ham and Wolves.
 > At last we arrived at the camp. and I advanced to meet the guard at the gate. I didn't advance alone however, many hundreds of others late for the same reason as I was, were coming in too. The S.P. looked at my pass for a second or two and then after a significant pause said "All right".
 > Some people are today on C.B but I am not one of them - They are those who taking advantage of the conditions did not return until 7.30 am. Had I taken the 4.20 I might have got here or I might not.
 > The cause of my delay has been giving me trouble ever since.
 >
-> *(p. 7)*
+> *(p. 8)*
 > The time is getting on and I am on duty as fire watcher tonight. Yes, we even have them. Blackouts and lights out are done by the firewatcher.
 > I am rather tired so I'll just be going now and I won't run my bath too deep in case Wiggs is having one later.
 > Goodnight - I'll imagine the lemon to-night but I've got the aspirins if need be but I think ~~[struck]~~ I shan't need them.
@@ -625,7 +628,7 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 > your loving son
 > David.
 >
-> *(p. 8)*
+> *(p. 9)*
 > Continuation on Saturday.
 > It's cold but bearable. I feel as if I have had a quite long break by having that forty eight. I have posted Lynette's sweets but as I think her birthday is the fifth surely Monday is rather late.
 > The more I see of this course the less I feel any ability to deal with it. I don't much care about this 'General Forces Programme'.
@@ -633,16 +636,16 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 > I see I'm on duty next Wednesday again I hope it doesn't snow or anything.
 > Last night I went to Wolverhampton to the Art School to fix up about the nights on which I am to go. I am going on Mondays Tuesdays and Wednesday except when on duty.
 >
-> *(p. 9)*
+> *(p. 10)*
 > I had an awful time fixing it up. One enters the art school and immediately on the right is an Office with a window opening into the hall. Looking through this was a man with rather cross eyes. (not angry "cross" ⇄ cross-eyes) He, I later discovered, he was the principle, after finishing the fixing of days to come on ~~[struck]~~ regaled me with tales of the last war for nearly an hour.
 > It was awful I was fed up, it was worse than the "Tennis friends". He went on and on and since he'd just told me the course would cost me nothing, I couldn't make any very hard essays to escape before there was a really good chance, which as I say took nearly an hour later.
 > He told me all about how he was in camp outside Bath. I've managed to get some No 8 batteries which may be of use and also a hole in my sock which won't be of use until repaired. That's all for the time being
 > with love to you both and Wiggs
 > your loving son David
 
-*Notes:* Two pages of the journey are missing; a scrap of one shows at the top of scan 0 133. S.P.s are the RAF Service Police; C.B. is "confined to barracks". He enrols for evening classes at Wolverhampton School of Art.
+*Notes:* One page of the journey is missing, after the first. Another, the row with the American corporal at Birmingham station (a scrap of it shows at the top of scan 0 133), was found and scanned in October 2026 as 0 134. S.P.s are the RAF Service Police; C.B. is "confined to barracks". He enrols for evening classes at Wolverhampton School of Art.
 
-> [!scan]- Scans (9)
+> [!scan]- Scans (10)
 > ![Scan, page 1](../../images/Cosford-Letters-letter-07-p1.jpg)
 > ![Scan, page 2](../../images/Cosford-Letters-letter-07-p2.jpg)
 > ![Scan, page 3](../../images/Cosford-Letters-letter-07-p3.jpg)
@@ -652,6 +655,7 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 > ![Scan, page 7](../../images/Cosford-Letters-letter-07-p7.jpg)
 > ![Scan, page 8](../../images/Cosford-Letters-letter-07-p8.jpg)
 > ![Scan, page 9](../../images/Cosford-Letters-letter-07-p9.jpg)
+> ![Scan, page 10](../../images/Cosford-Letters-letter-07-p10.jpg)
 
 ### 08. Sunday, c. 19 March 1944 (predicting the invasion)
 

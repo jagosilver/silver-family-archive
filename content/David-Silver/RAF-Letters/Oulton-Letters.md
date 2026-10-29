@@ -16,7 +16,7 @@ This is the year he set out to become an architect. On the education officer's a
 
 He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by Norwich Cathedral. He finds his hut-mates talk only of "football, riveting, aeroplanes, and beer". He hitch-hikes back from leave through the night on petrol lorries and a milk lorry, "seated on a churn". He hunts Norwich for a birthday present for his mother and is defeated by a shop assistant with a green jug. He draws the coast at Treknow, where his parents are on holiday, to settle an argument about a headland. And he imagines what record he would ask for if he were posted overseas: a voice saying "This is Exeter, Exeter St David's, the train standing on No 1 platform is for Torquay, Newton Abbott and Plymouth."
 
-**About the transcription.** The letters are transcribed with David's own spelling and punctuation. ~~Struck text~~ shows his crossings-out, [?] a doubtful reading and [square brackets] describe drawings and layout. Page breaks appear as *(p. n)*. Most of the letters are dated from the events he mentions; the evidence is given in italics under each heading. One sheet is missing and two pages were damaged in scanning. Two pages from his Bruton schooldays, filed with these, are given at the end; a Cosford letter filed here is on the [Cosford page](Cosford-Letters). The scans for each letter are in the collapsible **Scans** box beneath it.
+**About the transcription.** The letters are transcribed with David's own spelling and punctuation. ~~Struck text~~ shows his crossings-out, [?] a doubtful reading and [square brackets] describe drawings and layout. Page breaks appear as *(p. n)*. Most of the letters are dated from the events he mentions; the evidence is given in italics under each heading. One page was damaged in scanning, and the August 1944 letter breaks off after sheet 8. Two pages from his Bruton schooldays, filed with these, are given at the end; a Cosford letter filed here is on the [Cosford page](Cosford-Letters). The scans for each letter are in the collapsible **Scans** box beneath it.
 
 ---
 
@@ -226,47 +226,56 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 > ![Scan, page 11](../../images/Oulton-Letters-letter-03-p11.jpg)
 > ![Scan, page 12](../../images/Oulton-Letters-letter-03-p12.jpg)
 
-### 04. c. late August 1944 (incomplete)
+### 04. Sunday 20 August 1944 (incomplete)
 
-*The first sheet is missing (probably the empty scan 0 133) and the letter breaks off at the end of sheet 8. He has nine days' leave "from after duty hours on the 6th of November 11 weeks or so hence. That is a Monday" (6 Nov 1944 was a Monday), so written about 21–23 August 1944, just back from leave.*
+*Dated "20/8/44" on sheet 1 (a Sunday), which was only found and scanned in October 2026; the first scan, 0 133, was an empty file. The letter breaks off at the end of sheet 8. He has nine days' leave "from after duty hours on the 6th of November 11 weeks or so hence. That is a Monday" (6 Nov 1944 was a Monday); he is just back from leave.*
 
-> *[One or more pages missing here.]*
->
 > *(p. 1)*
+> 1.
+> 1587757. AC. Silver.
+> 1699 Flight
+> R.A.F Oulton
+> Nr Norwich
+> 20/8/44
+> Dear Daddy & Mummy.
+> The weather broke directly I got back. I had an awful journey back owing to my not enquiring about the trains in time at the enquiry office. The 12.10 wasn't running, had not been for some time although it was still posted up as up-to-date on the notices.
+> Had I known it there was a G.W.R. train that would have got me to London by 10 to five, leaving St Davids at about 12.55.
+>
+> *(p. 2)*
 > 2.
 > I didn't find that out until too late and so took the 12.50 to Waterloo. It was timed to get in at twelve minutes past five My, last but one, train for Norwich leaving L.P. St at 5.6.
 > In despair I turned to the Argosy to take my mind off wondering whether I should be late. I had read it all before!
 > The train owing to delays did not reach Waterloo until about 5.45. The last train until 10 pm had left for Norwich. I got my pass signed to say that my train was late (I might have caught the five to six to Norwich if it hadn't been late) I took the first train to Ipswich arriving there at about 8.45.
 >
-> *(p. 2)*
+> *(p. 3)*
 > That's as far as it went. 3.
 > I then started to hitch hike from Ipswich to Norwich. I got two petrol lorries which carried me between them about 15 miles, and one lift in a private car of about 5 miles. After that I got stuck, nobody would risk stopping to pick one up at 11.30 at night although they saw me. It was more of a hike than a hitch and I walked to Diss Station where I caught the original ten o'clock from London at 2.10 am I arrived at Norwich at just after three. I was supposed to be back at midnight.
 > I then had a further fourteen miles to go. I went to the R.T.O. They signed my pass to the effect that the next train was 9. AM.
 >
-> *(p. 3)*
+> *(p. 4)*
 > 4.
 > and gave me a ticket for a bed at a hostel run for services caught between trains at night. I slept three hours, arose, and by means of an american lorry an R.A.F. van and a milk lorry (seated on a churn) I reached Oulton by 8.am. I explained my difficulties omitting the hitchhiking to the S.P.s and rightly, they let me go without a word. If the train hadn't been late I should have been back by 9.30 pm the previous night.
 > It was lovely to come home and here is some more good news. All being well
 >
-> *(p. 4)*
+> *(p. 5)*
 > 5.
 > I shall get nine days leave as from after duty hours on the 6th of November 11 weeks or so hence. That is a Monday.
 > I suppose by then Christopher will have gone? I hope not.
 > It's wonderful to have something to really look forward to.
 > Now some more good news my War Office course for History of Architecture has come through, My first papers, and I am to be the pupil of an F.R.I.B.A. lecturer to Cambridge University etc. etc He will henceforward deal with all my work and all correspondence will be between ~~him~~ he and ~~me~~ I ? his name is L. Stuart Stanley. MA FRIBA MTPI etc
 >
-> *(p. 5)*
+> *(p. 6)*
 > 6.
 > The war office will supply the text books. In his first letter he urges me to get on with the course as quickly as I can. If I put enough time into it I should complete it in about 6 months, it's the longest of six in preparation for the intermediate exam.
 > - It rains and pours -
 > He suggests additional text books which I might buy so I've ordered them from Wheatons by post. One I have not ordered is the one Christopher has called Statham's History of Architecture and I wondered if I might borrow it.
 >
-> *(p. 6)*
+> *(p. 7)*
 > 7.
 > If I could I might be able to get on with the first paper right away instead of waiting for the W.O. textbook. I am going to ask the Salvation Army for a cupboard to keep my things in as I don't want them all messed up in the hut.
 > I keep thinking of those plums sitting on that plate and of how nice a subject they were to paint. I hope that Christopher will continue his painting as I shall be most disappointed if I don't see him go on improving his washes at the same rate at which he was the other day.
 >
-> *(p. 7)*
+> *(p. 8)*
 > 8.
 > I do hope that if you do manage to take a holiday the weather will not break up completely.
 > I did enjoy going to Pygmalion Mummy dear, with you and I am so glad that you were able to see it. Isn't the news good? We are going to beat the Germans before the new year, or very soon after. Then you won't have any more black out and perhaps there'll even be a petrol ration.
@@ -278,7 +287,7 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 
 *Notes:* His War Office correspondence course in the History of Architecture has come through; his tutor, L. Stuart Stanley FRIBA, lectured at Cambridge. Statham's *History of Architecture* is the book Christopher had. *Argosy* was a fiction magazine. Diss is the Norfolk station where he caught the London train at 2.10 a.m.
 
-> [!scan]- Scans (7)
+> [!scan]- Scans (8)
 > ![Scan, page 1](../../images/Oulton-Letters-letter-04-p1.jpg)
 > ![Scan, page 2](../../images/Oulton-Letters-letter-04-p2.jpg)
 > ![Scan, page 3](../../images/Oulton-Letters-letter-04-p3.jpg)
@@ -286,6 +295,7 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 > ![Scan, page 5](../../images/Oulton-Letters-letter-04-p5.jpg)
 > ![Scan, page 6](../../images/Oulton-Letters-letter-04-p6.jpg)
 > ![Scan, page 7](../../images/Oulton-Letters-letter-04-p7.jpg)
+> ![Scan, page 8](../../images/Oulton-Letters-letter-04-p8.jpg)
 
 ### 05. Friday 1 – Sunday 3 September 1944
 
@@ -304,8 +314,9 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 > There was a combined atmosphere of Elands and the antique shop in
 >
 > *(p. 2)*
-> [Top half illegible: scanner fault.]
-> exhibition of Ballet Design. The original sketches for ballets scenery etc. It is a travelling exhibition and should it come to Exeter it is really well worth seeing. It was interesting to see the different mediums used - from pen and wash to poster colours. The latter were very popular, probably because you can paint out mistakes and they give an appearance of solidity
+> the cathedral yard. I had two people to wait on me, was shown to a table instead of fighting for it, brought a newspaper and generally well looked after. There were no Americans there.
+> After lunch I went up to the museum in the castle. There was an exhibition of the early paintings of Munnings (is he the president of the Royal Academy?) Some painted in 1898 and 1900. I wonder how old he was. A large number were very good but there were one or two which were rather below standard. There was an extremely long horse!
+> There was wonderful C.E.M.A. exhibition of Ballet Design. The original sketches for ballets scenery etc. It is a travelling exhibition and should it come to Exeter it is really well worth seeing. It was interesting to see the different mediums used - from pen and wash to poster colours. The latter were very popular, probably because you can paint out mistakes and they give an appearance of solidity
 >
 > *(p. 3)*
 > That museum is worth a visit every time I go to Norwich.
@@ -326,7 +337,7 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 > I'll examine your house, should you require expert architectural knowledge! I can't get on with my course because the books haven't come through.
 > I am glad the tomatoes are doing well and also that the lawnmower still works after my efforts. Love David.
 
-*Notes:* The top half of the second page (scan 0 40) is lost to a scanner fault. Elands was an Exeter bookshop. "The C.C." is the Chief Constable: his parents had nearly been prosecuted over the blackout.
+*Notes:* The top half of the second page (scan 0 40) was lost to a scanner fault until it was rescanned in October 2026: lunch near the cathedral, the early Munnings paintings at the Castle Museum and the C.E.M.A. ballet design exhibition. Elands was an Exeter bookshop. "The C.C." is the Chief Constable: his parents had nearly been prosecuted over the blackout.
 
 > [!scan]- Scans (4)
 > ![Scan, page 1](../../images/Oulton-Letters-letter-05-p1.jpg)
@@ -354,10 +365,10 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 >
 > *(p. 3)*
 > Though not anything the same in type it is of the same standard to me as "Gone with the Wind" "The Young Mr Pitt" "Pygmalion" etc. It is simply the story of a family between 1919 and 1939 It's very real and is really more like a play than a film perhaps because the people seem to be real people and are not so very well known as film actors. I don't know whether you'd like it, I should think you would. I saw the fighting in Paris in the News with it and it was very exciting and absolutely horrible and not a bit your kind of News, Mummy. I noticed the Parisians were using Sten guns and that was taken before the Allies reached Paris.
-> After two or three days of cloudburst-sort of rain it is lovely again although it feels up here as if the autumn is creeping in. The air is very very cold in the morning and turns one's hands quite [blue?] on the backs.
-> [I did?] a sketch the other day but it [wasn't v]ery good.
+> After two or three days of cloudburst-sort of rain it is lovely again although it feels up here as if the autumn is creeping in. The air is very very cold in the morning and turns one's hands quite blue on the backs.
+> I did a sketch the other day but it was not very good.
 
-*Notes:* Banister Fletcher's *History of Architecture* was the standard text. The M.O.'s diagnosis of "slight asthma" is the first mention of it in the letters. *This Happy Breed* (1944) is Noël Coward's film; the bottom corner of the last page is folded over, so a few words are guessed.
+*Notes:* Banister Fletcher's *History of Architecture* was the standard text. The M.O.'s diagnosis of "slight asthma" is the first mention of it in the letters. *This Happy Breed* (1944) is Noël Coward's film; the folded-over bottom corner of the last page was opened out for a rescan in October 2026.
 
 > [!scan]- Scans (3)
 > ![Scan, page 1](../../images/Oulton-Letters-letter-06-p1.jpg)
