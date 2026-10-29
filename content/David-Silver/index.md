@@ -35,6 +35,7 @@ tags:
 - **1947–1953** · [Letters from Bristol](Bristol-Letters): architecture school, Anthea, and marriage in December 1952.
 - **c. 1951** · [Letters from France](France-Letters): a solo motorbike tour.
 - **1953 onwards** · [Architect](David-Silver/Biography#architect) and [Wadebridge](David-Silver/Biography#wadebridge).
+- **1937–1953** · [Films and Books in His Letters](David-Silver/Films-and-Books): every film, book, play and broadcast he mentions, from *Just William* at Bruton to Chaplin's *Limelight* in Bristol, with IMDb and Open Library links.
 - **c. 1994** · [Grandpa's Second World War tape](WWII-Interview): his own account of the war, recorded for his grandson's school project, with audio and transcript.
 - **1996–2001** · [In his own words](David-Silver/Biography#in-his-own-words): letters to his grandson, with pen sketches of Spitfires, Brittany and the Eden Project.
 - **2003** · [Last words](David-Silver/Biography#last-words).
