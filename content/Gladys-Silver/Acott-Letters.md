@@ -20,7 +20,7 @@ The letters survive as scans in a folder labelled *"Peter's Letters"*, together 
 
 *A single typed sheet kept with the letters (`Typed family tree.jpg`), summarising the Baker, Acott and Rowell lines. Its author is unknown (perhaps Muriel); its last line points back to "Edwin's letter".*
 
-![The typed family tree kept with the letters, showing the Acott, Weston, Baker, Belcher, Rowell and Brown lines.](images/Acott-Typed-Family-Tree.jpg)
+![The typed family tree kept with the letters, showing the Acott, Weston, Baker, Belcher, Rowell and Brown lines.](../images/Acott-Typed-Family-Tree.jpg)
 
 > **Rupert Philip Acott** 1853–1941 (married Charlotte Rowell)
 > — son of **Charles Henry Acott** 1825–1870 (printer) = **Anne Amelia Baker** 1828–1915
@@ -279,80 +279,80 @@ The letters survive as scans in a folder labelled *"Peter's Letters"*, together 
 
 ### 16 June 1942
 
-![Letter of 16 June 1942, page 1](images/Acott-1942-06-16-p1.jpg)
+![Letter of 16 June 1942, page 1](../images/Acott-1942-06-16-p1.jpg)
 
-![Letter of 16 June 1942, page 2](images/Acott-1942-06-16-p2.jpg)
+![Letter of 16 June 1942, page 2](../images/Acott-1942-06-16-p2.jpg)
 
-![Letter of 16 June 1942, page 3](images/Acott-1942-06-16-p3.jpg)
+![Letter of 16 June 1942, page 3](../images/Acott-1942-06-16-p3.jpg)
 
-![Letter of 16 June 1942, page 4](images/Acott-1942-06-16-p4.jpg)
+![Letter of 16 June 1942, page 4](../images/Acott-1942-06-16-p4.jpg)
 
-![Letter of 16 June 1942, page 5](images/Acott-1942-06-16-p5.jpg)
+![Letter of 16 June 1942, page 5](../images/Acott-1942-06-16-p5.jpg)
 
-![Letter of 16 June 1942, page 6](images/Acott-1942-06-16-p6.jpg)
+![Letter of 16 June 1942, page 6](../images/Acott-1942-06-16-p6.jpg)
 
 ### 23 August 1942
 
-![Letter of 23 August 1942, page 1](images/Acott-1942-08-23-p01.jpg)
+![Letter of 23 August 1942, page 1](../images/Acott-1942-08-23-p01.jpg)
 
-![Letter of 23 August 1942, page 2](images/Acott-1942-08-23-p02.jpg)
+![Letter of 23 August 1942, page 2](../images/Acott-1942-08-23-p02.jpg)
 
-![Letter of 23 August 1942, page 3](images/Acott-1942-08-23-p03.jpg)
+![Letter of 23 August 1942, page 3](../images/Acott-1942-08-23-p03.jpg)
 
-![Letter of 23 August 1942, page 4](images/Acott-1942-08-23-p04.jpg)
+![Letter of 23 August 1942, page 4](../images/Acott-1942-08-23-p04.jpg)
 
-![Letter of 23 August 1942, page 5](images/Acott-1942-08-23-p05.jpg)
+![Letter of 23 August 1942, page 5](../images/Acott-1942-08-23-p05.jpg)
 
-![Letter of 23 August 1942, page 6](images/Acott-1942-08-23-p06.jpg)
+![Letter of 23 August 1942, page 6](../images/Acott-1942-08-23-p06.jpg)
 
-![Letter of 23 August 1942, page 7](images/Acott-1942-08-23-p07.jpg)
+![Letter of 23 August 1942, page 7](../images/Acott-1942-08-23-p07.jpg)
 
-![Letter of 23 August 1942, page 8](images/Acott-1942-08-23-p08.jpg)
+![Letter of 23 August 1942, page 8](../images/Acott-1942-08-23-p08.jpg)
 
-![Letter of 23 August 1942, page 9](images/Acott-1942-08-23-p09.jpg)
+![Letter of 23 August 1942, page 9](../images/Acott-1942-08-23-p09.jpg)
 
-![Letter of 23 August 1942, page 10](images/Acott-1942-08-23-p10.jpg)
+![Letter of 23 August 1942, page 10](../images/Acott-1942-08-23-p10.jpg)
 
-![Letter of 23 August 1942, page 11](images/Acott-1942-08-23-p11.jpg)
+![Letter of 23 August 1942, page 11](../images/Acott-1942-08-23-p11.jpg)
 
-![Letter of 23 August 1942, page 12](images/Acott-1942-08-23-p12.jpg)
+![Letter of 23 August 1942, page 12](../images/Acott-1942-08-23-p12.jpg)
 
-![Letter of 23 August 1942, page 13](images/Acott-1942-08-23-p13.jpg)
+![Letter of 23 August 1942, page 13](../images/Acott-1942-08-23-p13.jpg)
 
-![Letter of 23 August 1942, page 14](images/Acott-1942-08-23-p14.jpg)
+![Letter of 23 August 1942, page 14](../images/Acott-1942-08-23-p14.jpg)
 
-![Letter of 23 August 1942, page 15](images/Acott-1942-08-23-p15.jpg)
+![Letter of 23 August 1942, page 15](../images/Acott-1942-08-23-p15.jpg)
 
-![Letter of 23 August 1942, page 16](images/Acott-1942-08-23-p16.jpg)
+![Letter of 23 August 1942, page 16](../images/Acott-1942-08-23-p16.jpg)
 
-![Letter of 23 August 1942, page 17](images/Acott-1942-08-23-p17.jpg)
+![Letter of 23 August 1942, page 17](../images/Acott-1942-08-23-p17.jpg)
 
-![Letter of 23 August 1942, page 18](images/Acott-1942-08-23-p18.jpg)
+![Letter of 23 August 1942, page 18](../images/Acott-1942-08-23-p18.jpg)
 
-![Letter of 23 August 1942, page 19](images/Acott-1942-08-23-p19.jpg)
+![Letter of 23 August 1942, page 19](../images/Acott-1942-08-23-p19.jpg)
 
-![Letter of 23 August 1942, page 20](images/Acott-1942-08-23-p20.jpg)
+![Letter of 23 August 1942, page 20](../images/Acott-1942-08-23-p20.jpg)
 
-![Letter of 23 August 1942, page 21](images/Acott-1942-08-23-p21.jpg)
+![Letter of 23 August 1942, page 21](../images/Acott-1942-08-23-p21.jpg)
 
-![Letter of 23 August 1942, page 22](images/Acott-1942-08-23-p22.jpg)
+![Letter of 23 August 1942, page 22](../images/Acott-1942-08-23-p22.jpg)
 
-![Letter of 23 August 1942, page 23](images/Acott-1942-08-23-p23.jpg)
+![Letter of 23 August 1942, page 23](../images/Acott-1942-08-23-p23.jpg)
 
-![Letter of 23 August 1942, page 24](images/Acott-1942-08-23-p24.jpg)
+![Letter of 23 August 1942, page 24](../images/Acott-1942-08-23-p24.jpg)
 
-![Letter of 23 August 1942, page 25](images/Acott-1942-08-23-p25.jpg)
+![Letter of 23 August 1942, page 25](../images/Acott-1942-08-23-p25.jpg)
 
-![Letter of 23 August 1942, page 26](images/Acott-1942-08-23-p26.jpg)
+![Letter of 23 August 1942, page 26](../images/Acott-1942-08-23-p26.jpg)
 
-![Letter of 23 August 1942, page 27](images/Acott-1942-08-23-p27.jpg)
+![Letter of 23 August 1942, page 27](../images/Acott-1942-08-23-p27.jpg)
 
-![Letter of 23 August 1942, page 28](images/Acott-1942-08-23-p28.jpg)
+![Letter of 23 August 1942, page 28](../images/Acott-1942-08-23-p28.jpg)
 
-![Letter of 23 August 1942, page 29](images/Acott-1942-08-23-p29.jpg)
+![Letter of 23 August 1942, page 29](../images/Acott-1942-08-23-p29.jpg)
 
-![Letter of 23 August 1942, page 30](images/Acott-1942-08-23-p30.jpg)
+![Letter of 23 August 1942, page 30](../images/Acott-1942-08-23-p30.jpg)
 
-![Letter of 23 August 1942, page 31](images/Acott-1942-08-23-p31.jpg)
+![Letter of 23 August 1942, page 31](../images/Acott-1942-08-23-p31.jpg)
 
-![Letter of 23 August 1942, page 32](images/Acott-1942-08-23-p32.jpg)
+![Letter of 23 August 1942, page 32](../images/Acott-1942-08-23-p32.jpg)

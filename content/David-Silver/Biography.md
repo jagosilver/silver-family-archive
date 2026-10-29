@@ -10,7 +10,7 @@ tags:
 
 **David Rodney Silver** (2 January 1924 – 19 April 2003) was an architect, a wartime RAF engine fitter, and, by his grandson's account, a frustrated artist. He was one of the six children of [Clifford Marking Silver](Clifford-Marking-Silver/), a dentist in Exeter, and Gladys Lucy Acott (see [The Acott Letters](Acott-Letters)). His siblings were James, Lavender, Philip, [Christopher Patrick](Christopher-Silver/) and Rosemary. He married [Anthea Leigh](Anthea-Silver/), whom he met at architecture school in Bristol, and they had three daughters, Tamsin, Bridget and Candy. He was Jago Silver's maternal grandfather, known to the family simply as **Grandpa**.
 
-![David Silver in later life, photographed in the garden at Wadebridge — white hair, wire-rimmed glasses, a cardigan over a blue shirt, a blue garden bench behind. *David Silver, "Grandpa".*](images/DRS-Grandpa.jpg)
+![David Silver in later life, photographed in the garden at Wadebridge — white hair, wire-rimmed glasses, a cardigan over a blue shirt, a blue garden bench behind. *David Silver, "Grandpa".*](../images/DRS-Grandpa.jpg)
 
 David and his brother Christopher were, in Christopher's words, *"close friends all our lives."* Christopher photographed him as a young man (see [People](Christopher-Silver/People)), and three years after David's death he made a gift to every one of David's grandchildren in his memory.
 
@@ -18,21 +18,21 @@ David and his brother Christopher were, in Christopher's words, *"close friends 
 
 ## Bruton, 1937–1942
 
-![David as a boy, in a hand-knitted jumper, leaning his head on one hand. *David as a boy.*](images/DRS-boy.jpg)
+![David as a boy, in a hand-knitted jumper, leaning his head on one hand. *David as a boy.*](../images/DRS-boy.jpg)
 
-![Hand-coloured studio portrait of David as a boy in an open-necked shirt. *A hand-coloured studio portrait.*](images/DRS-boy-studio.jpg)
+![Hand-coloured studio portrait of David as a boy in an open-necked shirt. *A hand-coloured studio portrait.*](../images/DRS-boy-studio.jpg)
 
 From the age of thirteen David boarded at [King's School, Bruton](Kings-School-Bruton), in Somerset, following his brother Christopher. Sixty-eight of his letters home survive, from his first homesick weeks in September 1937 to June 1942: the coming of the war, his Cert "A" and the Home Guard, head of house and of the school Air Training Corps, his RAF aircrew selection board at Oxford, a colour-vision test in which he "can't tell the difference between pink and green", and his letter written five days after the Exeter Blitz. → [The Bruton Letters (1937–1942)](Bruton-Letters)
 
 ## Exeter, and the war
 
-![David as a young man in RAF uniform, wearing round glasses. *David in RAF uniform.*](images/DRS-RAF.jpg)
+![David as a young man in RAF uniform, wearing round glasses. *David in RAF uniform.*](../images/DRS-RAF.jpg)
 
 David went to Exeter School of Art for about two terms before joining the RAF. He was accepted for aircrew with 6/36 vision in each eye, but was barred from flying when the eyesight standards were raised for night fighters. Instead he spent four years overhauling and test-running the Rolls-Royce Merlin engines of Spitfires and Hurricanes. His service number was 1587757.
 
 He illustrated the job for his grandson in the margin of a letter:
 
-![Pen sketch from a 2001 letter: a fighter aircraft running its engine on the ground, propeller a blur, with a small figure clinging to the tail to hold it down. Annotations read "standby side", "eight guns" and "I am sorry it doesn't look a bit like a Spitfire!" Chocks are drawn under the wheels. *From David's letter of 8 April 2001.*](images/DRS-Letter-Spitfire.jpg)
+![Pen sketch from a 2001 letter: a fighter aircraft running its engine on the ground, propeller a blur, with a small figure clinging to the tail to hold it down. Annotations read "standby side", "eight guns" and "I am sorry it doesn't look a bit like a Spitfire!" Chocks are drawn under the wheels. *From David's letter of 8 April 2001.*](../images/DRS-Letter-Spitfire.jpg)
 
 > I didnt maintain Rolls Royce Merlin aeroplane engines in Spitfires and Hurricanes without being trained by the RAF and practising it for four years in the war — and they set high standards. Its a million years ago but they were beautiful engines to test run. The tails would lift up in the air and the noses go into the ground if you didnt have enough weight on the tail. To start with I had to sit on the tail — (on the ground) but then later they got womens auxiliary air force (WAAFS for short) to do it. I used to test run the engines and look back at the poor things hanging on where I used to, like this. Just to reassure you there were chocks under the wheels and the brakes were on, but I can tell you the wind force was terrific on the poor girls faces. … There was a fable in the RAF that, once, a girl had gone up on the tail of an aircraft and been flown round Blackpool Tower clinging on for her very life — I dont believe it but it made a good story.
 
@@ -52,11 +52,11 @@ David grew up at **Tresillian**, the family home in West Avenue, Exeter. It was 
 
 While waiting to join the RAF the following summer, David painted the bomb-damaged garden side of the house. It shows the vine-covered porch on its heavy timber posts, the greenhouse, and windows covered with cotton fabric in place of glass. He called it *"this very poor sketch."* His brother Christopher had photographed the same garden front before the war (see [UK photographs](Christopher-Silver/UK)).
 
-![Watercolour detail of a white house: an upper window with dark panes, a red-tiled lean-to porch roof on a timber post with a climbing vine, a grey greenhouse roof at lower left and a stone wall in the foreground. *Tresillian after the bombing, watercolour by David Silver, c. 1942–43 (detail).*](images/DRS-Tresillian-Watercolour.jpg)
+![Watercolour detail of a white house: an upper window with dark panes, a red-tiled lean-to porch roof on a timber post with a climbing vine, a grey greenhouse roof at lower left and a stone wall in the foreground. *Tresillian after the bombing, watercolour by David Silver, c. 1942–43 (detail).*](../images/DRS-Tresillian-Watercolour.jpg)
 
 On the back he wrote a full account of the raid, with a sketch plan of the ground floor:
 
-![A sheet of textured watercolour paper covered in faint pencil handwriting, with a sketch floor plan at the top labelled with rooms including study, drawing room, court yard and coal house, and margin notes on the right. *The reverse, signed David Silver.*](images/DRS-Tresillian-Notes.jpg)
+![A sheet of textured watercolour paper covered in faint pencil handwriting, with a sketch floor plan at the top labelled with rooms including study, drawing room, court yard and coal house, and margin notes on the right. *The reverse, signed David Silver.*](../images/DRS-Tresillian-Notes.jpg)
 
 > **Tresillian, Exeter — After the bombing**
 >
@@ -78,16 +78,16 @@ The oak sideboard survived the shell. It was given new doors, and David kept it 
 
 Two years later, on leave, David painted a still life of plums on a patterned dish at Tresillian. Christopher was home at the same time with his leg in plaster from Italy, and painted his own version of the same arrangement.
 
-![Watercolour still life: red plums heaped on a blue-and-white patterned dish, set on an orange and blue patchwork quilt draped with a deep red cloth, pale green leaves behind. Signed David Silver, '44. *Still life with plums, Tresillian, summer 1944.*](images/DRS-Still-Life-1944.jpg)
+![Watercolour still life: red plums heaped on a blue-and-white patterned dish, set on an orange and blue patchwork quilt draped with a deep red cloth, pale green leaves behind. Signed David Silver, '44. *Still life with plums, Tresillian, summer 1944.*](../images/DRS-Still-Life-1944.jpg)
 
 > Tresillian. I did this, while Christopher on sick leave with a leg in plaster from the Southern Italy landings from North Africa, did another version. It was lovely summer 1944. I must have been on leave.
 > — David Silver, on the back
 
-![The back of the still life: stained, foxed paper with a few lines of faint pencil handwriting near the top, signed David Silver. *The note on the reverse.*](images/DRS-Still-Life-1944-Reverse.jpg)
+![The back of the still life: stained, foxed paper with a few lines of faint pencil handwriting near the top, signed David Silver. *The note on the reverse.*](../images/DRS-Still-Life-1944-Reverse.jpg)
 
 ## Architect
 
-![David in middle age, in glasses, jacket and tie, smiling, outdoors in sunlight. *David in middle age, c. 1970s.*](images/DRS-1970s.jpg)
+![David in middle age, in glasses, jacket and tie, smiling, outdoors in sunlight. *David in middle age, c. 1970s.*](../images/DRS-1970s.jpg)
 
 After the war David trained at the RWA School of Architecture in Bristol on a grant, and met Anthea there. Both of them qualified as architects. He spent most of his career in the civil service. One of his projects was a very large London building for British Telecom. Its design famously outran its own technology. One floor was specified 16 feet high, with reinforced flooring, to carry the giant computers of the day. The building took so long to design that by the time it went up, the specially strengthened floor was no longer needed.
 
@@ -99,7 +99,7 @@ David and Anthea lived for many years in Wadebridge, Cornwall. He loved the coun
 
 > Cornwall being — thank goodness! — unlike anywhere else: when we had lunch to-day there was an inch of rain water on the terrace outside — now there's blue blue sky coming out between the clouds — I shall never go away — I wouldn't live anywhere else — for all the tea in China! as they used to say when I was small.
 
-![Pen sketch heading a letter of around Christmas 2000: a line of wind turbines along a Cornish ridge, rooftops and a chimney in the foreground, the sky scribbled in blue crayon. Captioned "From my bedroom window." *From the "Look of the Century" letter, c. 2000.*](images/DRS-Letter-Bedroom-Window.jpg)
+![Pen sketch heading a letter of around Christmas 2000: a line of wind turbines along a Cornish ridge, rooftops and a chimney in the foreground, the sky scribbled in blue crayon. Captioned "From my bedroom window." *From the "Look of the Century" letter, c. 2000.*](../images/DRS-Letter-Bedroom-Window.jpg)
 
 In the late 1990s Jago helped Grandpa set up his first home computer. Jago drew up a spec sheet for a 486 PC in January 1998 and wrote him a user guide for Word, Paint Shop Pro and printing in June 1999. Grandpa gave him a model boat, which still sits on Jago's mantelpiece, and an old silver Akai tape deck.
 
@@ -153,7 +153,7 @@ Written in purple ink, after a family holiday on the north coast of Brittany.
 >
 > … Christopher came down for a wink and a sausage roll before going back to London. We went to see the Eden Project. He wheeled it and was very pleased he had seen it — sort of collecting 'in' things, I thought it was impressive because it was a whole valley (felt like it walking round) … I must stop or Anthea will think I have taken root and start watering me with the house plants. Much love to you both. David.
 
-![Purple pen sketch of the Eden Project: the biomes drawn as a mass of cross-hatched domes filling a valley, a dotted route looping round from the car park, and annotations — "½ a mile I should think", "200 feet I should think", "covered much more ground than I thought", "people going in, legs about 2'6 to 3'0 long", "people coming out (no feet), legs about 18" – 2'0" long", "serious need for cups of tea". *From the Brittany letter, May 2001.*](images/DRS-Letter-Eden-Project.jpg)
+![Purple pen sketch of the Eden Project: the biomes drawn as a mass of cross-hatched domes filling a valley, a dotted route looping round from the car park, and annotations — "½ a mile I should think", "200 feet I should think", "covered much more ground than I thought", "people going in, legs about 2'6 to 3'0 long", "people coming out (no feet), legs about 18" – 2'0" long", "serious need for cups of tea". *From the Brittany letter, May 2001.*](../images/DRS-Letter-Eden-Project.jpg)
 
 ### From my bedroom window (c. Christmas 2000)
 

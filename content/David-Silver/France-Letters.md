@@ -14,7 +14,7 @@ While he was training as an architect in [Bristol](Bristol-Letters), [David Silv
 
 On the way to Dover he waits for two circus elephants at Fenny Bridges, is buttonholed in Lewes by an Irishman wanting his "passage home", and crosses Romney Marsh at 33 mph, sounding "like an awfully angry bluebottle imprisoned in a jam jar". In France he loses the pack holding the bike's customs papers between Calais and Boulogne (the police find it), meets "the worst roads in the world" and bad petrol, and arrives at the Loire with his panniers in ribbons and only top gear. He enjoys it all the same: riding round the Arc de Triomphe "in all that mad hooting traffic", the châteaux, the poplar-lined roads, and the French saying "Oui Oui Oui Oui Oui like machine guns". It was, he wrote, "rather like being thrown into a swimming bath if you can't swim. First you think you are drowning and then you find out how to swim and begin to enjoy yourself."
 
-![Map of David's route, probably summer 1951: from Exeter along the south coast by Romsey, Chichester, Brighton, Lewes and Hastings to Sandgate and Dover; the Invicta to Calais; Boulogne (the lost pack), Amiens, Paris, Bourges and Blois on the Loire; and the return he planned by Chartres, Dreux, Evreux, Amiens and Boulogne. *His route, drawn from the three letters. The lines join the places he names, not the exact roads.*](images/France-1951-route.svg)
+![Map of David's route, probably summer 1951: from Exeter along the south coast by Romsey, Chichester, Brighton, Lewes and Hastings to Sandgate and Dover; the Invicta to Calais; Boulogne (the lost pack), Amiens, Paris, Bourges and Blois on the Loire; and the return he planned by Chartres, Dreux, Evreux, Amiens and Boulogne. *His route, drawn from the three letters. The lines join the places he names, not the exact roads.*](../images/France-1951-route.svg)
 
 **About the transcription.** The letters are transcribed with David's own spelling and punctuation. ~~Struck text~~ shows his crossings-out, [?] a doubtful reading and [square brackets] describe drawings and layout. Page breaks appear as *(p. n)*. The letters are not dated, so the year is worked out from the motorbike; the evidence is in italics under each heading. The Bourges letter breaks off mid-sentence. The scans for each letter are in the collapsible **Scans** box beneath it.
 
@@ -128,23 +128,23 @@ On the way to Dover he waits for two circus elephants at Fenny Bridges, is butto
 *Notes:* He left Exeter on the Sunday afternoon: Fenny Bridges (two circus elephants), Dorchester, Ringwood and the New Forest to Romsey (109 miles in six hours), then Portsmouth, Chichester, Arundel, Lancing, Brighton, Rottingdean, Lewes (the Irishman), the Pear Tree at Lewes, Hastings, Rye, Romney Marsh and Hythe. The Swan at Tewkesbury and Calne (near Bowood) are places he knew. He signs off: "Demain on parle Français but not Moi".
 
 > [!scan]- Scans (17)
-> ![Scan, page 1](images/France-Letters-letter-01-p1.jpg)
-> ![Scan, page 2](images/France-Letters-letter-01-p2.jpg)
-> ![Scan, page 3](images/France-Letters-letter-01-p3.jpg)
-> ![Scan, page 4](images/France-Letters-letter-01-p4.jpg)
-> ![Scan, page 5](images/France-Letters-letter-01-p5.jpg)
-> ![Scan, page 6](images/France-Letters-letter-01-p6.jpg)
-> ![Scan, page 7](images/France-Letters-letter-01-p7.jpg)
-> ![Scan, page 8](images/France-Letters-letter-01-p8.jpg)
-> ![Scan, page 9](images/France-Letters-letter-01-p9.jpg)
-> ![Scan, page 10](images/France-Letters-letter-01-p10.jpg)
-> ![Scan, page 11](images/France-Letters-letter-01-p11.jpg)
-> ![Scan, page 12](images/France-Letters-letter-01-p12.jpg)
-> ![Scan, page 13](images/France-Letters-letter-01-p13.jpg)
-> ![Scan, page 14](images/France-Letters-letter-01-p14.jpg)
-> ![Scan, page 15](images/France-Letters-letter-01-p15.jpg)
-> ![Scan, page 16](images/France-Letters-letter-01-p16.jpg)
-> ![Scan, page 17](images/France-Letters-letter-01-p17.jpg)
+> ![Scan, page 1](../images/France-Letters-letter-01-p1.jpg)
+> ![Scan, page 2](../images/France-Letters-letter-01-p2.jpg)
+> ![Scan, page 3](../images/France-Letters-letter-01-p3.jpg)
+> ![Scan, page 4](../images/France-Letters-letter-01-p4.jpg)
+> ![Scan, page 5](../images/France-Letters-letter-01-p5.jpg)
+> ![Scan, page 6](../images/France-Letters-letter-01-p6.jpg)
+> ![Scan, page 7](../images/France-Letters-letter-01-p7.jpg)
+> ![Scan, page 8](../images/France-Letters-letter-01-p8.jpg)
+> ![Scan, page 9](../images/France-Letters-letter-01-p9.jpg)
+> ![Scan, page 10](../images/France-Letters-letter-01-p10.jpg)
+> ![Scan, page 11](../images/France-Letters-letter-01-p11.jpg)
+> ![Scan, page 12](../images/France-Letters-letter-01-p12.jpg)
+> ![Scan, page 13](../images/France-Letters-letter-01-p13.jpg)
+> ![Scan, page 14](../images/France-Letters-letter-01-p14.jpg)
+> ![Scan, page 15](../images/France-Letters-letter-01-p15.jpg)
+> ![Scan, page 16](../images/France-Letters-letter-01-p16.jpg)
+> ![Scan, page 17](../images/France-Letters-letter-01-p17.jpg)
 
 ### 02. Friday, c. summer 1951 (Bourges: the lost pack)
 
@@ -188,11 +188,11 @@ On the way to Dover he waits for two circus elephants at Fenny Bridges, is butto
 *Notes:* He crossed Dover–Calais on the *Invicta* (1 hr 20 min), lost the pack with the bike's customs papers from his carrier between Calais and Boulogne, found it the next day at the Boulogne police station, and so went on a day late: Amiens (a "palatial" hotel), Paris (a small hotel near the Arc de Triomphe), the Champs Elysées and the Porte d'Italie, then Bourges. The page after 0 26 is missing, and a page may be missing between 0 28 and 0 26.
 
 > [!scan]- Scans (5)
-> ![Scan, page 1](images/France-Letters-letter-02-p1.jpg)
-> ![Scan, page 2](images/France-Letters-letter-02-p2.jpg)
-> ![Scan, page 3](images/France-Letters-letter-02-p3.jpg)
-> ![Scan, page 4](images/France-Letters-letter-02-p4.jpg)
-> ![Scan, page 5](images/France-Letters-letter-02-p5.jpg)
+> ![Scan, page 1](../images/France-Letters-letter-02-p1.jpg)
+> ![Scan, page 2](../images/France-Letters-letter-02-p2.jpg)
+> ![Scan, page 3](../images/France-Letters-letter-02-p3.jpg)
+> ![Scan, page 4](../images/France-Letters-letter-02-p4.jpg)
+> ![Scan, page 5](../images/France-Letters-letter-02-p5.jpg)
 
 ### 03. Monday 8 am, c. summer 1951 (Blois: the return trip)
 
@@ -243,10 +243,10 @@ On the way to Dover he waits for two circus elephants at Fenny Bridges, is butto
 *Notes:* On the Sunday he saw "the inside of three chateaux and the outside of four" on the Loire. Susie had only top gear left by now. Wiggs [?] and Christopher were evidently planning a similar trip. Castrol XL was his engine oil.
 
 > [!scan]- Scans (7)
-> ![Scan, page 1](images/France-Letters-letter-03-p1.jpg)
-> ![Scan, page 2](images/France-Letters-letter-03-p2.jpg)
-> ![Scan, page 3](images/France-Letters-letter-03-p3.jpg)
-> ![Scan, page 4](images/France-Letters-letter-03-p4.jpg)
-> ![Scan, page 5](images/France-Letters-letter-03-p5.jpg)
-> ![Scan, page 6](images/France-Letters-letter-03-p6.jpg)
-> ![Scan, page 7](images/France-Letters-letter-03-p7.jpg)
+> ![Scan, page 1](../images/France-Letters-letter-03-p1.jpg)
+> ![Scan, page 2](../images/France-Letters-letter-03-p2.jpg)
+> ![Scan, page 3](../images/France-Letters-letter-03-p3.jpg)
+> ![Scan, page 4](../images/France-Letters-letter-03-p4.jpg)
+> ![Scan, page 5](../images/France-Letters-letter-03-p5.jpg)
+> ![Scan, page 6](../images/France-Letters-letter-03-p6.jpg)
+> ![Scan, page 7](../images/France-Letters-letter-03-p7.jpg)

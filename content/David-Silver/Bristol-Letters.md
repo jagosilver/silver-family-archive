@@ -118,20 +118,20 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* His digs were with Mrs Gay at Meridian Vale, Clifton. Michael Eames, an Old Shirburnian with a war-damaged arm, became his closest friend and later his flatmate. Michael Edmonds was an Old Brutonian in the second year. Mr Hobbis was the first-year instructor. The 30/- a week was the vacation allowance on his further-education grant.
 
 > [!scan]- Scans (14)
-> ![Scan, page 1](images/Bristol-Letters-letter-01-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-01-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-01-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-01-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-01-p5.jpg)
-> ![Scan, page 6](images/Bristol-Letters-letter-01-p6.jpg)
-> ![Scan, page 7](images/Bristol-Letters-letter-01-p7.jpg)
-> ![Scan, page 8](images/Bristol-Letters-letter-01-p8.jpg)
-> ![Scan, page 9](images/Bristol-Letters-letter-01-p9.jpg)
-> ![Scan, page 10](images/Bristol-Letters-letter-01-p10.jpg)
-> ![Scan, page 11](images/Bristol-Letters-letter-01-p11.jpg)
-> ![Scan, page 12](images/Bristol-Letters-letter-01-p12.jpg)
-> ![Scan, page 13](images/Bristol-Letters-letter-01-p13.jpg)
-> ![Scan, page 14](images/Bristol-Letters-letter-01-p14.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-01-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-01-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-01-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-01-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-01-p5.jpg)
+> ![Scan, page 6](../images/Bristol-Letters-letter-01-p6.jpg)
+> ![Scan, page 7](../images/Bristol-Letters-letter-01-p7.jpg)
+> ![Scan, page 8](../images/Bristol-Letters-letter-01-p8.jpg)
+> ![Scan, page 9](../images/Bristol-Letters-letter-01-p9.jpg)
+> ![Scan, page 10](../images/Bristol-Letters-letter-01-p10.jpg)
+> ![Scan, page 11](../images/Bristol-Letters-letter-01-p11.jpg)
+> ![Scan, page 12](../images/Bristol-Letters-letter-01-p12.jpg)
+> ![Scan, page 13](../images/Bristol-Letters-letter-01-p13.jpg)
+> ![Scan, page 14](../images/Bristol-Letters-letter-01-p14.jpg)
 
 ### 02. Sunday 5 – Tuesday 7 October 1947 (the first week at the School of Architecture)
 
@@ -227,20 +227,20 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* Fourteen first-years, 105 students in all. The staff he names are Mr Hobbis, Mr Murch (building construction), Mr Freeth [?] (history) and the principal, Mr Hake. *John Halifax, Gentleman* was being serialised in Children's Hour. *Silver Ley* is Adrian Bell's farming novel. The last two scans are the "Financial Times Supplement", his weekly accounts.
 
 > [!scan]- Scans (14)
-> ![Scan, page 1](images/Bristol-Letters-letter-02-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-02-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-02-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-02-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-02-p5.jpg)
-> ![Scan, page 6](images/Bristol-Letters-letter-02-p6.jpg)
-> ![Scan, page 7](images/Bristol-Letters-letter-02-p7.jpg)
-> ![Scan, page 8](images/Bristol-Letters-letter-02-p8.jpg)
-> ![Scan, page 9](images/Bristol-Letters-letter-02-p9.jpg)
-> ![Scan, page 10](images/Bristol-Letters-letter-02-p10.jpg)
-> ![Scan, page 11](images/Bristol-Letters-letter-02-p11.jpg)
-> ![Scan, page 12](images/Bristol-Letters-letter-02-p12.jpg)
-> ![Scan, page 13](images/Bristol-Letters-letter-02-p13.jpg)
-> ![Scan, page 14](images/Bristol-Letters-letter-02-p14.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-02-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-02-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-02-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-02-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-02-p5.jpg)
+> ![Scan, page 6](../images/Bristol-Letters-letter-02-p6.jpg)
+> ![Scan, page 7](../images/Bristol-Letters-letter-02-p7.jpg)
+> ![Scan, page 8](../images/Bristol-Letters-letter-02-p8.jpg)
+> ![Scan, page 9](../images/Bristol-Letters-letter-02-p9.jpg)
+> ![Scan, page 10](../images/Bristol-Letters-letter-02-p10.jpg)
+> ![Scan, page 11](../images/Bristol-Letters-letter-02-p11.jpg)
+> ![Scan, page 12](../images/Bristol-Letters-letter-02-p12.jpg)
+> ![Scan, page 13](../images/Bristol-Letters-letter-02-p13.jpg)
+> ![Scan, page 14](../images/Bristol-Letters-letter-02-p14.jpg)
 
 ### 03. Sunday 12 October 1947 (top marks, mildew, and a hypnotist)
 
@@ -381,28 +381,28 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* He came top of the year for lettering (M 14, "M for mention"); Lance Wright was the registrar. Peter Casson was a well-known stage hypnotist of the 1940s. "Sherry or Cherie Dexter and Sue or Wombala" seem to be family jokes. The British Romantic Art exhibition was at the Bristol City Art Gallery. The files `0 55 k` are rotated copies of 0 56–0 76.
 
 > [!scan]- Scans (22)
-> ![Scan, page 1](images/Bristol-Letters-letter-03-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-03-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-03-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-03-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-03-p5.jpg)
-> ![Scan, page 6](images/Bristol-Letters-letter-03-p6.jpg)
-> ![Scan, page 7](images/Bristol-Letters-letter-03-p7.jpg)
-> ![Scan, page 8](images/Bristol-Letters-letter-03-p8.jpg)
-> ![Scan, page 9](images/Bristol-Letters-letter-03-p9.jpg)
-> ![Scan, page 10](images/Bristol-Letters-letter-03-p10.jpg)
-> ![Scan, page 11](images/Bristol-Letters-letter-03-p11.jpg)
-> ![Scan, page 12](images/Bristol-Letters-letter-03-p12.jpg)
-> ![Scan, page 13](images/Bristol-Letters-letter-03-p13.jpg)
-> ![Scan, page 14](images/Bristol-Letters-letter-03-p14.jpg)
-> ![Scan, page 15](images/Bristol-Letters-letter-03-p15.jpg)
-> ![Scan, page 16](images/Bristol-Letters-letter-03-p16.jpg)
-> ![Scan, page 17](images/Bristol-Letters-letter-03-p17.jpg)
-> ![Scan, page 18](images/Bristol-Letters-letter-03-p18.jpg)
-> ![Scan, page 19](images/Bristol-Letters-letter-03-p19.jpg)
-> ![Scan, page 20](images/Bristol-Letters-letter-03-p20.jpg)
-> ![Scan, page 21](images/Bristol-Letters-letter-03-p21.jpg)
-> ![Scan, page 22](images/Bristol-Letters-letter-03-p22.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-03-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-03-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-03-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-03-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-03-p5.jpg)
+> ![Scan, page 6](../images/Bristol-Letters-letter-03-p6.jpg)
+> ![Scan, page 7](../images/Bristol-Letters-letter-03-p7.jpg)
+> ![Scan, page 8](../images/Bristol-Letters-letter-03-p8.jpg)
+> ![Scan, page 9](../images/Bristol-Letters-letter-03-p9.jpg)
+> ![Scan, page 10](../images/Bristol-Letters-letter-03-p10.jpg)
+> ![Scan, page 11](../images/Bristol-Letters-letter-03-p11.jpg)
+> ![Scan, page 12](../images/Bristol-Letters-letter-03-p12.jpg)
+> ![Scan, page 13](../images/Bristol-Letters-letter-03-p13.jpg)
+> ![Scan, page 14](../images/Bristol-Letters-letter-03-p14.jpg)
+> ![Scan, page 15](../images/Bristol-Letters-letter-03-p15.jpg)
+> ![Scan, page 16](../images/Bristol-Letters-letter-03-p16.jpg)
+> ![Scan, page 17](../images/Bristol-Letters-letter-03-p17.jpg)
+> ![Scan, page 18](../images/Bristol-Letters-letter-03-p18.jpg)
+> ![Scan, page 19](../images/Bristol-Letters-letter-03-p19.jpg)
+> ![Scan, page 20](../images/Bristol-Letters-letter-03-p20.jpg)
+> ![Scan, page 21](../images/Bristol-Letters-letter-03-p21.jpg)
+> ![Scan, page 22](../images/Bristol-Letters-letter-03-p22.jpg)
 
 ### 04. Monday 27 – Thursday 30 October 1947 (the grant arrives; the school party)
 
@@ -479,16 +479,16 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* The first grant cheque was £69 6s 8d from the Ministry of Education. Peter King was another Old Shirburnian. The grain silo "at Pinhoe" is the one he was "always harping on". He jokes about his "nice sense of colour … for a colour blind person".
 
 > [!scan]- Scans (10)
-> ![Scan, page 1](images/Bristol-Letters-letter-04-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-04-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-04-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-04-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-04-p5.jpg)
-> ![Scan, page 6](images/Bristol-Letters-letter-04-p6.jpg)
-> ![Scan, page 7](images/Bristol-Letters-letter-04-p7.jpg)
-> ![Scan, page 8](images/Bristol-Letters-letter-04-p8.jpg)
-> ![Scan, page 9](images/Bristol-Letters-letter-04-p9.jpg)
-> ![Scan, page 10](images/Bristol-Letters-letter-04-p10.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-04-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-04-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-04-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-04-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-04-p5.jpg)
+> ![Scan, page 6](../images/Bristol-Letters-letter-04-p6.jpg)
+> ![Scan, page 7](../images/Bristol-Letters-letter-04-p7.jpg)
+> ![Scan, page 8](../images/Bristol-Letters-letter-04-p8.jpg)
+> ![Scan, page 9](../images/Bristol-Letters-letter-04-p9.jpg)
+> ![Scan, page 10](../images/Bristol-Letters-letter-04-p10.jpg)
 
 ## 1948
 
@@ -551,14 +551,14 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* He is now in his second year (Mr Dakers is the second-year master). *Rogue Male* is Geoffrey Household's thriller, then on the radio, and *Life with Father* the 1947 film. The Associated Building Technicians showed a film about china clay and St Austell.
 
 > [!scan]- Scans (8)
-> ![Scan, page 1](images/Bristol-Letters-letter-05-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-05-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-05-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-05-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-05-p5.jpg)
-> ![Scan, page 6](images/Bristol-Letters-letter-05-p6.jpg)
-> ![Scan, page 7](images/Bristol-Letters-letter-05-p7.jpg)
-> ![Scan, page 8](images/Bristol-Letters-letter-05-p8.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-05-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-05-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-05-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-05-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-05-p5.jpg)
+> ![Scan, page 6](../images/Bristol-Letters-letter-05-p6.jpg)
+> ![Scan, page 7](../images/Bristol-Letters-letter-05-p7.jpg)
+> ![Scan, page 8](../images/Bristol-Letters-letter-05-p8.jpg)
 
 ## 1950
 
@@ -614,12 +614,12 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* By now he lives at Richmond Park Road, Clifton, sharing a flat with Michael Eames, with Mr and Mrs Thomas as landlords. "Bedford Circus" is his father's bombed dental practice in Exeter (see Bedford Circus, Exeter). "Them" in the last line are Christopher and Nancy, whose wedding was that winter. Anthea's white taffeta bridesmaid's dress is presumably from that wedding.
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Bristol-Letters-letter-06-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-06-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-06-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-06-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-06-p5.jpg)
-> ![Scan, page 6](images/Bristol-Letters-letter-06-p6.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-06-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-06-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-06-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-06-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-06-p5.jpg)
+> ![Scan, page 6](../images/Bristol-Letters-letter-06-p6.jpg)
 
 ## 1951
 
@@ -677,12 +677,12 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* The first letter in which Anthea appears: he writes it sitting on her sofa while she mends. Mrs Pym is Nancy's mother, and Christopher and Mary Pym are Nancy's brother and sister. Michael (Eames) runs a car he later calls 'Jemima'. Cyril Howe was a Bristol photographer. *Framley Parsonage* is Trollope. Andrew Hake was a member of the school's staff (the principal's son?).
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Bristol-Letters-letter-07-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-07-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-07-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-07-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-07-p5.jpg)
-> ![Scan, page 6](images/Bristol-Letters-letter-07-p6.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-07-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-07-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-07-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-07-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-07-p5.jpg)
+> ![Scan, page 6](../images/Bristol-Letters-letter-07-p6.jpg)
 
 ### 08. Sunday 4 February 1951 (terrace houses and a dining recess)
 
@@ -740,12 +740,12 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* Uncle Herbert has just died. He may be recalled to the RAF reserve for a fortnight in summer 1951. The coloured drawing is of a "dining recess". The Batley concrete garage and the garden plan are for his landlord, Mr Thomas.
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Bristol-Letters-letter-08-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-08-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-08-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-08-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-08-p5.jpg)
-> ![Scan, page 6](images/Bristol-Letters-letter-08-p6.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-08-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-08-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-08-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-08-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-08-p5.jpg)
+> ![Scan, page 6](../images/Bristol-Letters-letter-08-p6.jpg)
 
 ### 09. Thursday 17 May 1951 (Whitsun traffic)
 
@@ -781,10 +781,10 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* Anthea's elm hut in the garden at Topsham, where she lay outdoors (she had TB, which her own memoir says lasted until she was 25), and her X-ray in Exeter. Michael Eames must repeat the fourth year.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bristol-Letters-letter-09-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-09-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-09-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-09-p4.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-09-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-09-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-09-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-09-p4.jpg)
 
 ### 10. A Wednesday, c. 23 May 1951 (Mr Hill's 'startling suggestion')
 
@@ -809,8 +809,8 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* Mr Hill, the fourth-year master, suggested he leave for a Bristol office for six months (£5 a week) and then finish the fourth year at his own expense. The October 1952 letters show he did return to the course. Anthea "doesn't get up nowadays" but lies in bed in her summer house.
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bristol-Letters-letter-10-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-10-p2.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-10-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-10-p2.jpg)
 
 ## 1952
 
@@ -845,10 +845,10 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* His "pub" is a public-house design project. Mr Fox, for whom Anthea worked, was an Exeter architect. Michael Eames's family lived near Taunton. "Mr Fox's airedale" is Mr Fox's dog.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bristol-Letters-letter-11-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-11-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-11-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-11-p4.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-11-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-11-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-11-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-11-p4.jpg)
 
 ### 12. Sunday 10 February 1952 (the King's death)
 
@@ -897,12 +897,12 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* The Tiverton visit was to Heathcoat-Amory's timber works. Philip's address in Bury is given in full on the scan. Mr Wright was the registrar. *The Great Ship* is Eric Linklater's 1944 radio play.
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Bristol-Letters-letter-12-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-12-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-12-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-12-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-12-p5.jpg)
-> ![Scan, page 6](images/Bristol-Letters-letter-12-p6.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-12-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-12-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-12-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-12-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-12-p5.jpg)
+> ![Scan, page 6](../images/Bristol-Letters-letter-12-p6.jpg)
 
 ### 13. Sunday 17 February 1952 (the King's funeral; gliders)
 
@@ -939,10 +939,10 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* The gliding club's field was an old aerodrome on the Bridgwater road. C.P.S. is Christopher, who had borrowed the enlarger's condensers. The report on flats is the flats project of that term.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bristol-Letters-letter-13-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-13-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-13-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-13-p4.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-13-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-13-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-13-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-13-p4.jpg)
 
 ### 14. Wednesday 12 March 1952 (the Elizabethan stage at the Drama Studio)
 
@@ -1013,16 +1013,16 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* Richard Southern, the theatre historian, was then the Rockefeller visiting lecturer. The "abominable examination" is the RIBA Intermediate. The last four scans are his coloured drawing of the stage (and its back) and the printed programme; the programme's inside is summarised rather than transcribed. Wiggs ("Wiggy") lived with his parents.
 
 > [!scan]- Scans (10)
-> ![Scan, page 1](images/Bristol-Letters-letter-14-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-14-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-14-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-14-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-14-p5.jpg)
-> ![Scan, page 6](images/Bristol-Letters-letter-14-p6.jpg)
-> ![Scan, page 7](images/Bristol-Letters-letter-14-p7.jpg)
-> ![Scan, page 8](images/Bristol-Letters-letter-14-p8.jpg)
-> ![Scan, page 9](images/Bristol-Letters-letter-14-p9.jpg)
-> ![Scan, page 10](images/Bristol-Letters-letter-14-p10.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-14-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-14-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-14-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-14-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-14-p5.jpg)
+> ![Scan, page 6](../images/Bristol-Letters-letter-14-p6.jpg)
+> ![Scan, page 7](../images/Bristol-Letters-letter-14-p7.jpg)
+> ![Scan, page 8](../images/Bristol-Letters-letter-14-p8.jpg)
+> ![Scan, page 9](../images/Bristol-Letters-letter-14-p9.jpg)
+> ![Scan, page 10](../images/Bristol-Letters-letter-14-p10.jpg)
 
 ### 15. Monday 19 May 1952 (Eleanor's christening; the ride from Hartford)
 
@@ -1089,16 +1089,16 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* Eleanor is Christopher and Nancy's first child. Hartford is near Huntingdon; "the Hurst" was evidently the Pyms' house. Susie is his motorbike: 148 miles in 4¾ hours. The sketch map shows the Leighs' possible new house on Cowley Road, near the Silvers' new home in Velwell Road, Exeter. The Comet was the first jet airliner, which entered service that month.
 
 > [!scan]- Scans (10)
-> ![Scan, page 1](images/Bristol-Letters-letter-15-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-15-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-15-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-15-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-15-p5.jpg)
-> ![Scan, page 6](images/Bristol-Letters-letter-15-p6.jpg)
-> ![Scan, page 7](images/Bristol-Letters-letter-15-p7.jpg)
-> ![Scan, page 8](images/Bristol-Letters-letter-15-p8.jpg)
-> ![Scan, page 9](images/Bristol-Letters-letter-15-p9.jpg)
-> ![Scan, page 10](images/Bristol-Letters-letter-15-p10.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-15-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-15-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-15-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-15-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-15-p5.jpg)
+> ![Scan, page 6](../images/Bristol-Letters-letter-15-p6.jpg)
+> ![Scan, page 7](../images/Bristol-Letters-letter-15-p7.jpg)
+> ![Scan, page 8](../images/Bristol-Letters-letter-15-p8.jpg)
+> ![Scan, page 9](../images/Bristol-Letters-letter-15-p9.jpg)
+> ![Scan, page 10](../images/Bristol-Letters-letter-15-p10.jpg)
 
 ### 16. Thursday 12 June 1952 (a note after the exams)
 
@@ -1121,8 +1121,8 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 > David.
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bristol-Letters-letter-16-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-16-p2.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-16-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-16-p2.jpg)
 
 ### 17. Sunday 22 June 1952 (for his mother's birthday)
 
@@ -1176,12 +1176,12 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* He awaits the RIBA results "on Tuesday". Dr Barbour was a doctor he was seeing. A "dull haycart" was family slang. Mr Tilden (at Bowood, near Calne) is presumably the architect Philip Tilden. Note there is no scan numbered 01.
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Bristol-Letters-letter-17-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-17-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-17-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-17-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-17-p5.jpg)
-> ![Scan, page 6](images/Bristol-Letters-letter-17-p6.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-17-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-17-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-17-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-17-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-17-p5.jpg)
+> ![Scan, page 6](../images/Bristol-Letters-letter-17-p6.jpg)
 
 ### 18. A Friday, c. early July 1952 (into the fifth year; Mr Hake's farewell)
 
@@ -1237,12 +1237,12 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* The R.I.B.A. route he sets out: portfolio (testimonies of study) in February, thesis by May, the Final a year later and Professional Practice after that, so A.R.I.B.A. "the summer of the year after next". Mr Hake was retiring as principal. Forts was a grocer.
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Bristol-Letters-letter-18-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-18-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-18-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-18-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-18-p5.jpg)
-> ![Scan, page 6](images/Bristol-Letters-letter-18-p6.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-18-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-18-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-18-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-18-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-18-p5.jpg)
+> ![Scan, page 6](../images/Bristol-Letters-letter-18-p6.jpg)
 
 ### 19. Tuesday 7 October 1952 (into the fifth year)
 
@@ -1281,10 +1281,10 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* "Christmas Alley" is presumably a Bristol address where Anthea could stay. "E" or "the General" is Eleanor.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bristol-Letters-letter-19-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-19-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-19-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-19-p4.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-19-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-19-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-19-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-19-p4.jpg)
 
 ### 20. Friday 17 October 1952 ('thinking definitely about when we shall be married')
 
@@ -1339,12 +1339,12 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* "Foxy" is Mr Fox, Anthea's employer. Christopher and Nancy were then in Bristol, staying with the Pyms.
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Bristol-Letters-letter-20-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-20-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-20-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-20-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-20-p5.jpg)
-> ![Scan, page 6](images/Bristol-Letters-letter-20-p6.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-20-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-20-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-20-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-20-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-20-p5.jpg)
+> ![Scan, page 6](../images/Bristol-Letters-letter-20-p6.jpg)
 
 ### 21. Thursday 30 October 1952
 
@@ -1376,9 +1376,9 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 > David.
 
 > [!scan]- Scans (3)
-> ![Scan, page 1](images/Bristol-Letters-letter-21-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-21-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-21-p3.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-21-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-21-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-21-p3.jpg)
 
 ### 22. Sunday 9 November 1952 (planning the marriage)
 
@@ -1475,20 +1475,20 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* Engaged for about two years. The G.P.O. thesis was his father's idea for his fifth-year thesis design; Mr Rowe was evidently a Post Office contact. Bristol Aircraft Company had an architectural department at Filton. *Hornblower* was a radio serial. The ten files `0 104 1`–`0 104 11` in the folder are rotated copies of the loose scans 0 105–0 115.
 
 > [!scan]- Scans (14)
-> ![Scan, page 1](images/Bristol-Letters-letter-22-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-22-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-22-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-22-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-22-p5.jpg)
-> ![Scan, page 6](images/Bristol-Letters-letter-22-p6.jpg)
-> ![Scan, page 7](images/Bristol-Letters-letter-22-p7.jpg)
-> ![Scan, page 8](images/Bristol-Letters-letter-22-p8.jpg)
-> ![Scan, page 9](images/Bristol-Letters-letter-22-p9.jpg)
-> ![Scan, page 10](images/Bristol-Letters-letter-22-p10.jpg)
-> ![Scan, page 11](images/Bristol-Letters-letter-22-p11.jpg)
-> ![Scan, page 12](images/Bristol-Letters-letter-22-p12.jpg)
-> ![Scan, page 13](images/Bristol-Letters-letter-22-p13.jpg)
-> ![Scan, page 14](images/Bristol-Letters-letter-22-p14.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-22-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-22-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-22-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-22-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-22-p5.jpg)
+> ![Scan, page 6](../images/Bristol-Letters-letter-22-p6.jpg)
+> ![Scan, page 7](../images/Bristol-Letters-letter-22-p7.jpg)
+> ![Scan, page 8](../images/Bristol-Letters-letter-22-p8.jpg)
+> ![Scan, page 9](../images/Bristol-Letters-letter-22-p9.jpg)
+> ![Scan, page 10](../images/Bristol-Letters-letter-22-p10.jpg)
+> ![Scan, page 11](../images/Bristol-Letters-letter-22-p11.jpg)
+> ![Scan, page 12](../images/Bristol-Letters-letter-22-p12.jpg)
+> ![Scan, page 13](../images/Bristol-Letters-letter-22-p13.jpg)
+> ![Scan, page 14](../images/Bristol-Letters-letter-22-p14.jpg)
 
 ### 23. A Sunday, c. 23 November 1952 ('Anthea and I are going to be married at Christmas')
 
@@ -1589,20 +1589,20 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* The letter announcing the wedding. The principal had promised the grant until summer 1953 and a marriage grant. They wanted "the quietest wedding there ever was", about 15 people, in the side chapel of St David's, Exeter, "the Monday after the weekend after Christmas" (29 December), with James as best man; Anthea would wear a suit, not white. Gill is Anthea's younger sister and Mary her elder sister (in Blackpool). Nanny was presumably the Silver children's old nurse. The order of the middle sheets (0 198–0 203) is a best guess. The files `0 192 k` are rotated copies of 0 193–0 205.
 
 > [!scan]- Scans (14)
-> ![Scan, page 1](images/Bristol-Letters-letter-23-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-23-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-23-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-23-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-23-p5.jpg)
-> ![Scan, page 6](images/Bristol-Letters-letter-23-p6.jpg)
-> ![Scan, page 7](images/Bristol-Letters-letter-23-p7.jpg)
-> ![Scan, page 8](images/Bristol-Letters-letter-23-p8.jpg)
-> ![Scan, page 9](images/Bristol-Letters-letter-23-p9.jpg)
-> ![Scan, page 10](images/Bristol-Letters-letter-23-p10.jpg)
-> ![Scan, page 11](images/Bristol-Letters-letter-23-p11.jpg)
-> ![Scan, page 12](images/Bristol-Letters-letter-23-p12.jpg)
-> ![Scan, page 13](images/Bristol-Letters-letter-23-p13.jpg)
-> ![Scan, page 14](images/Bristol-Letters-letter-23-p14.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-23-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-23-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-23-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-23-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-23-p5.jpg)
+> ![Scan, page 6](../images/Bristol-Letters-letter-23-p6.jpg)
+> ![Scan, page 7](../images/Bristol-Letters-letter-23-p7.jpg)
+> ![Scan, page 8](../images/Bristol-Letters-letter-23-p8.jpg)
+> ![Scan, page 9](../images/Bristol-Letters-letter-23-p9.jpg)
+> ![Scan, page 10](../images/Bristol-Letters-letter-23-p10.jpg)
+> ![Scan, page 11](../images/Bristol-Letters-letter-23-p11.jpg)
+> ![Scan, page 12](../images/Bristol-Letters-letter-23-p12.jpg)
+> ![Scan, page 13](../images/Bristol-Letters-letter-23-p13.jpg)
+> ![Scan, page 14](../images/Bristol-Letters-letter-23-p14.jpg)
 
 ### 24. A note, c. 27 November 1952 ('Snowing outside!')
 
@@ -1620,7 +1620,7 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 > Sorry about the scrawl rushing to catch post. & Snowing outside!
 
 > [!scan]- Scans (1)
-> ![Scan, page 1](images/Bristol-Letters-letter-24-p1.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-24-p1.jpg)
 
 ### 25. A Thursday, c. 11 December 1952 (just before the wedding)
 
@@ -1661,10 +1661,10 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* Mrs Pym is to stay "the night of the 31st", which suggests the wedding was on Wednesday 31 December 1952 rather than the 29th first proposed. James was to be best man. "Poor Bo" is Christopher. Martie [?] is a relation of Eames. The Dacombe trip was a visit by his mother to Daccombe, near Torquay [?]. Maggs was a Bristol shop.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bristol-Letters-letter-25-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-25-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-25-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-25-p4.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-25-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-25-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-25-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-25-p4.jpg)
 
 ### 26. Wednesday 17 December 1952 (wedding presents and the attic flat)
 
@@ -1741,16 +1741,16 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* His father had paid £600 into his account during his training. James (his best man) was working at Tirley Garth (the Moral Re-Armament centre in Cheshire) and Stevenage. Lavender, Christopher and Philip are his siblings. Timmy was the family cat. The files `0 124 1`–`0 124 9` are rotated duplicates. The new flat is the attic at Vyvyan Terrace, Clifton (see the next letter).
 
 > [!scan]- Scans (10)
-> ![Scan, page 1](images/Bristol-Letters-letter-26-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-26-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-26-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-26-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-26-p5.jpg)
-> ![Scan, page 6](images/Bristol-Letters-letter-26-p6.jpg)
-> ![Scan, page 7](images/Bristol-Letters-letter-26-p7.jpg)
-> ![Scan, page 8](images/Bristol-Letters-letter-26-p8.jpg)
-> ![Scan, page 9](images/Bristol-Letters-letter-26-p9.jpg)
-> ![Scan, page 10](images/Bristol-Letters-letter-26-p10.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-26-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-26-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-26-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-26-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-26-p5.jpg)
+> ![Scan, page 6](../images/Bristol-Letters-letter-26-p6.jpg)
+> ![Scan, page 7](../images/Bristol-Letters-letter-26-p7.jpg)
+> ![Scan, page 8](../images/Bristol-Letters-letter-26-p8.jpg)
+> ![Scan, page 9](../images/Bristol-Letters-letter-26-p9.jpg)
+> ![Scan, page 10](../images/Bristol-Letters-letter-26-p10.jpg)
 
 ## 1953
 
@@ -1828,14 +1828,14 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* The "frightful disaster" was a fatal accident in which a car mounted the pavement, evidently involving someone his parents knew. Mr Wyatt and Brookes were Bristol dentists. Auntie Muriel and Uncle Basil were in the heating business. The drawings show the clothes rail he made between the wardrobe and the wall. The `0 87 k` and `0 93 1` files are rotated copies.
 
 > [!scan]- Scans (8)
-> ![Scan, page 1](images/Bristol-Letters-letter-27-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-27-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-27-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-27-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-27-p5.jpg)
-> ![Scan, page 6](images/Bristol-Letters-letter-27-p6.jpg)
-> ![Scan, page 7](images/Bristol-Letters-letter-27-p7.jpg)
-> ![Scan, page 8](images/Bristol-Letters-letter-27-p8.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-27-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-27-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-27-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-27-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-27-p5.jpg)
+> ![Scan, page 6](../images/Bristol-Letters-letter-27-p6.jpg)
+> ![Scan, page 7](../images/Bristol-Letters-letter-27-p7.jpg)
+> ![Scan, page 8](../images/Bristol-Letters-letter-27-p8.jpg)
 
 ### 28. Sunday 12 April 1953 (married: Meteors over Filton)
 
@@ -1880,11 +1880,11 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* The first letter written as a married man, from Vyvyan Terrace. The drawing shows him and Anthea on the motorbike (MAE 684) under the Gloster Meteors taking off from Filton. Kelston is near Bath; the park with the 8 mph limit is Royal Victoria Park.
 
 > [!scan]- Scans (5)
-> ![Scan, page 1](images/Bristol-Letters-letter-28-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-28-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-28-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-28-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-28-p5.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-28-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-28-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-28-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-28-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-28-p5.jpg)
 
 ### 29. Wednesday 17 June 1953 (notice to quit)
 
@@ -1930,11 +1930,11 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* Anthea, at the school of architecture too, is preparing work for the external examiner; David's RIBA testimonies of study are due on 30 June.
 
 > [!scan]- Scans (5)
-> ![Scan, page 1](images/Bristol-Letters-letter-29-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-29-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-29-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-29-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-29-p5.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-29-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-29-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-29-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-29-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-29-p5.jpg)
 
 ### 30. Sunday 21 June 1953 (for his mother's birthday)
 
@@ -1985,11 +1985,11 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* Nancy is expecting her second child. Christopher Pym's France photographs. "James and Mary" are evidently Anthea's sister Mary and her husband James Farrant. The present was a Bayeux Tapestry tile.
 
 > [!scan]- Scans (5)
-> ![Scan, page 1](images/Bristol-Letters-letter-30-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-30-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-30-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-30-p4.jpg)
-> ![Scan, page 5](images/Bristol-Letters-letter-30-p5.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-30-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-30-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-30-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-30-p4.jpg)
+> ![Scan, page 5](../images/Bristol-Letters-letter-30-p5.jpg)
 
 ### 31. Wednesday 15 July 1953 (back at Richmond Park Road)
 
@@ -2019,8 +2019,8 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* Signed by both: "David & Anthea". They moved back into his old flat at Richmond Park Road on leaving Vyvyan Terrace (14 July).
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bristol-Letters-letter-31-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-31-p2.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-31-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-31-p2.jpg)
 
 ### 32. Friday 28 August 1953 (leaving Bristol)
 
@@ -2056,10 +2056,10 @@ In a summer vacation, probably 1951, he also took the motorbike on a solo tour o
 *Notes:* The last Bristol letter, signed "D. & A.". His first job, with a Mr Saunders, started on 7 September 1953; they are looking for a flat in Exeter (the *Express & Echo*). Their belongings go to the Leighs at Topsham. Christopher's family lived in King Henry's Road, London.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bristol-Letters-letter-32-p1.jpg)
-> ![Scan, page 2](images/Bristol-Letters-letter-32-p2.jpg)
-> ![Scan, page 3](images/Bristol-Letters-letter-32-p3.jpg)
-> ![Scan, page 4](images/Bristol-Letters-letter-32-p4.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-letter-32-p1.jpg)
+> ![Scan, page 2](../images/Bristol-Letters-letter-32-p2.jpg)
+> ![Scan, page 3](../images/Bristol-Letters-letter-32-p3.jpg)
+> ![Scan, page 4](../images/Bristol-Letters-letter-32-p4.jpg)
 
 ## A letter from Philip Tilden
 
@@ -2081,7 +2081,7 @@ A letter **to** David from the architect **Philip Tilden** (1887–1956), writte
 > With our greetings yours Philip Tilden
 
 > [!scan]- Scans (1)
-> ![Scan, page 1](images/Bristol-Letters-a-letter-from-philip-tilden-p1.jpg)
+> ![Scan, page 1](../images/Bristol-Letters-a-letter-from-philip-tilden-p1.jpg)
 
 ## Envelopes
 
@@ -2091,4 +2091,4 @@ Six of the envelopes, scanned together: to Tresillian, West Avenue (BRISTOL 1 OC
 > [Six envelopes in David's hand, scanned together. Top row: "Mr & Mrs Silver, Velwell Road, St Davids, Exeter, Devon" (postmark cut off; pencilled "David's letters 1951"); "Mr & Mrs Silver, c/o Mrs Loveridge, Seaton, Devon", BRISTOL 9 PM 19 MAY 1952; "Mrs Silver, Velwell Road, St Davids, Exeter, Devon", BRISTOL 9.30 PM 12 JNE 1952. Bottom row: "Mr & Mrs Silver, Tresillian, West Avenue, Exeter, Devon", BRISTOL 12.30 PM 1 OCT 1947 (slogan cancel "Save … Silver …"); "Mr & Mrs Silver, Velwell Road, St Davids, Exeter, Devon", BRISTOL 9 PM 4 FEB 1951 ("Blood donors are still urgently needed"); "Mr & Mrs Silver, Velwell Road, St Davids, Exeter, Devon", BRISTOL 1.30 PM 7 OCT 1952.]
 
 > [!scan]- Scans (1)
-> ![Scan, envelope](images/Bristol-Letters-envelopes-envelope.jpg)
+> ![Scan, envelope](../images/Bristol-Letters-envelopes-envelope.jpg)

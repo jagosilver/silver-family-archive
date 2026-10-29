@@ -78,4 +78,11 @@ def finalize(old_slug, text):
         back = "*← [%s](%s/) · [Silver Family Archive](./)*" % (HUB_NAMES.get(owner, ""), owner)
     if "/" in new:
         text = text.replace(HOME, back, 1)
-    return fix_links(text)
+    return fix_image_paths(new, fix_links(text))
+
+
+def fix_image_paths(new_slug, text):
+    """Make image paths relative to the page's folder (content/images lives at the top),
+    so scans show when the .md is viewed on GitHub as well as on the site."""
+    up = "../" * new_slug.count("/")
+    return re.sub(r"(\]\(|src=\")(?:\.\./)*images/", r"\g<1>%simages/" % up, text)

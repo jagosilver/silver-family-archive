@@ -72,12 +72,12 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 *Notes:* The Newhouse matron (his house at Bruton) had written to tell him that two of his old study companions had been killed in the war. Mr Martin was a Bruton master. *The Song of Bernadette* he saw at the New Gallery cinema in London before leaving.
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Oulton-Letters-letter-01-p1.jpg)
-> ![Scan, page 2](images/Oulton-Letters-letter-01-p2.jpg)
-> ![Scan, page 3](images/Oulton-Letters-letter-01-p3.jpg)
-> ![Scan, page 4](images/Oulton-Letters-letter-01-p4.jpg)
-> ![Scan, page 5](images/Oulton-Letters-letter-01-p5.jpg)
-> ![Scan, page 6](images/Oulton-Letters-letter-01-p6.jpg)
+> ![Scan, page 1](../../images/Oulton-Letters-letter-01-p1.jpg)
+> ![Scan, page 2](../../images/Oulton-Letters-letter-01-p2.jpg)
+> ![Scan, page 3](../../images/Oulton-Letters-letter-01-p3.jpg)
+> ![Scan, page 4](../../images/Oulton-Letters-letter-01-p4.jpg)
+> ![Scan, page 5](../../images/Oulton-Letters-letter-01-p5.jpg)
+> ![Scan, page 6](../../images/Oulton-Letters-letter-01-p6.jpg)
 
 ### 02. Tuesday, c. 20 June 1944: a birthday letter to his mother
 
@@ -121,12 +121,12 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 *Notes:* Colson's was the Exeter department store. "Exminster" is the Devon county mental hospital, a family joke. A strip of tape has torn away part of two lines on the last page; "Ca…" is probably Cambridge, which he passed through on his way to Oulton.
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Oulton-Letters-letter-02-p1.jpg)
-> ![Scan, page 2](images/Oulton-Letters-letter-02-p2.jpg)
-> ![Scan, page 3](images/Oulton-Letters-letter-02-p3.jpg)
-> ![Scan, page 4](images/Oulton-Letters-letter-02-p4.jpg)
-> ![Scan, page 5](images/Oulton-Letters-letter-02-p5.jpg)
-> ![Scan, page 6](images/Oulton-Letters-letter-02-p6.jpg)
+> ![Scan, page 1](../../images/Oulton-Letters-letter-02-p1.jpg)
+> ![Scan, page 2](../../images/Oulton-Letters-letter-02-p2.jpg)
+> ![Scan, page 3](../../images/Oulton-Letters-letter-02-p3.jpg)
+> ![Scan, page 4](../../images/Oulton-Letters-letter-02-p4.jpg)
+> ![Scan, page 5](../../images/Oulton-Letters-letter-02-p5.jpg)
+> ![Scan, page 6](../../images/Oulton-Letters-letter-02-p6.jpg)
 
 ### 03. Thursday to Wednesday, July 1944
 
@@ -213,18 +213,18 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 *Notes:* He numbers the sheets 1–5. Sheet 5 ("Please tell Captain Silver…") has been placed after the coffee page: the order of the unnumbered last sheets is uncertain. "Captain Silver" with his "plaster hoof" is Christopher (Kit), then laid up with an injured leg. "I still find some colours very perplexing and difficult to distinguish from others" is his own note of his colour vision. He wants a commission in meteorology or photographic intelligence.
 
 > [!scan]- Scans (12)
-> ![Scan, page 1](images/Oulton-Letters-letter-03-p1.jpg)
-> ![Scan, page 2](images/Oulton-Letters-letter-03-p2.jpg)
-> ![Scan, page 3](images/Oulton-Letters-letter-03-p3.jpg)
-> ![Scan, page 4](images/Oulton-Letters-letter-03-p4.jpg)
-> ![Scan, page 5](images/Oulton-Letters-letter-03-p5.jpg)
-> ![Scan, page 6](images/Oulton-Letters-letter-03-p6.jpg)
-> ![Scan, page 7](images/Oulton-Letters-letter-03-p7.jpg)
-> ![Scan, page 8](images/Oulton-Letters-letter-03-p8.jpg)
-> ![Scan, page 9](images/Oulton-Letters-letter-03-p9.jpg)
-> ![Scan, page 10](images/Oulton-Letters-letter-03-p10.jpg)
-> ![Scan, page 11](images/Oulton-Letters-letter-03-p11.jpg)
-> ![Scan, page 12](images/Oulton-Letters-letter-03-p12.jpg)
+> ![Scan, page 1](../../images/Oulton-Letters-letter-03-p1.jpg)
+> ![Scan, page 2](../../images/Oulton-Letters-letter-03-p2.jpg)
+> ![Scan, page 3](../../images/Oulton-Letters-letter-03-p3.jpg)
+> ![Scan, page 4](../../images/Oulton-Letters-letter-03-p4.jpg)
+> ![Scan, page 5](../../images/Oulton-Letters-letter-03-p5.jpg)
+> ![Scan, page 6](../../images/Oulton-Letters-letter-03-p6.jpg)
+> ![Scan, page 7](../../images/Oulton-Letters-letter-03-p7.jpg)
+> ![Scan, page 8](../../images/Oulton-Letters-letter-03-p8.jpg)
+> ![Scan, page 9](../../images/Oulton-Letters-letter-03-p9.jpg)
+> ![Scan, page 10](../../images/Oulton-Letters-letter-03-p10.jpg)
+> ![Scan, page 11](../../images/Oulton-Letters-letter-03-p11.jpg)
+> ![Scan, page 12](../../images/Oulton-Letters-letter-03-p12.jpg)
 
 ### 04. c. late August 1944 (incomplete)
 
@@ -279,13 +279,13 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 *Notes:* His War Office correspondence course in the History of Architecture has come through; his tutor, L. Stuart Stanley FRIBA, lectured at Cambridge. Statham's *History of Architecture* is the book Christopher had. *Argosy* was a fiction magazine. Diss is the Norfolk station where he caught the London train at 2.10 a.m.
 
 > [!scan]- Scans (7)
-> ![Scan, page 1](images/Oulton-Letters-letter-04-p1.jpg)
-> ![Scan, page 2](images/Oulton-Letters-letter-04-p2.jpg)
-> ![Scan, page 3](images/Oulton-Letters-letter-04-p3.jpg)
-> ![Scan, page 4](images/Oulton-Letters-letter-04-p4.jpg)
-> ![Scan, page 5](images/Oulton-Letters-letter-04-p5.jpg)
-> ![Scan, page 6](images/Oulton-Letters-letter-04-p6.jpg)
-> ![Scan, page 7](images/Oulton-Letters-letter-04-p7.jpg)
+> ![Scan, page 1](../../images/Oulton-Letters-letter-04-p1.jpg)
+> ![Scan, page 2](../../images/Oulton-Letters-letter-04-p2.jpg)
+> ![Scan, page 3](../../images/Oulton-Letters-letter-04-p3.jpg)
+> ![Scan, page 4](../../images/Oulton-Letters-letter-04-p4.jpg)
+> ![Scan, page 5](../../images/Oulton-Letters-letter-04-p5.jpg)
+> ![Scan, page 6](../../images/Oulton-Letters-letter-04-p6.jpg)
+> ![Scan, page 7](../../images/Oulton-Letters-letter-04-p7.jpg)
 
 ### 05. Friday 1 – Sunday 3 September 1944
 
@@ -329,10 +329,10 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 *Notes:* The top half of the second page (scan 0 40) is lost to a scanner fault. Elands was an Exeter bookshop. "The C.C." is the Chief Constable: his parents had nearly been prosecuted over the blackout.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Oulton-Letters-letter-05-p1.jpg)
-> ![Scan, page 2](images/Oulton-Letters-letter-05-p2.jpg)
-> ![Scan, page 3](images/Oulton-Letters-letter-05-p3.jpg)
-> ![Scan, page 4](images/Oulton-Letters-letter-05-p4.jpg)
+> ![Scan, page 1](../../images/Oulton-Letters-letter-05-p1.jpg)
+> ![Scan, page 2](../../images/Oulton-Letters-letter-05-p2.jpg)
+> ![Scan, page 3](../../images/Oulton-Letters-letter-05-p3.jpg)
+> ![Scan, page 4](../../images/Oulton-Letters-letter-05-p4.jpg)
 
 ### 06. A Monday, c. mid-September 1944
 
@@ -360,9 +360,9 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 *Notes:* Banister Fletcher's *History of Architecture* was the standard text. The M.O.'s diagnosis of "slight asthma" is the first mention of it in the letters. *This Happy Breed* (1944) is Noël Coward's film; the bottom corner of the last page is folded over, so a few words are guessed.
 
 > [!scan]- Scans (3)
-> ![Scan, page 1](images/Oulton-Letters-letter-06-p1.jpg)
-> ![Scan, page 2](images/Oulton-Letters-letter-06-p2.jpg)
-> ![Scan, page 3](images/Oulton-Letters-letter-06-p3.jpg)
+> ![Scan, page 1](../../images/Oulton-Letters-letter-06-p1.jpg)
+> ![Scan, page 2](../../images/Oulton-Letters-letter-06-p2.jpg)
+> ![Scan, page 3](../../images/Oulton-Letters-letter-06-p3.jpg)
 
 ### 07. Sunday 8 – Wednesday 11 October 1944
 
@@ -431,14 +431,14 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 *Notes:* The map shows the coast at Treknow: Gull Rock, the bathing pool, West Bay and the headland his father and Kit had drawn. "It's eight weeks to my leave" does not fit the November leave (four weeks off), so that page may belong to an earlier letter. King Arthur's Hall is in Tintagel. The new Naafi Club in Norwich occupied a bombed department store. Victor Silvester was the dance-band leader.
 
 > [!scan]- Scans (8)
-> ![Scan, page 1](images/Oulton-Letters-letter-07-p1.jpg)
-> ![Scan, page 2](images/Oulton-Letters-letter-07-p2.jpg)
-> ![Scan, page 3](images/Oulton-Letters-letter-07-p3.jpg)
-> ![Scan, page 4](images/Oulton-Letters-letter-07-p4.jpg)
-> ![Scan, page 5](images/Oulton-Letters-letter-07-p5.jpg)
-> ![Scan, page 6](images/Oulton-Letters-letter-07-p6.jpg)
-> ![Scan, page 7](images/Oulton-Letters-letter-07-p7.jpg)
-> ![Scan, page 8](images/Oulton-Letters-letter-07-p8.jpg)
+> ![Scan, page 1](../../images/Oulton-Letters-letter-07-p1.jpg)
+> ![Scan, page 2](../../images/Oulton-Letters-letter-07-p2.jpg)
+> ![Scan, page 3](../../images/Oulton-Letters-letter-07-p3.jpg)
+> ![Scan, page 4](../../images/Oulton-Letters-letter-07-p4.jpg)
+> ![Scan, page 5](../../images/Oulton-Letters-letter-07-p5.jpg)
+> ![Scan, page 6](../../images/Oulton-Letters-letter-07-p6.jpg)
+> ![Scan, page 7](../../images/Oulton-Letters-letter-07-p7.jpg)
+> ![Scan, page 8](../../images/Oulton-Letters-letter-07-p8.jpg)
 
 ### 08. Saturday 21 October 1944
 
@@ -514,15 +514,15 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 *Notes:* He numbers the sheets 1–9. The Epstein figures are those on the British Medical Association building in the Strand (1908), mutilated in 1937. He had been at Skegness ("many many times colder than this") before Oulton. "Reading between the lines": the hut's coke came from the Air Ministry works heap.
 
 > [!scan]- Scans (9)
-> ![Scan, page 1](images/Oulton-Letters-letter-08-p1.jpg)
-> ![Scan, page 2](images/Oulton-Letters-letter-08-p2.jpg)
-> ![Scan, page 3](images/Oulton-Letters-letter-08-p3.jpg)
-> ![Scan, page 4](images/Oulton-Letters-letter-08-p4.jpg)
-> ![Scan, page 5](images/Oulton-Letters-letter-08-p5.jpg)
-> ![Scan, page 6](images/Oulton-Letters-letter-08-p6.jpg)
-> ![Scan, page 7](images/Oulton-Letters-letter-08-p7.jpg)
-> ![Scan, page 8](images/Oulton-Letters-letter-08-p8.jpg)
-> ![Scan, page 9](images/Oulton-Letters-letter-08-p9.jpg)
+> ![Scan, page 1](../../images/Oulton-Letters-letter-08-p1.jpg)
+> ![Scan, page 2](../../images/Oulton-Letters-letter-08-p2.jpg)
+> ![Scan, page 3](../../images/Oulton-Letters-letter-08-p3.jpg)
+> ![Scan, page 4](../../images/Oulton-Letters-letter-08-p4.jpg)
+> ![Scan, page 5](../../images/Oulton-Letters-letter-08-p5.jpg)
+> ![Scan, page 6](../../images/Oulton-Letters-letter-08-p6.jpg)
+> ![Scan, page 7](../../images/Oulton-Letters-letter-08-p7.jpg)
+> ![Scan, page 8](../../images/Oulton-Letters-letter-08-p8.jpg)
+> ![Scan, page 9](../../images/Oulton-Letters-letter-08-p9.jpg)
 
 ### 09. Saturday 28 – Tuesday 31 October 1944
 
@@ -571,11 +571,11 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 *Notes:* His parents had sent four little pictures for him to identify, from the holiday at Treknow. Christopher was now living at "Newnham House". Arthur, at Chelmsford, was in the path of the V-2 rockets. The O.M. door in the cartoon should be M.O.
 
 > [!scan]- Scans (5)
-> ![Scan, page 1](images/Oulton-Letters-letter-09-p1.jpg)
-> ![Scan, page 2](images/Oulton-Letters-letter-09-p2.jpg)
-> ![Scan, page 3](images/Oulton-Letters-letter-09-p3.jpg)
-> ![Scan, page 4](images/Oulton-Letters-letter-09-p4.jpg)
-> ![Scan, page 5](images/Oulton-Letters-letter-09-p5.jpg)
+> ![Scan, page 1](../../images/Oulton-Letters-letter-09-p1.jpg)
+> ![Scan, page 2](../../images/Oulton-Letters-letter-09-p2.jpg)
+> ![Scan, page 3](../../images/Oulton-Letters-letter-09-p3.jpg)
+> ![Scan, page 4](../../images/Oulton-Letters-letter-09-p4.jpg)
+> ![Scan, page 5](../../images/Oulton-Letters-letter-09-p5.jpg)
 
 ### 10. Saturday 18 – Thursday 23 November 1944 (back from leave)
 
@@ -629,15 +629,15 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 *Notes:* Most of the page about the watch (scan 0 81) is lost to a scanner fault; its text was partly read from the mirror-image show-through on the back of the sheet (scan 0 83). The "mock duck" was a wartime vegetarian sandwich filling. "The White Cliffs" is probably the cliffs at Ladram Bay or Beer. The sergeant compass-adjuster's office became his evening "study".
 
 > [!scan]- Scans (9)
-> ![Scan, page 1](images/Oulton-Letters-letter-10-p1.jpg)
-> ![Scan, page 2](images/Oulton-Letters-letter-10-p2.jpg)
-> ![Scan, page 3](images/Oulton-Letters-letter-10-p3.jpg)
-> ![Scan, page 4](images/Oulton-Letters-letter-10-p4.jpg)
-> ![Scan, page 5](images/Oulton-Letters-letter-10-p5.jpg)
-> ![Scan, page 6](images/Oulton-Letters-letter-10-p6.jpg)
-> ![Scan, page 7](images/Oulton-Letters-letter-10-p7.jpg)
-> ![Scan, page 8](images/Oulton-Letters-letter-10-p8.jpg)
-> ![Scan, page 9](images/Oulton-Letters-letter-10-p9.jpg)
+> ![Scan, page 1](../../images/Oulton-Letters-letter-10-p1.jpg)
+> ![Scan, page 2](../../images/Oulton-Letters-letter-10-p2.jpg)
+> ![Scan, page 3](../../images/Oulton-Letters-letter-10-p3.jpg)
+> ![Scan, page 4](../../images/Oulton-Letters-letter-10-p4.jpg)
+> ![Scan, page 5](../../images/Oulton-Letters-letter-10-p5.jpg)
+> ![Scan, page 6](../../images/Oulton-Letters-letter-10-p6.jpg)
+> ![Scan, page 7](../../images/Oulton-Letters-letter-10-p7.jpg)
+> ![Scan, page 8](../../images/Oulton-Letters-letter-10-p8.jpg)
+> ![Scan, page 9](../../images/Oulton-Letters-letter-10-p9.jpg)
 
 ### 11. Friday 1 – Saturday 2 December 1944
 
@@ -696,14 +696,14 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 *Notes:* The N.F.S. is the National Fire Service. "That rotten interview … at Penarth" was presumably his aircrew or commission board. The station's Christmas toys (wooden engines, swinging parrots) were made from scrap and painted in "standard R.A.F. dope".
 
 > [!scan]- Scans (8)
-> ![Scan, page 1](images/Oulton-Letters-letter-11-p1.jpg)
-> ![Scan, page 2](images/Oulton-Letters-letter-11-p2.jpg)
-> ![Scan, page 3](images/Oulton-Letters-letter-11-p3.jpg)
-> ![Scan, page 4](images/Oulton-Letters-letter-11-p4.jpg)
-> ![Scan, page 5](images/Oulton-Letters-letter-11-p5.jpg)
-> ![Scan, page 6](images/Oulton-Letters-letter-11-p6.jpg)
-> ![Scan, page 7](images/Oulton-Letters-letter-11-p7.jpg)
-> ![Scan, page 8](images/Oulton-Letters-letter-11-p8.jpg)
+> ![Scan, page 1](../../images/Oulton-Letters-letter-11-p1.jpg)
+> ![Scan, page 2](../../images/Oulton-Letters-letter-11-p2.jpg)
+> ![Scan, page 3](../../images/Oulton-Letters-letter-11-p3.jpg)
+> ![Scan, page 4](../../images/Oulton-Letters-letter-11-p4.jpg)
+> ![Scan, page 5](../../images/Oulton-Letters-letter-11-p5.jpg)
+> ![Scan, page 6](../../images/Oulton-Letters-letter-11-p6.jpg)
+> ![Scan, page 7](../../images/Oulton-Letters-letter-11-p7.jpg)
+> ![Scan, page 8](../../images/Oulton-Letters-letter-11-p8.jpg)
 
 ## 1945
 
@@ -750,11 +750,11 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 *Notes:* The pages were scanned out of order; the reading order is 127, 130, 129, 131, 132. The E.U.P. is the English Universities Press. Tommy Handley was the star of ITMA.
 
 > [!scan]- Scans (5)
-> ![Scan, page 1](images/Oulton-Letters-letter-12-p1.jpg)
-> ![Scan, page 2](images/Oulton-Letters-letter-12-p2.jpg)
-> ![Scan, page 3](images/Oulton-Letters-letter-12-p3.jpg)
-> ![Scan, page 4](images/Oulton-Letters-letter-12-p4.jpg)
-> ![Scan, page 5](images/Oulton-Letters-letter-12-p5.jpg)
+> ![Scan, page 1](../../images/Oulton-Letters-letter-12-p1.jpg)
+> ![Scan, page 2](../../images/Oulton-Letters-letter-12-p2.jpg)
+> ![Scan, page 3](../../images/Oulton-Letters-letter-12-p3.jpg)
+> ![Scan, page 4](../../images/Oulton-Letters-letter-12-p4.jpg)
+> ![Scan, page 5](../../images/Oulton-Letters-letter-12-p5.jpg)
 
 ### 13. Saturday 31 March – Easter Sunday 1 April 1945
 
@@ -813,13 +813,13 @@ He cycles the Norfolk lanes, counts poppies and skylarks' nests, and is moved by
 *Notes:* *Western Approaches* (1944) is the Crown Film Unit's Atlantic convoy film. Eric Newton was the art critic of the *Sunday Times*. Starcross pier is on the Exe estuary, where the ferry runs to Exmouth.
 
 > [!scan]- Scans (7)
-> ![Scan, page 1](images/Oulton-Letters-letter-13-p1.jpg)
-> ![Scan, page 2](images/Oulton-Letters-letter-13-p2.jpg)
-> ![Scan, page 3](images/Oulton-Letters-letter-13-p3.jpg)
-> ![Scan, page 4](images/Oulton-Letters-letter-13-p4.jpg)
-> ![Scan, page 5](images/Oulton-Letters-letter-13-p5.jpg)
-> ![Scan, page 6](images/Oulton-Letters-letter-13-p6.jpg)
-> ![Scan, page 7](images/Oulton-Letters-letter-13-p7.jpg)
+> ![Scan, page 1](../../images/Oulton-Letters-letter-13-p1.jpg)
+> ![Scan, page 2](../../images/Oulton-Letters-letter-13-p2.jpg)
+> ![Scan, page 3](../../images/Oulton-Letters-letter-13-p3.jpg)
+> ![Scan, page 4](../../images/Oulton-Letters-letter-13-p4.jpg)
+> ![Scan, page 5](../../images/Oulton-Letters-letter-13-p5.jpg)
+> ![Scan, page 6](../../images/Oulton-Letters-letter-13-p6.jpg)
+> ![Scan, page 7](../../images/Oulton-Letters-letter-13-p7.jpg)
 
 ## Envelopes
 
@@ -838,8 +838,8 @@ Two scans of envelopes filed with the Oulton letters. Three are from Oulton, two
 > [Bottom right:] C. M. Silver Esq / Tresillian / West Avenue / Pennsylvania / Exeter / Devon. [2½d blue stamp; postmark BRUTON SOM… 15 … — probably from David's Bruton schooldays rather than Oulton]
 
 > [!scan]- Scans (2)
-> ![Scan, envelope 1](images/Oulton-Letters-envelopes-envelope1.jpg)
-> ![Scan, envelope 2](images/Oulton-Letters-envelopes-envelope2.jpg)
+> ![Scan, envelope 1](../../images/Oulton-Letters-envelopes-envelope1.jpg)
+> ![Scan, envelope 2](../../images/Oulton-Letters-envelopes-envelope2.jpg)
 
 ## Two pages from Bruton
 
@@ -859,5 +859,5 @@ Two loose pages from David's schoolboy letters from King's School, Bruton (see t
 > You will be glad to hear that I
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Oulton-Letters-two-pages-from-bruton-p1.jpg)
-> ![Scan, page 2](images/Oulton-Letters-two-pages-from-bruton-p2.jpg)
+> ![Scan, page 1](../../images/Oulton-Letters-two-pages-from-bruton-p1.jpg)
+> ![Scan, page 2](../../images/Oulton-Letters-two-pages-from-bruton-p2.jpg)

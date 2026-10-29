@@ -58,9 +58,9 @@ The war is over and the mood is peacetime. David files a vee-block to a thousand
 *Notes:* Incomplete. These are small folded sheets and were scanned overlapping, so only the first page, part of the last page and glimpses of the pages under them are visible; the rest of the letter (the full story of the journey back) was not scanned. "Christopher" is his brother Kit; "Wiggs" also appears in the Bruton letters. A "36" or "48" is a 36- or 48-hour pass.
 
 > [!scan]- Scans (3)
-> ![Scan, envelope](images/Henlow-letter-01-envelope.jpg)
-> ![Scan, page 1](images/Henlow-letter-01-p1.jpg)
-> ![Scan, page 2](images/Henlow-letter-01-p2.jpg)
+> ![Scan, envelope](../../images/Henlow-letter-01-envelope.jpg)
+> ![Scan, page 1](../../images/Henlow-letter-01-p1.jpg)
+> ![Scan, page 2](../../images/Henlow-letter-01-p2.jpg)
 
 ### 02. Saturday 15 June 1946
 
@@ -151,17 +151,17 @@ The war is over and the mood is peacetime. David files a vee-block to a thousand
 *Notes:* "James" is his brother James. "14 S of T.T." is No. 14 School of Technical Training, RAF Henlow; the fitting exercise he draws, a vee-block filed to ±.001 in, is part of the engine fitter's course. The film is *The Corn is Green* (1945). The P.S. about an application to London University is the first sign of his plans after the RAF.
 
 > [!scan]- Scans (11)
-> ![Scan, envelope](images/Henlow-letter-02-envelope.jpg)
-> ![Scan, page 1](images/Henlow-letter-02-p1.jpg)
-> ![Scan, page 2](images/Henlow-letter-02-p2.jpg)
-> ![Scan, page 3](images/Henlow-letter-02-p3.jpg)
-> ![Scan, page 4](images/Henlow-letter-02-p4.jpg)
-> ![Scan, page 5](images/Henlow-letter-02-p5.jpg)
-> ![Scan, page 6](images/Henlow-letter-02-p6.jpg)
-> ![Scan, page 7](images/Henlow-letter-02-p7.jpg)
-> ![Scan, page 8](images/Henlow-letter-02-p8.jpg)
-> ![Scan, page 9](images/Henlow-letter-02-p9.jpg)
-> ![Scan, page 10](images/Henlow-letter-02-p10.jpg)
+> ![Scan, envelope](../../images/Henlow-letter-02-envelope.jpg)
+> ![Scan, page 1](../../images/Henlow-letter-02-p1.jpg)
+> ![Scan, page 2](../../images/Henlow-letter-02-p2.jpg)
+> ![Scan, page 3](../../images/Henlow-letter-02-p3.jpg)
+> ![Scan, page 4](../../images/Henlow-letter-02-p4.jpg)
+> ![Scan, page 5](../../images/Henlow-letter-02-p5.jpg)
+> ![Scan, page 6](../../images/Henlow-letter-02-p6.jpg)
+> ![Scan, page 7](../../images/Henlow-letter-02-p7.jpg)
+> ![Scan, page 8](../../images/Henlow-letter-02-p8.jpg)
+> ![Scan, page 9](../../images/Henlow-letter-02-p9.jpg)
+> ![Scan, page 10](../../images/Henlow-letter-02-p10.jpg)
 
 ### 03. c. 19 June 1946, a birthday letter to his mother
 
@@ -195,9 +195,9 @@ The war is over and the mood is peacetime. David files a vee-block to a thousand
 *Notes:* Stevenage had just been designated Britain's first New Town (the New Towns Act was going through Parliament in 1946), hence "the place the government want pulled down". "Auntie Muriel" is presumably the Muriel to whom Edwin Acott wrote in 1942. The back of the last sheet is blank.
 
 > [!scan]- Scans (3)
-> ![Scan, page 1](images/Henlow-letter-03-p1.jpg)
-> ![Scan, page 2](images/Henlow-letter-03-p2.jpg)
-> ![Scan, page 3](images/Henlow-letter-03-p3.jpg)
+> ![Scan, page 1](../../images/Henlow-letter-03-p1.jpg)
+> ![Scan, page 2](../../images/Henlow-letter-03-p2.jpg)
+> ![Scan, page 3](../../images/Henlow-letter-03-p3.jpg)
 
 ### 04. A Friday, summer 1946 (his parents on holiday by the sea)
 
@@ -260,13 +260,13 @@ The war is over and the mood is peacetime. David files a vee-block to a thousand
 *Notes:* At least one page is missing after p. 2, where he began retelling a radio thriller serial starring Basil Radford and Naunton Wayne (as "Woolcott and Spencer"). Pages 3–4 finish that retelling; pages 5–9 are his handwritten copy of a comic story from *Punch*, "The Portrait", which is summarised rather than transcribed because it is a published piece, not his own writing (it can be read in the scans). Heffer's is the Cambridge bookshop and art supplier; "Honeywood" is probably a firm or shop the family knew.
 
 > [!scan]- Scans (10)
-> ![Scan, page 1](images/Henlow-letter-04-p1.jpg)
-> ![Scan, page 2](images/Henlow-letter-04-p2.jpg)
-> ![Scan, page 3](images/Henlow-letter-04-p3.jpg)
-> ![Scan, page 4](images/Henlow-letter-04-p4.jpg)
-> ![Scan, page 5](images/Henlow-letter-04-p5.jpg)
-> ![Scan, page 6](images/Henlow-letter-04-p6.jpg)
-> ![Scan, page 7](images/Henlow-letter-04-p7.jpg)
-> ![Scan, page 8](images/Henlow-letter-04-p8.jpg)
-> ![Scan, page 9](images/Henlow-letter-04-p9.jpg)
-> ![Scan, page 10](images/Henlow-letter-04-p10.jpg)
+> ![Scan, page 1](../../images/Henlow-letter-04-p1.jpg)
+> ![Scan, page 2](../../images/Henlow-letter-04-p2.jpg)
+> ![Scan, page 3](../../images/Henlow-letter-04-p3.jpg)
+> ![Scan, page 4](../../images/Henlow-letter-04-p4.jpg)
+> ![Scan, page 5](../../images/Henlow-letter-04-p5.jpg)
+> ![Scan, page 6](../../images/Henlow-letter-04-p6.jpg)
+> ![Scan, page 7](../../images/Henlow-letter-04-p7.jpg)
+> ![Scan, page 8](../../images/Henlow-letter-04-p8.jpg)
+> ![Scan, page 9](../../images/Henlow-letter-04-p9.jpg)
+> ![Scan, page 10](../../images/Henlow-letter-04-p10.jpg)

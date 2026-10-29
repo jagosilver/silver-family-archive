@@ -71,12 +71,12 @@ The second is a **D-Day letter**. He began it on the Monday evening, 5 June 1944
 *Notes:* "W'loo" is Waterloo. The "old shipmate" in Trafalgar Square is Nelson. Arthur, at Chelmsford, appears again in the Oakington letters, and Kit (Christopher) seems to be in hospital or some other institution ("out of that place").
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Little-Horwood-Letters-letter-01-p1.jpg)
-> ![Scan, page 2](images/Little-Horwood-Letters-letter-01-p2.jpg)
-> ![Scan, page 3](images/Little-Horwood-Letters-letter-01-p3.jpg)
-> ![Scan, page 4](images/Little-Horwood-Letters-letter-01-p4.jpg)
-> ![Scan, page 5](images/Little-Horwood-Letters-letter-01-p5.jpg)
-> ![Scan, page 6](images/Little-Horwood-Letters-letter-01-p6.jpg)
+> ![Scan, page 1](../../images/Little-Horwood-Letters-letter-01-p1.jpg)
+> ![Scan, page 2](../../images/Little-Horwood-Letters-letter-01-p2.jpg)
+> ![Scan, page 3](../../images/Little-Horwood-Letters-letter-01-p3.jpg)
+> ![Scan, page 4](../../images/Little-Horwood-Letters-letter-01-p4.jpg)
+> ![Scan, page 5](../../images/Little-Horwood-Letters-letter-01-p5.jpg)
+> ![Scan, page 6](../../images/Little-Horwood-Letters-letter-01-p6.jpg)
 
 ### 02. Monday 5 – Tuesday 6 June 1944 (D-Day)
 
@@ -141,10 +141,10 @@ The second is a **D-Day letter**. He began it on the Monday evening, 5 June 1944
 *Notes:* Kit (Christopher) had asked for a map of Italy. David writes that there is "good reason to suppose" his address will change, and tells his parents not to read anything between the lines. The "droning of a thousand bees" is the aircraft going over on D-Day.
 
 > [!scan]- Scans (7)
-> ![Scan, envelope](images/Little-Horwood-Letters-letter-02-envelope.jpg)
-> ![Scan, page 1](images/Little-Horwood-Letters-letter-02-p1.jpg)
-> ![Scan, page 2](images/Little-Horwood-Letters-letter-02-p2.jpg)
-> ![Scan, page 3](images/Little-Horwood-Letters-letter-02-p3.jpg)
-> ![Scan, page 4](images/Little-Horwood-Letters-letter-02-p4.jpg)
-> ![Scan, page 5](images/Little-Horwood-Letters-letter-02-p5.jpg)
-> ![Scan, page 6](images/Little-Horwood-Letters-letter-02-p6.jpg)
+> ![Scan, envelope](../../images/Little-Horwood-Letters-letter-02-envelope.jpg)
+> ![Scan, page 1](../../images/Little-Horwood-Letters-letter-02-p1.jpg)
+> ![Scan, page 2](../../images/Little-Horwood-Letters-letter-02-p2.jpg)
+> ![Scan, page 3](../../images/Little-Horwood-Letters-letter-02-p3.jpg)
+> ![Scan, page 4](../../images/Little-Horwood-Letters-letter-02-p4.jpg)
+> ![Scan, page 5](../../images/Little-Horwood-Letters-letter-02-p5.jpg)
+> ![Scan, page 6](../../images/Little-Horwood-Letters-letter-02-p6.jpg)

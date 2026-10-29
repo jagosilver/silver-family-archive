@@ -46,8 +46,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > David
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-01-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-01-p2.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-01-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-01-p2.jpg)
 
 ### 02. September/October 1937 (first term)
 
@@ -113,11 +113,11 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* the teacher's name may be "Mr Paisy" or "Mr Daisy" — uncertain.
 
 > [!scan]- Scans (5)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-02-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-02-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-02-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-02-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-02-p5.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-02-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-02-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-02-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-02-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-02-p5.jpg)
 
 ### 03. Sunday 17 October 1937
 
@@ -159,10 +159,10 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* Sunday 17 October 1937.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-03-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-03-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-03-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-03-p4.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-03-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-03-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-03-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-03-p4.jpg)
 
 ### 04. Sunday 7 November 1937
 
@@ -221,13 +221,13 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* "model houses built by some boys last term" — compare the P.S. "Very model Dutch house built by boys" in scan 121 (first term, autumn 1937). This letter is therefore Sunday 7 November 1937. "Meccano Mag November 1937" + Armistice service → Sunday 7 November 1937. Ties in with letter 05 (Nov 1937), which mentions the episcope and Mills Brothers.
 
 > [!scan]- Scans (7)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-04-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-04-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-04-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-04-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-04-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-04-p6.jpg)
-> ![Scan, page 7](images/Bruton-David-Silver-Bruton-letter-04-p7.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-04-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-04-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-04-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-04-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-04-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-04-p6.jpg)
+> ![Scan, page 7](../images/Bruton-David-Silver-Bruton-letter-04-p7.jpg)
 
 ### 05. Sunday 21 – Tuesday 23 November 1937
 
@@ -327,16 +327,16 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > [Below: a curved arrow from HOME back to HOME, labelled "4 WEEKS".]
 
 > [!scan]- Scans (10)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-05-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-05-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-05-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-05-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-05-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-05-p6.jpg)
-> ![Scan, page 7](images/Bruton-David-Silver-Bruton-letter-05-p7.jpg)
-> ![Scan, page 8](images/Bruton-David-Silver-Bruton-letter-05-p8.jpg)
-> ![Scan, page 9](images/Bruton-David-Silver-Bruton-letter-05-p9.jpg)
-> ![Scan, page 10](images/Bruton-David-Silver-Bruton-letter-05-p10.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-05-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-05-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-05-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-05-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-05-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-05-p6.jpg)
+> ![Scan, page 7](../images/Bruton-David-Silver-Bruton-letter-05-p7.jpg)
+> ![Scan, page 8](../images/Bruton-David-Silver-Bruton-letter-05-p8.jpg)
+> ![Scan, page 9](../images/Bruton-David-Silver-Bruton-letter-05-p9.jpg)
+> ![Scan, page 10](../images/Bruton-David-Silver-Bruton-letter-05-p10.jpg)
 
 ### 06. Late November / early December 1937
 
@@ -367,8 +367,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* compare letter of Nov 1937 (scans 0–7): "Christopher wrote to me ... HUGE BOX OF CHOCOLATE BISCUITS" and "Please send me family addresses" — this note probably dates from the same weeks, Nov 1937.
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-06-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-06-p2.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-06-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-06-p2.jpg)
 
 ## 1938
 
@@ -442,12 +442,12 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* "12/6 ... 18 ounces" — probably the hockey stick mentioned on scan 281. "Wheatons" — compare scan 122 (Feb 1938): "Fancy me seeing the police actually investigating at Wheaton" and "I'm glad the policeman isn't dead". celluloid jam covers + prayer book are also requested in scan 122 (Feb 1938) — this is probably January 1938.
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-07-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-07-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-07-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-07-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-07-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-07-p6.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-07-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-07-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-07-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-07-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-07-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-07-p6.jpg)
 
 ### 08. Tuesday, early February 1938
 
@@ -481,9 +481,9 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* scan 123 (Feb 1938) says "I have played Hockey once" — so this is early February 1938, probably Tuesday 1 February 1938, the day after the St Ives lifeboat capsized (31 Jan 1938).
 
 > [!scan]- Scans (3)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-08-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-08-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-08-p3.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-08-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-08-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-08-p3.jpg)
 
 ### 09. A Sunday, February 1938
 
@@ -529,10 +529,10 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* the great aurora of 25–26 January 1938 was seen (red) across southern England — confirms early 1938.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-09-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-09-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-09-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-09-p4.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-09-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-09-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-09-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-09-p4.jpg)
 
 ### 10. A Sunday, c. spring 1938
 
@@ -575,12 +575,12 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > Goodbye
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-10-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-10-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-10-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-10-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-10-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-10-p6.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-10-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-10-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-10-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-10-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-10-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-10-p6.jpg)
 
 ### 11. A Sunday near the end of a spring term, c. 1938–39
 
@@ -637,13 +637,13 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* Mr Yeats-Brown's brother is presumably Francis Yeats-Brown, author of "Bengal Lancer". "S.6F" — probably f/6 or similar aperture marking. "Philip" here is presumably a boy/master at school, not the brother — or possibly brother Philip visiting.
 
 > [!scan]- Scans (7)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-11-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-11-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-11-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-11-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-11-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-11-p6.jpg)
-> ![Scan, page 7](images/Bruton-David-Silver-Bruton-letter-11-p7.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-11-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-11-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-11-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-11-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-11-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-11-p6.jpg)
+> ![Scan, page 7](../images/Bruton-David-Silver-Bruton-letter-11-p7.jpg)
 
 ### 12. Early in a summer term, c. 1938
 
@@ -675,9 +675,9 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > *(p. 4)*
 
 > [!scan]- Scans (3)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-12-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-12-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-12-p3.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-12-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-12-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-12-p3.jpg)
 
 ### 13. A summer term, c. 1938–39
 
@@ -724,12 +724,12 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* the boy's enlarging lecture is probably the one described (fogged first sheet) in the 30 Oct 1938 letter, scan 145 — so this summer-term letter is likely 1938 or 1939.
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-13-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-13-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-13-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-13-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-13-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-13-p6.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-13-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-13-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-13-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-13-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-13-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-13-p6.jpg)
 
 ### 14. A summer term, c. 1938
 
@@ -765,10 +765,10 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > son David
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-14-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-14-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-14-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-14-p4.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-14-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-14-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-14-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-14-p4.jpg)
 
 ### 15. Shortly before Corpus Christi, c. 1938–39
 
@@ -803,10 +803,10 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* St Davids = Exeter St David's station — he is coming home for the Corpus Christi break.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-15-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-15-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-15-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-15-p4.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-15-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-15-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-15-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-15-p4.jpg)
 
 ### 16. A summer term, c. 1938–39
 
@@ -841,10 +841,10 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > I ~~[struck]~~ was measured in the Gym and discover to my great surprise that I'm 5FT Nine Must stop now. with love your loving [signature cut off]
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-16-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-16-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-16-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-16-p4.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-16-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-16-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-16-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-16-p4.jpg)
 
 ### 17. Summer term, c. July 1938
 
@@ -885,12 +885,12 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > David
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-17-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-17-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-17-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-17-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-17-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-17-p6.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-17-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-17-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-17-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-17-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-17-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-17-p6.jpg)
 
 ### 18. Summer term, c. July 1938 (two weeks before the end of term)
 
@@ -936,11 +936,11 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* probably the Bournemouth concert trip described in scans 28–29 (Percy Whitlock, Pavilion), so summer term 1939 (or 1938).
 
 > [!scan]- Scans (5)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-18-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-18-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-18-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-18-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-18-p5.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-18-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-18-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-18-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-18-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-18-p5.jpg)
 
 ### 19. A Sunday at the start of the autumn term, September 1938
 
@@ -1004,14 +1004,14 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* Beaman, Grogan and Long appear in the 1937–38 letters; Long is still a prefect in Sept 1939 (scan 200). This letter is probably September 1938 (start of the autumn term after Kit left). compare scan 96 (Oct/Nov 1938): "That Atlas won't do, shall I get a new one?" — supports autumn 1938. the Chipsticks arrive in the Oct/Nov 1938 letter, scan 93 ("I received the Chipsticks plates and purse") — confirms autumn 1938.
 
 > [!scan]- Scans (8)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-19-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-19-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-19-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-19-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-19-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-19-p6.jpg)
-> ![Scan, page 7](images/Bruton-David-Silver-Bruton-letter-19-p7.jpg)
-> ![Scan, page 8](images/Bruton-David-Silver-Bruton-letter-19-p8.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-19-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-19-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-19-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-19-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-19-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-19-p6.jpg)
+> ![Scan, page 7](../images/Bruton-David-Silver-Bruton-letter-19-p7.jpg)
+> ![Scan, page 8](../images/Bruton-David-Silver-Bruton-letter-19-p8.jpg)
 
 ### 20. Sunday 30 October 1938
 
@@ -1086,17 +1086,17 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > *(p. 12)*
 
 > [!scan]- Scans (11)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-20-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-20-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-20-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-20-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-20-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-20-p6.jpg)
-> ![Scan, page 7](images/Bruton-David-Silver-Bruton-letter-20-p7.jpg)
-> ![Scan, page 8](images/Bruton-David-Silver-Bruton-letter-20-p8.jpg)
-> ![Scan, page 9](images/Bruton-David-Silver-Bruton-letter-20-p9.jpg)
-> ![Scan, page 10](images/Bruton-David-Silver-Bruton-letter-20-p10.jpg)
-> ![Scan, page 11](images/Bruton-David-Silver-Bruton-letter-20-p11.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-20-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-20-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-20-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-20-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-20-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-20-p6.jpg)
+> ![Scan, page 7](../images/Bruton-David-Silver-Bruton-letter-20-p7.jpg)
+> ![Scan, page 8](../images/Bruton-David-Silver-Bruton-letter-20-p8.jpg)
+> ![Scan, page 9](../images/Bruton-David-Silver-Bruton-letter-20-p9.jpg)
+> ![Scan, page 10](../images/Bruton-David-Silver-Bruton-letter-20-p10.jpg)
+> ![Scan, page 11](../images/Bruton-David-Silver-Bruton-letter-20-p11.jpg)
 
 ### 21. A Sunday, c. early October 1938
 
@@ -1126,9 +1126,9 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* the rugger leagues are also mentioned in the 30 Oct 1938 letter (scan 145: "one of these new rugger league games") — so this letter is probably early October 1938.
 
 > [!scan]- Scans (3)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-21-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-21-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-21-p3.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-21-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-21-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-21-p3.jpg)
 
 ### 22. A Sunday, October 1938
 
@@ -1173,12 +1173,12 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* the debate motion refers to the Munich Agreement (30 Sept 1938). With the new church screen (also mentioned in scan 38), this letter is probably October–November 1938. "I wish Mr Venters was so hopeless" — probably meant "wasn't".
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-22-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-22-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-22-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-22-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-22-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-22-p6.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-22-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-22-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-22-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-22-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-22-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-22-p6.jpg)
 
 ### 23. Sunday 20 November 1938
 
@@ -1228,12 +1228,12 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* Sunday 20 November 1938 — matches "Sunday leave is the 11th December" in scan 126. "its 3/11" — the price of the Schuco car (3s 11d), completing the previous page. "Martie" here — compare "Marjorie ... spelt Somerset Summerset" in letter 05 (Nov 1937). Probably the same person (Marjorie/"Martie").
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-23-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-23-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-23-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-23-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-23-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-23-p6.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-23-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-23-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-23-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-23-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-23-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-23-p6.jpg)
 
 ### 24. Late November / early December 1938
 
@@ -1271,10 +1271,10 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > My knee though only a surface scratch hasn't healed properly, I wish you could do it Daddy, I haven't much faith in Matron she put on hot fomentations or something and nearly killed me the result is that today she stuck the lint on and told me to come up to her room if it slipped down or to fix it myself if it was at a meal time I had a look at it and discovered that the lint is firmly fixed to my leg by a clot of blood. She has invited me to come up and listen to the wireless and read the papers when I like, I don't know if I shall however as its very difficult if you come into her room and she says "What can I do for you" and you say "Nothing" and sit down and read the paper as if the room belonged to you.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-24-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-24-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-24-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-24-p4.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-24-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-24-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-24-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-24-p4.jpg)
 
 ### 25. Late November / early December 1938 (last page only)
 
@@ -1291,7 +1291,7 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > *(p. 2)*
 
 > [!scan]- Scans (1)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-25-p1.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-25-p1.jpg)
 
 ### 26. Friday 9 December 1938
 
@@ -1325,10 +1325,10 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > Please could bring up 2 envelopes on Sunday.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-26-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-26-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-26-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-26-p4.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-26-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-26-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-26-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-26-p4.jpg)
 
 ### 27. Sunday 18 December 1938
 
@@ -1355,9 +1355,9 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > *(p. 4)*
 
 > [!scan]- Scans (3)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-27-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-27-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-27-p3.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-27-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-27-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-27-p3.jpg)
 
 ## 1939
 
@@ -1384,8 +1384,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* Sunday 22 January 1939. Confirmation 19 March 1939.
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-28-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-28-p2.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-28-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-28-p2.jpg)
 
 ### 29. Sunday 19 February 1939
 
@@ -1410,8 +1410,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* Sunday 19 February 1939. the sick-room stay may be the chickenpox spell described in letter 45 — so letter 45 may date from February 1939.
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-29-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-29-p2.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-29-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-29-p2.jpg)
 
 ### 30. A Sunday, early 1939
 
@@ -1444,9 +1444,9 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > *(p. 4)*
 
 > [!scan]- Scans (3)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-30-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-30-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-30-p3.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-30-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-30-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-30-p3.jpg)
 
 ### 31. A Friday in a spring term, c. 1939–40
 
@@ -1469,8 +1469,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > P.S. I'm sorry to hear about your misfortunes and I hope Daddy will succeed with the Bamboos.
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-31-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-31-p2.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-31-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-31-p2.jpg)
 
 ### 32. Sunday 7 May 1939
 
@@ -1511,10 +1511,10 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > [1½d brown King George VI stamp; postmark BRUTON SOMERSET 5.45 PM, day and month unclear (possibly "MY"), 39]
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-32-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-32-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-32-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-32-p4.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-32-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-32-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-32-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-32-p4.jpg)
 
 ### 33. 22 June, c. 1939
 
@@ -1545,9 +1545,9 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* the rabbit mould links to the "rabbit out of the mould" idea in scan 99 (summer term) — so this letter is probably the same summer, before scans 99–104. posting on 22 June would arrive Friday if posted after the last post on a Tuesday/Wednesday... "Yesterday we had the O.T.C. inspection" + 16 July 1939 letter (scan 26) asks "I can't remember if I told you how the inspection went off" — so probably Thursday 22 June 1939.
 
 > [!scan]- Scans (3)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-33-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-33-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-33-p3.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-33-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-33-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-33-p3.jpg)
 
 ### 34. Sunday 16 July 1939
 
@@ -1591,11 +1591,11 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* "Percy Whitlock" is squeezed into the space he left for the name. Whitlock was organist at the Bournemouth Pavilion from 1932, so this concert was probably at the Pavilion, Bournemouth — compare "the time when we went to Bournemouth" in the 7 May letter (scan 23).
 
 > [!scan]- Scans (5)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-34-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-34-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-34-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-34-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-34-p5.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-34-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-34-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-34-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-34-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-34-p5.jpg)
 
 ### 35. A Sunday in the summer term, c. July 1939
 
@@ -1633,10 +1633,10 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > [continues on a page not in sequence]
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-35-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-35-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-35-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-35-p4.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-35-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-35-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-35-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-35-p4.jpg)
 
 ### 36. Saturday–Sunday at the start of the autumn term, September 1939
 
@@ -1720,14 +1720,14 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* blue lamp shades suggest blackout conditions — wartime. SS Athenia was sunk on 3 Sept 1939 and HMS Courageous on 17 Sept 1939 — so this is the first Saturday of the autumn term 1939, probably Saturday 23 or 30 September 1939.
 
 > [!scan]- Scans (8)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-36-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-36-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-36-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-36-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-36-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-36-p6.jpg)
-> ![Scan, page 7](images/Bruton-David-Silver-Bruton-letter-36-p7.jpg)
-> ![Scan, page 8](images/Bruton-David-Silver-Bruton-letter-36-p8.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-36-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-36-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-36-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-36-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-36-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-36-p6.jpg)
+> ![Scan, page 7](../images/Bruton-David-Silver-Bruton-letter-36-p7.jpg)
+> ![Scan, page 8](../images/Bruton-David-Silver-Bruton-letter-36-p8.jpg)
 
 ### 37. A Sunday, c. 1939
 
@@ -1770,11 +1770,11 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > Son David
 
 > [!scan]- Scans (5)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-37-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-37-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-37-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-37-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-37-p5.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-37-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-37-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-37-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-37-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-37-p5.jpg)
 
 ### 38. A Sunday, c. 1 October 1939
 
@@ -1834,14 +1834,14 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* enumerators delivered and collected National Registration forms on 29–30 September 1939 (the wartime population register), so Sunday 1 October 1939 is likely.
 
 > [!scan]- Scans (8)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-38-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-38-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-38-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-38-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-38-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-38-p6.jpg)
-> ![Scan, page 7](images/Bruton-David-Silver-Bruton-letter-38-p7.jpg)
-> ![Scan, page 8](images/Bruton-David-Silver-Bruton-letter-38-p8.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-38-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-38-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-38-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-38-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-38-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-38-p6.jpg)
+> ![Scan, page 7](../images/Bruton-David-Silver-Bruton-letter-38-p7.jpg)
+> ![Scan, page 8](../images/Bruton-David-Silver-Bruton-letter-38-p8.jpg)
 
 ### 39. A Sunday, October 1939
 
@@ -1864,8 +1864,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > David.
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-39-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-39-p2.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-39-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-39-p2.jpg)
 
 ### 40. Friday 13 – Sunday 15 October 1939
 
@@ -1927,14 +1927,14 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* HMS Royal Oak was sunk at Scapa Flow on 14 October 1939 (a Saturday), so this letter is Friday 13 – Sunday 15 October 1939.
 
 > [!scan]- Scans (8)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-40-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-40-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-40-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-40-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-40-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-40-p6.jpg)
-> ![Scan, page 7](images/Bruton-David-Silver-Bruton-letter-40-p7.jpg)
-> ![Scan, page 8](images/Bruton-David-Silver-Bruton-letter-40-p8.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-40-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-40-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-40-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-40-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-40-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-40-p6.jpg)
+> ![Scan, page 7](../images/Bruton-David-Silver-Bruton-letter-40-p7.jpg)
+> ![Scan, page 8](../images/Bruton-David-Silver-Bruton-letter-40-p8.jpg)
 
 ### 41. A Wednesday afternoon, autumn 1939
 
@@ -2009,16 +2009,16 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* "that beastly old war" + School Certificate "next summer" date this letter to autumn 1939 or early 1940.
 
 > [!scan]- Scans (10)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-41-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-41-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-41-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-41-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-41-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-41-p6.jpg)
-> ![Scan, page 7](images/Bruton-David-Silver-Bruton-letter-41-p7.jpg)
-> ![Scan, page 8](images/Bruton-David-Silver-Bruton-letter-41-p8.jpg)
-> ![Scan, page 9](images/Bruton-David-Silver-Bruton-letter-41-p9.jpg)
-> ![Scan, page 10](images/Bruton-David-Silver-Bruton-letter-41-p10.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-41-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-41-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-41-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-41-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-41-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-41-p6.jpg)
+> ![Scan, page 7](../images/Bruton-David-Silver-Bruton-letter-41-p7.jpg)
+> ![Scan, page 8](../images/Bruton-David-Silver-Bruton-letter-41-p8.jpg)
+> ![Scan, page 9](../images/Bruton-David-Silver-Bruton-letter-41-p9.jpg)
+> ![Scan, page 10](../images/Bruton-David-Silver-Bruton-letter-41-p10.jpg)
 
 ### 42. A Sunday, autumn 1939
 
@@ -2084,14 +2084,14 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > [bottom left:] its going to rain now blow it!
 
 > [!scan]- Scans (8)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-42-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-42-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-42-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-42-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-42-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-42-p6.jpg)
-> ![Scan, page 7](images/Bruton-David-Silver-Bruton-letter-42-p7.jpg)
-> ![Scan, page 8](images/Bruton-David-Silver-Bruton-letter-42-p8.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-42-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-42-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-42-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-42-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-42-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-42-p6.jpg)
+> ![Scan, page 7](../images/Bruton-David-Silver-Bruton-letter-42-p7.jpg)
+> ![Scan, page 8](../images/Bruton-David-Silver-Bruton-letter-42-p8.jpg)
 
 ### 43. A Sunday, autumn 1939 or 1940
 
@@ -2126,10 +2126,10 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* these are very probably the two photographs (scans 14–15: trench-shelter entrances "dug & made by students"; a tabby cat) enclosed with letter 45 — Philip was presumably at Guy's Hospital.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-43-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-43-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-43-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-43-p4.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-43-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-43-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-43-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-43-p4.jpg)
 
 ### 44. A Wednesday, during the chickenpox quarantine (c. 1939–40)
 
@@ -2173,11 +2173,11 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* the plates are answered in letter 45 ("I'm so sorry I hadn't told you about the plates before..."), confirming 002 follows this letter.
 
 > [!scan]- Scans (5)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-44-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-44-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-44-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-44-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-44-p5.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-44-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-44-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-44-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-44-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-44-p5.jpg)
 
 ### 45. The following Sunday, chickenpox (c. 1939–40)
 
@@ -2236,13 +2236,13 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > Photo 2: a long-haired tabby cat sitting on a table by a window, beside a vase of lilac and a pile of books. Back blank.
 
 > [!scan]- Scans (7)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-45-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-45-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-45-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-45-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-45-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-45-p6.jpg)
-> ![Scan, page 7](images/Bruton-David-Silver-Bruton-letter-45-p7.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-45-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-45-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-45-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-45-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-45-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-45-p6.jpg)
+> ![Scan, page 7](../images/Bruton-David-Silver-Bruton-letter-45-p7.jpg)
 
 ### 46. A Sunday near the end of the Christmas term, c. December 1939
 
@@ -2268,8 +2268,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* "Juneero" — a 1930s metal-working construction kit.
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-46-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-46-p2.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-46-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-46-p2.jpg)
 
 ## 1940
 
@@ -2308,10 +2308,10 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* Sunday 28 January 1940. Sir Walter Bullivant and Richard Hannay are characters from John Buchan's spy novels — a family joke/code, perhaps for a visitor or parcel.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-47-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-47-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-47-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-47-p4.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-47-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-47-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-47-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-47-p4.jpg)
 
 ### 48. Tuesday 20 February 1940 (postcard)
 
@@ -2333,8 +2333,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > Goodbye till Sunday      David.
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-48-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-48-p2.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-48-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-48-p2.jpg)
 
 ### 49. Sunday 3 March 1940
 
@@ -2370,10 +2370,10 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* Sunday 3 March 1940.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-49-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-49-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-49-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-49-p4.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-49-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-49-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-49-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-49-p4.jpg)
 
 ### 50. Sunday 10 March 1940
 
@@ -2428,14 +2428,14 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > P.S. I wrote a letter to James a week ago only I didn't know which part of London Berkeley square is and nobody seems to know. [last line partly cut off at the bottom of the scan:] [...] I didn't know the number of his house either
 
 > [!scan]- Scans (8)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-50-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-50-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-50-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-50-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-50-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-50-p6.jpg)
-> ![Scan, page 7](images/Bruton-David-Silver-Bruton-letter-50-p7.jpg)
-> ![Scan, page 8](images/Bruton-David-Silver-Bruton-letter-50-p8.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-50-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-50-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-50-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-50-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-50-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-50-p6.jpg)
+> ![Scan, page 7](../images/Bruton-David-Silver-Bruton-letter-50-p7.jpg)
+> ![Scan, page 8](../images/Bruton-David-Silver-Bruton-letter-50-p8.jpg)
 
 ### 51. Good Friday – Easter Sunday, March 1940
 
@@ -2479,12 +2479,12 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* probably Good Friday, 22 March 1940.
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-51-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-51-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-51-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-51-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-51-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-51-p6.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-51-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-51-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-51-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-51-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-51-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-51-p6.jpg)
 
 ### 52. Envelope, 5 May 1940
 
@@ -2502,8 +2502,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > [On flap, with arrow:] Open this end ↑
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-52-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-52-p2.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-52-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-52-p2.jpg)
 
 ### 53. Sunday 19 May 1940
 
@@ -2541,10 +2541,10 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* Sunday 19 May 1940 — German invasion of France/Low Countries.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-53-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-53-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-53-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-53-p4.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-53-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-53-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-53-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-53-p4.jpg)
 
 ### 54. Sunday 3 November 1940
 
@@ -2591,12 +2591,12 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > David [signature partly cut off at bottom]
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-54-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-54-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-54-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-54-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-54-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-54-p6.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-54-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-54-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-54-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-54-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-54-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-54-p6.jpg)
 
 ### 55. A Sunday, c. 17 November 1940
 
@@ -2648,12 +2648,12 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* "the wrecked houses" at Clyst St George — probably bomb damage, suggesting 1941 or later. "Albercors" = Fairey Albacores; RNAS Yeovilton. the Coventry Blitz was the night of 14–15 November 1940. This letter is therefore probably Sunday 17 November 1940 (or a Sunday soon after).
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-55-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-55-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-55-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-55-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-55-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-55-p6.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-55-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-55-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-55-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-55-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-55-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-55-p6.jpg)
 
 ## 1941
 
@@ -2681,8 +2681,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > David
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-56-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-56-p2.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-56-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-56-p2.jpg)
 
 ### 57. A Tuesday, October 1941
 
@@ -2723,10 +2723,10 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > [continues — next page not in sequence]
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-57-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-57-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-57-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-57-p4.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-57-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-57-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-57-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-57-p4.jpg)
 
 ### 58. Friday 24 October 1941 (typed)
 
@@ -2754,7 +2754,7 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* 24 October 1941 (a Friday).
 
 > [!scan]- Scans (1)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-58-p1.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-58-p1.jpg)
 
 ### 59. A Sunday, autumn 1941
 
@@ -2791,10 +2791,10 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > P.S. Pirie is having his medical at Exeter in Castle Street on Monday. If all the cafe's should be full which I doubt and he decides to come up and see you about lunch time don't be ~~[struck]~~ caught by surprise please. But if he comes don't blame me I didn't put him up to it. I don't expect he will though.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-59-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-59-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-59-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-59-p4.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-59-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-59-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-59-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-59-p4.jpg)
 
 ### 60. A Sunday, autumn 1941
 
@@ -2819,8 +2819,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > So sorry this is so short
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-60-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-60-p2.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-60-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-60-p2.jpg)
 
 ### 61. A Tuesday, December 1941
 
@@ -2851,8 +2851,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* Japan entered the war 7–8 Dec 1941; Pirie's boat "leaves for India in December" (scan 192). So probably Tuesday 9 December 1941 (or 2 Dec). "9 more days" to end of term + Japan now at war → Tuesday 9 or 16 December 1941.
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-61-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-61-p2.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-61-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-61-p2.jpg)
 
 ## 1942
 
@@ -2904,10 +2904,10 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* probably Friday 6 February 1942 (interview Monday 16 February 1942). Compare scan 186: "the Monday after I went to Oxford". "Fighter Boy" is probably "Fighter Boys" (1942); "Come Wind, Come Weather" is Daphne du Maurier (1940).
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-62-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-62-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-62-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-62-p4.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-62-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-62-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-62-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-62-p4.jpg)
 
 ### 63. A Sunday, February 1942
 
@@ -2937,8 +2937,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* the skating (hard frost) and Air Ministry correspondence fit January–February 1942.
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-63-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-63-p2.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-63-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-63-p2.jpg)
 
 ### 64. A Sunday, c. March 1942
 
@@ -2975,9 +2975,9 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* registration for service + call-up "until June" + A.T.C. suggests early 1942 (David turned 18 on 2 Jan 1942) — i.e. spring term 1942. Later than the 1936–40 range.
 
 > [!scan]- Scans (3)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-64-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-64-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-64-p3.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-64-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-64-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-64-p3.jpg)
 
 ### 65. Saturday 9 May 1942
 
@@ -3036,10 +3036,10 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* Saturday 9 May 1942 (Exeter Blitz, 4 May 1942). he is describing training as a radar operator / navigator (radio) in a two-seat night fighter — airborne interception radar, then secret. the raid was the night of Sunday 3 – Monday 4 May 1942; Tresillian, West Avenue, Exeter was evidently damaged or destroyed ("losing the houses").
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-65-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-65-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-65-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-65-p4.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-65-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-65-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-65-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-65-p4.jpg)
 
 ### 66. Sunday 21 June 1942
 
@@ -3069,8 +3069,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* Sunday 21 June 1942. Gladys Silver's birthday evidently 23 June.
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-66-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-66-p2.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-66-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-66-p2.jpg)
 
 ## Undated
 
@@ -3123,12 +3123,12 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* "I may night on Wednesday" = presumably "I may write on Wednesday".
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-67-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-67-p2.jpg)
-> ![Scan, page 3](images/Bruton-David-Silver-Bruton-letter-67-p3.jpg)
-> ![Scan, page 4](images/Bruton-David-Silver-Bruton-letter-67-p4.jpg)
-> ![Scan, page 5](images/Bruton-David-Silver-Bruton-letter-67-p5.jpg)
-> ![Scan, page 6](images/Bruton-David-Silver-Bruton-letter-67-p6.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-67-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-67-p2.jpg)
+> ![Scan, page 3](../images/Bruton-David-Silver-Bruton-letter-67-p3.jpg)
+> ![Scan, page 4](../images/Bruton-David-Silver-Bruton-letter-67-p4.jpg)
+> ![Scan, page 5](../images/Bruton-David-Silver-Bruton-letter-67-p5.jpg)
+> ![Scan, page 6](../images/Bruton-David-Silver-Bruton-letter-67-p6.jpg)
 
 ### 68. Undated (a Monday after a Sunday leave)
 
@@ -3152,8 +3152,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 *Notes:* "got person" probably means got permission. Wardour = Wardour Castle, Wiltshire.
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-68-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-68-p2.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-68-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-68-p2.jpg)
 
 ### 69. Undated (page torn; writer uncertain) — writer uncertain
 
@@ -3174,8 +3174,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > [continues — next page not in sequence]
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-letter-69-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-letter-69-p2.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-letter-69-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-letter-69-p2.jpg)
 
 ## Unfinished story (undated)
 
@@ -3191,8 +3191,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 > [The story breaks off here.]
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Bruton-David-Silver-Bruton-story-p1.jpg)
-> ![Scan, page 2](images/Bruton-David-Silver-Bruton-story-p2.jpg)
+> ![Scan, page 1](../images/Bruton-David-Silver-Bruton-story-p1.jpg)
+> ![Scan, page 2](../images/Bruton-David-Silver-Bruton-story-p2.jpg)
 
 ## Loose items
 
@@ -3200,8 +3200,8 @@ Throughout he is the man his grandchildren knew: always drawing, mad about photo
 - **Envelope** addressed "C. M. Silver Esq., Tresillian, West Avenue, Exeter, Devon", 1½d stamp, BRUTON postmark with the date illegible.
 
 > [!scan]- Scans (2)
-> ![David Silver Bruton flower drawing](images/Bruton-David-Silver-Bruton-flower-drawing.jpg)
-> ![David Silver Bruton envelope (undated)](images/Bruton-David-Silver-Bruton-envelope-undated.jpg)
+> ![David Silver Bruton flower drawing](../images/Bruton-David-Silver-Bruton-flower-drawing.jpg)
+> ![David Silver Bruton envelope (undated)](../images/Bruton-David-Silver-Bruton-envelope-undated.jpg)
 
 ---
 

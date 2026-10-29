@@ -8,7 +8,7 @@ tags:
 
 *← [Silver Family Archive](./)*
 
-![Tresillian, the family home in West Avenue, Exeter. *Photographed by Christopher Silver (pre-war glass plate).*](images/CPS-UK-Exeter-18.jpg)
+![Tresillian, the family home in West Avenue, Exeter. *Photographed by Christopher Silver (pre-war glass plate).*](../images/CPS-UK-Exeter-18.jpg)
 
 **Clifford Marking Silver** was a dentist in Exeter, with his surgery in Bedford Circus, the Georgian circus off the High Street. With his wife [Gladys Lucy Silver (née Acott)](Gladys-Silver/) he brought up six children at **Tresillian**, an 1899 Arts & Crafts house in West Avenue. He was a keen photographer and gardener, and passed both enthusiasms on to his sons, whose letters home from school are full of cameras, films and plans for the garden. On the night of 3–4 May 1942, in the Exeter Blitz, Tresillian was raked by cannon fire with Clifford and Gladys inside, and the surgery was damaged in the same raids. Bedford Circus was later demolished. He was Jago Silver's great-grandfather.
 

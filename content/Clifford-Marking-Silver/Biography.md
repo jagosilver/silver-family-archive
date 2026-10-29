@@ -36,11 +36,11 @@ Since the whole Circus was cleared, Clifford's practice cannot have returned the
 
 The family home was **Tresillian**, near the top of West Avenue in Exeter: an 1899 house by an architect David described as "a contemporary of Voysey", with white roughcast walls, a red-tiled roof, a garden-side porch on heavy timber posts with a vine over it, a greenhouse, and a long garden running back to a garage on the lane behind. Christopher photographed the house and garden many times on glass plates (see [Christopher Silver — UK](Christopher-Silver/UK)).
 
-![The rear elevation of Tresillian — a substantial white-rendered Arts & Crafts house with a lean-to greenhouse, a vine-covered porch, a garden bench and a well-kept lawn. *Tresillian, photographed by Christopher Silver (pre-war glass plate).*](images/CPS-UK-Exeter-18.jpg)
+![The rear elevation of Tresillian — a substantial white-rendered Arts & Crafts house with a lean-to greenhouse, a vine-covered porch, a garden bench and a well-kept lawn. *Tresillian, photographed by Christopher Silver (pre-war glass plate).*](../images/CPS-UK-Exeter-18.jpg)
 
 The garden was clearly a passion. Christopher's photographs show a carefully planted rockery and a greenhouse full of tomatoes and cacti, and the boys' letters from school are full of the garden: Christopher's crocuses by the greenhouse (1936), the bamboos his father was trying to establish, and the concrete rabbit Clifford wanted to cast for the garden pond, for which David bought him a rabbit-shaped jelly mould as a present in the summer of 1938 or 1939.
 
-![A rockery in the family garden: primulas in full bloom between rough stone slabs, with irises behind. *The garden at Tresillian, photographed by Christopher Silver.*](images/CPS-UK-Exeter-01.jpg)
+![A rockery in the family garden: primulas in full bloom between rough stone slabs, with irises behind. *The garden at Tresillian, photographed by Christopher Silver.*](../images/CPS-UK-Exeter-01.jpg)
 
 ## The Exeter Blitz
 

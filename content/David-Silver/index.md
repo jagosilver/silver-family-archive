@@ -8,7 +8,7 @@ tags:
 
 *← [Silver Family Archive](./)*
 
-![David Silver in later life, in the garden at Wadebridge. *"Grandpa".*](images/DRS-Grandpa.jpg)
+![David Silver in later life, in the garden at Wadebridge. *"Grandpa".*](../images/DRS-Grandpa.jpg)
 
 **David Rodney Silver** (2 January 1924 – 19 April 2003) was an architect, a wartime RAF engine fitter and, by his grandson's account, a frustrated artist. He was born in Exeter, the son of the dentist [Clifford Marking Silver](Clifford-Marking-Silver/) and [Gladys Lucy Silver (née Acott)](Gladys-Silver/), and grew up at Tresillian in West Avenue. He boarded at King's School, Bruton, from 1937 to 1942, spent a couple of terms at Exeter School of Art, and then served four years in the RAF, overhauling and test-running Merlin engines. After demob in 1947 he trained at the Bristol School of Architecture, where he met [Anthea Leigh](Anthea-Silver/); they married at the end of 1952. He spent most of his career as an architect in the civil service, and in retirement he and Anthea lived in Wadebridge, Cornwall, where he went to watercolour classes and filled his letters with pen sketches. He was Jago Silver's maternal grandfather, known to the family as **Grandpa**.
 

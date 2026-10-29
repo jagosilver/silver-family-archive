@@ -49,8 +49,8 @@ His Christmas letters have pen drawings of the Lincolnshire fens, and on **2 Jan
 *Notes:* His first letter from Skegness: "square bashing" for eight weeks. He had come from a reception centre (later mentioned as Cardington, near Bedford).
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Skegness-Letters-letter-01-p1.jpg)
-> ![Scan, page 2](images/Skegness-Letters-letter-01-p2.jpg)
+> ![Scan, page 1](../../images/Skegness-Letters-letter-01-p1.jpg)
+> ![Scan, page 2](../../images/Skegness-Letters-letter-01-p2.jpg)
 
 ### 02. Saturday 16 October 1943 (a note with his washing)
 
@@ -89,8 +89,8 @@ His Christmas letters have pen drawings of the Lincolnshire fens, and on **2 Jan
 > [Circled:] Got an awful cold.
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Skegness-Letters-letter-02-p1.jpg)
-> ![Scan, page 2](images/Skegness-Letters-letter-02-p2.jpg)
+> ![Scan, page 1](../../images/Skegness-Letters-letter-02-p1.jpg)
+> ![Scan, page 2](../../images/Skegness-Letters-letter-02-p2.jpg)
 
 ### 03. Sunday 17 October 1943
 
@@ -195,18 +195,18 @@ His Christmas letters have pen drawings of the Lincolnshire fens, and on **2 Jan
 *Notes:* He numbers the sheets 1–6; scan 0 65 is the back of sheet 2. The red-brick billet is compared with the houses on Pennsylvania Hill, Exeter. St Matthew's is Skegness parish church.
 
 > [!scan]- Scans (12)
-> ![Scan, page 1](images/Skegness-Letters-letter-03-p1.jpg)
-> ![Scan, page 2](images/Skegness-Letters-letter-03-p2.jpg)
-> ![Scan, page 3](images/Skegness-Letters-letter-03-p3.jpg)
-> ![Scan, page 4](images/Skegness-Letters-letter-03-p4.jpg)
-> ![Scan, page 5](images/Skegness-Letters-letter-03-p5.jpg)
-> ![Scan, page 6](images/Skegness-Letters-letter-03-p6.jpg)
-> ![Scan, page 7](images/Skegness-Letters-letter-03-p7.jpg)
-> ![Scan, page 8](images/Skegness-Letters-letter-03-p8.jpg)
-> ![Scan, page 9](images/Skegness-Letters-letter-03-p9.jpg)
-> ![Scan, page 10](images/Skegness-Letters-letter-03-p10.jpg)
-> ![Scan, page 11](images/Skegness-Letters-letter-03-p11.jpg)
-> ![Scan, page 12](images/Skegness-Letters-letter-03-p12.jpg)
+> ![Scan, page 1](../../images/Skegness-Letters-letter-03-p1.jpg)
+> ![Scan, page 2](../../images/Skegness-Letters-letter-03-p2.jpg)
+> ![Scan, page 3](../../images/Skegness-Letters-letter-03-p3.jpg)
+> ![Scan, page 4](../../images/Skegness-Letters-letter-03-p4.jpg)
+> ![Scan, page 5](../../images/Skegness-Letters-letter-03-p5.jpg)
+> ![Scan, page 6](../../images/Skegness-Letters-letter-03-p6.jpg)
+> ![Scan, page 7](../../images/Skegness-Letters-letter-03-p7.jpg)
+> ![Scan, page 8](../../images/Skegness-Letters-letter-03-p8.jpg)
+> ![Scan, page 9](../../images/Skegness-Letters-letter-03-p9.jpg)
+> ![Scan, page 10](../../images/Skegness-Letters-letter-03-p10.jpg)
+> ![Scan, page 11](../../images/Skegness-Letters-letter-03-p11.jpg)
+> ![Scan, page 12](../../images/Skegness-Letters-letter-03-p12.jpg)
 
 ### 04. Monday 18 – Sunday 24 October 1943
 
@@ -339,24 +339,24 @@ His Christmas letters have pen drawings of the Lincolnshire fens, and on **2 Jan
 *Notes:* Sheets numbered 1–7. The friend from Bruton who became a bomber pilot had been on the Oxford University air course with him; "He passed his medical. I failed mine." Torty is the family tortoise; Darlan is the French admiral. "Vickers" is the shorthand system. Martie, Wiggs and Nanny recur throughout.
 
 > [!scan]- Scans (18)
-> ![Scan, page 1](images/Skegness-Letters-letter-04-p1.jpg)
-> ![Scan, page 2](images/Skegness-Letters-letter-04-p2.jpg)
-> ![Scan, page 3](images/Skegness-Letters-letter-04-p3.jpg)
-> ![Scan, page 4](images/Skegness-Letters-letter-04-p4.jpg)
-> ![Scan, page 5](images/Skegness-Letters-letter-04-p5.jpg)
-> ![Scan, page 6](images/Skegness-Letters-letter-04-p6.jpg)
-> ![Scan, page 7](images/Skegness-Letters-letter-04-p7.jpg)
-> ![Scan, page 8](images/Skegness-Letters-letter-04-p8.jpg)
-> ![Scan, page 9](images/Skegness-Letters-letter-04-p9.jpg)
-> ![Scan, page 10](images/Skegness-Letters-letter-04-p10.jpg)
-> ![Scan, page 11](images/Skegness-Letters-letter-04-p11.jpg)
-> ![Scan, page 12](images/Skegness-Letters-letter-04-p12.jpg)
-> ![Scan, page 13](images/Skegness-Letters-letter-04-p13.jpg)
-> ![Scan, page 14](images/Skegness-Letters-letter-04-p14.jpg)
-> ![Scan, page 15](images/Skegness-Letters-letter-04-p15.jpg)
-> ![Scan, page 16](images/Skegness-Letters-letter-04-p16.jpg)
-> ![Scan, page 17](images/Skegness-Letters-letter-04-p17.jpg)
-> ![Scan, page 18](images/Skegness-Letters-letter-04-p18.jpg)
+> ![Scan, page 1](../../images/Skegness-Letters-letter-04-p1.jpg)
+> ![Scan, page 2](../../images/Skegness-Letters-letter-04-p2.jpg)
+> ![Scan, page 3](../../images/Skegness-Letters-letter-04-p3.jpg)
+> ![Scan, page 4](../../images/Skegness-Letters-letter-04-p4.jpg)
+> ![Scan, page 5](../../images/Skegness-Letters-letter-04-p5.jpg)
+> ![Scan, page 6](../../images/Skegness-Letters-letter-04-p6.jpg)
+> ![Scan, page 7](../../images/Skegness-Letters-letter-04-p7.jpg)
+> ![Scan, page 8](../../images/Skegness-Letters-letter-04-p8.jpg)
+> ![Scan, page 9](../../images/Skegness-Letters-letter-04-p9.jpg)
+> ![Scan, page 10](../../images/Skegness-Letters-letter-04-p10.jpg)
+> ![Scan, page 11](../../images/Skegness-Letters-letter-04-p11.jpg)
+> ![Scan, page 12](../../images/Skegness-Letters-letter-04-p12.jpg)
+> ![Scan, page 13](../../images/Skegness-Letters-letter-04-p13.jpg)
+> ![Scan, page 14](../../images/Skegness-Letters-letter-04-p14.jpg)
+> ![Scan, page 15](../../images/Skegness-Letters-letter-04-p15.jpg)
+> ![Scan, page 16](../../images/Skegness-Letters-letter-04-p16.jpg)
+> ![Scan, page 17](../../images/Skegness-Letters-letter-04-p17.jpg)
+> ![Scan, page 18](../../images/Skegness-Letters-letter-04-p18.jpg)
 
 ### 05. c. Wednesday 27 October – Monday 1 November 1943 (the steeplechase; taken to hospital)
 
@@ -424,14 +424,14 @@ His Christmas letters have pen drawings of the Lincolnshire fens, and on **2 Jan
 *Notes:* On thin, blotting paper with a Y.M.C.A. pen. The "passing out exam" he would miss was the end of the first phase of training.
 
 > [!scan]- Scans (8)
-> ![Scan, page 1](images/Skegness-Letters-letter-05-p1.jpg)
-> ![Scan, page 2](images/Skegness-Letters-letter-05-p2.jpg)
-> ![Scan, page 3](images/Skegness-Letters-letter-05-p3.jpg)
-> ![Scan, page 4](images/Skegness-Letters-letter-05-p4.jpg)
-> ![Scan, page 5](images/Skegness-Letters-letter-05-p5.jpg)
-> ![Scan, page 6](images/Skegness-Letters-letter-05-p6.jpg)
-> ![Scan, page 7](images/Skegness-Letters-letter-05-p7.jpg)
-> ![Scan, page 8](images/Skegness-Letters-letter-05-p8.jpg)
+> ![Scan, page 1](../../images/Skegness-Letters-letter-05-p1.jpg)
+> ![Scan, page 2](../../images/Skegness-Letters-letter-05-p2.jpg)
+> ![Scan, page 3](../../images/Skegness-Letters-letter-05-p3.jpg)
+> ![Scan, page 4](../../images/Skegness-Letters-letter-05-p4.jpg)
+> ![Scan, page 5](../../images/Skegness-Letters-letter-05-p5.jpg)
+> ![Scan, page 6](../../images/Skegness-Letters-letter-05-p6.jpg)
+> ![Scan, page 7](../../images/Skegness-Letters-letter-05-p7.jpg)
+> ![Scan, page 8](../../images/Skegness-Letters-letter-05-p8.jpg)
 
 ### 06. c. early November 1943 (in hospital)
 
@@ -479,12 +479,12 @@ His Christmas letters have pen drawings of the Lincolnshire fens, and on **2 Jan
 *Notes:* The last two scans are a small torn slip written sideways, his comic version of the Wing Commander's ward round. "Sapper" is the author of Bulldog Drummond. The Dolphin is presumably the King's School, Bruton magazine.
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Skegness-Letters-letter-06-p1.jpg)
-> ![Scan, page 2](images/Skegness-Letters-letter-06-p2.jpg)
-> ![Scan, page 3](images/Skegness-Letters-letter-06-p3.jpg)
-> ![Scan, page 4](images/Skegness-Letters-letter-06-p4.jpg)
-> ![Scan, page 5](images/Skegness-Letters-letter-06-p5.jpg)
-> ![Scan, page 6](images/Skegness-Letters-letter-06-p6.jpg)
+> ![Scan, page 1](../../images/Skegness-Letters-letter-06-p1.jpg)
+> ![Scan, page 2](../../images/Skegness-Letters-letter-06-p2.jpg)
+> ![Scan, page 3](../../images/Skegness-Letters-letter-06-p3.jpg)
+> ![Scan, page 4](../../images/Skegness-Letters-letter-06-p4.jpg)
+> ![Scan, page 5](../../images/Skegness-Letters-letter-06-p5.jpg)
+> ![Scan, page 6](../../images/Skegness-Letters-letter-06-p6.jpg)
 
 ### 07. c. early November 1943 (out of sick quarters)
 
@@ -534,12 +534,12 @@ His Christmas letters have pen drawings of the Lincolnshire fens, and on **2 Jan
 *Notes:* Lynette is Philip's small daughter. Kit (Christopher) has just arrived in Italy. S.S.Q. is Station Sick Quarters.
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Skegness-Letters-letter-07-p1.jpg)
-> ![Scan, page 2](images/Skegness-Letters-letter-07-p2.jpg)
-> ![Scan, page 3](images/Skegness-Letters-letter-07-p3.jpg)
-> ![Scan, page 4](images/Skegness-Letters-letter-07-p4.jpg)
-> ![Scan, page 5](images/Skegness-Letters-letter-07-p5.jpg)
-> ![Scan, page 6](images/Skegness-Letters-letter-07-p6.jpg)
+> ![Scan, page 1](../../images/Skegness-Letters-letter-07-p1.jpg)
+> ![Scan, page 2](../../images/Skegness-Letters-letter-07-p2.jpg)
+> ![Scan, page 3](../../images/Skegness-Letters-letter-07-p3.jpg)
+> ![Scan, page 4](../../images/Skegness-Letters-letter-07-p4.jpg)
+> ![Scan, page 5](../../images/Skegness-Letters-letter-07-p5.jpg)
+> ![Scan, page 6](../../images/Skegness-Letters-letter-07-p6.jpg)
 
 ### 08. c. 10 November 1943 (re-flighted)
 
@@ -598,13 +598,13 @@ His Christmas letters have pen drawings of the Lincolnshire fens, and on **2 Jan
 *Notes:* Small sheets, and their order is reconstructed. No signed last page survives. He wants to remuster to a job that "might lead to a commission".
 
 > [!scan]- Scans (7)
-> ![Scan, page 1](images/Skegness-Letters-letter-08-p1.jpg)
-> ![Scan, page 2](images/Skegness-Letters-letter-08-p2.jpg)
-> ![Scan, page 3](images/Skegness-Letters-letter-08-p3.jpg)
-> ![Scan, page 4](images/Skegness-Letters-letter-08-p4.jpg)
-> ![Scan, page 5](images/Skegness-Letters-letter-08-p5.jpg)
-> ![Scan, page 6](images/Skegness-Letters-letter-08-p6.jpg)
-> ![Scan, page 7](images/Skegness-Letters-letter-08-p7.jpg)
+> ![Scan, page 1](../../images/Skegness-Letters-letter-08-p1.jpg)
+> ![Scan, page 2](../../images/Skegness-Letters-letter-08-p2.jpg)
+> ![Scan, page 3](../../images/Skegness-Letters-letter-08-p3.jpg)
+> ![Scan, page 4](../../images/Skegness-Letters-letter-08-p4.jpg)
+> ![Scan, page 5](../../images/Skegness-Letters-letter-08-p5.jpg)
+> ![Scan, page 6](../../images/Skegness-Letters-letter-08-p6.jpg)
+> ![Scan, page 7](../../images/Skegness-Letters-letter-08-p7.jpg)
 
 ### 09. Saturday 13 – Sunday 14 November 1943
 
@@ -666,13 +666,13 @@ His Christmas letters have pen drawings of the Lincolnshire fens, and on **2 Jan
 *Notes:* Fancy old Kit following hot foot on the tracks of the Germans: Christopher was with the army in Italy.
 
 > [!scan]- Scans (7)
-> ![Scan, page 1](images/Skegness-Letters-letter-09-p1.jpg)
-> ![Scan, page 2](images/Skegness-Letters-letter-09-p2.jpg)
-> ![Scan, page 3](images/Skegness-Letters-letter-09-p3.jpg)
-> ![Scan, page 4](images/Skegness-Letters-letter-09-p4.jpg)
-> ![Scan, page 5](images/Skegness-Letters-letter-09-p5.jpg)
-> ![Scan, page 6](images/Skegness-Letters-letter-09-p6.jpg)
-> ![Scan, page 7](images/Skegness-Letters-letter-09-p7.jpg)
+> ![Scan, page 1](../../images/Skegness-Letters-letter-09-p1.jpg)
+> ![Scan, page 2](../../images/Skegness-Letters-letter-09-p2.jpg)
+> ![Scan, page 3](../../images/Skegness-Letters-letter-09-p3.jpg)
+> ![Scan, page 4](../../images/Skegness-Letters-letter-09-p4.jpg)
+> ![Scan, page 5](../../images/Skegness-Letters-letter-09-p5.jpg)
+> ![Scan, page 6](../../images/Skegness-Letters-letter-09-p6.jpg)
+> ![Scan, page 7](../../images/Skegness-Letters-letter-09-p7.jpg)
 
 ### 10. Saturday 20 November 1943 (meeting Philip)
 
@@ -751,16 +751,16 @@ His Christmas letters have pen drawings of the Lincolnshire fens, and on **2 Jan
 *Notes:* Dr Philip Silver held a clinic in Skegness every Thursday, so the brothers met weekly. Philip lived in Grimsby. "The old man of the sea" and "our encyclopedia humana" were the parents' expected Christmas guests. Blackingstone Rock is on Dartmoor.
 
 > [!scan]- Scans (10)
-> ![Scan, page 1](images/Skegness-Letters-letter-10-p1.jpg)
-> ![Scan, page 2](images/Skegness-Letters-letter-10-p2.jpg)
-> ![Scan, page 3](images/Skegness-Letters-letter-10-p3.jpg)
-> ![Scan, page 4](images/Skegness-Letters-letter-10-p4.jpg)
-> ![Scan, page 5](images/Skegness-Letters-letter-10-p5.jpg)
-> ![Scan, page 6](images/Skegness-Letters-letter-10-p6.jpg)
-> ![Scan, page 7](images/Skegness-Letters-letter-10-p7.jpg)
-> ![Scan, page 8](images/Skegness-Letters-letter-10-p8.jpg)
-> ![Scan, page 9](images/Skegness-Letters-letter-10-p9.jpg)
-> ![Scan, page 10](images/Skegness-Letters-letter-10-p10.jpg)
+> ![Scan, page 1](../../images/Skegness-Letters-letter-10-p1.jpg)
+> ![Scan, page 2](../../images/Skegness-Letters-letter-10-p2.jpg)
+> ![Scan, page 3](../../images/Skegness-Letters-letter-10-p3.jpg)
+> ![Scan, page 4](../../images/Skegness-Letters-letter-10-p4.jpg)
+> ![Scan, page 5](../../images/Skegness-Letters-letter-10-p5.jpg)
+> ![Scan, page 6](../../images/Skegness-Letters-letter-10-p6.jpg)
+> ![Scan, page 7](../../images/Skegness-Letters-letter-10-p7.jpg)
+> ![Scan, page 8](../../images/Skegness-Letters-letter-10-p8.jpg)
+> ![Scan, page 9](../../images/Skegness-Letters-letter-10-p9.jpg)
+> ![Scan, page 10](../../images/Skegness-Letters-letter-10-p10.jpg)
 
 ### 11. c. Saturday 4 December 1943 (back to 23 Flight; battle training)
 
@@ -815,12 +815,12 @@ His Christmas letters have pen drawings of the Lincolnshire fens, and on **2 Jan
 *Notes:* He asks his parents to destroy the letter because of what he says about his sister-in-law Dorothy. The drawings show him in battle dress throwing a grenade and going "up and over".
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Skegness-Letters-letter-11-p1.jpg)
-> ![Scan, page 2](images/Skegness-Letters-letter-11-p2.jpg)
-> ![Scan, page 3](images/Skegness-Letters-letter-11-p3.jpg)
-> ![Scan, page 4](images/Skegness-Letters-letter-11-p4.jpg)
-> ![Scan, page 5](images/Skegness-Letters-letter-11-p5.jpg)
-> ![Scan, page 6](images/Skegness-Letters-letter-11-p6.jpg)
+> ![Scan, page 1](../../images/Skegness-Letters-letter-11-p1.jpg)
+> ![Scan, page 2](../../images/Skegness-Letters-letter-11-p2.jpg)
+> ![Scan, page 3](../../images/Skegness-Letters-letter-11-p3.jpg)
+> ![Scan, page 4](../../images/Skegness-Letters-letter-11-p4.jpg)
+> ![Scan, page 5](../../images/Skegness-Letters-letter-11-p5.jpg)
+> ![Scan, page 6](../../images/Skegness-Letters-letter-11-p6.jpg)
 
 ### 12. c. mid-December 1943 (remustering; his feet)
 
@@ -884,14 +884,14 @@ His Christmas letters have pen drawings of the Lincolnshire fens, and on **2 Jan
 *Notes:* He was first accepted as a Navigator (Radio), the radar operator in Mosquito night fighters, before being made a Flight Mechanic (see the Bruton letter of 9 May 1942). Hildred's was a Skegness hotel. One page about washing seems to be missing before scan 0 109.
 
 > [!scan]- Scans (8)
-> ![Scan, page 1](images/Skegness-Letters-letter-12-p1.jpg)
-> ![Scan, page 2](images/Skegness-Letters-letter-12-p2.jpg)
-> ![Scan, page 3](images/Skegness-Letters-letter-12-p3.jpg)
-> ![Scan, page 4](images/Skegness-Letters-letter-12-p4.jpg)
-> ![Scan, page 5](images/Skegness-Letters-letter-12-p5.jpg)
-> ![Scan, page 6](images/Skegness-Letters-letter-12-p6.jpg)
-> ![Scan, page 7](images/Skegness-Letters-letter-12-p7.jpg)
-> ![Scan, page 8](images/Skegness-Letters-letter-12-p8.jpg)
+> ![Scan, page 1](../../images/Skegness-Letters-letter-12-p1.jpg)
+> ![Scan, page 2](../../images/Skegness-Letters-letter-12-p2.jpg)
+> ![Scan, page 3](../../images/Skegness-Letters-letter-12-p3.jpg)
+> ![Scan, page 4](../../images/Skegness-Letters-letter-12-p4.jpg)
+> ![Scan, page 5](../../images/Skegness-Letters-letter-12-p5.jpg)
+> ![Scan, page 6](../../images/Skegness-Letters-letter-12-p6.jpg)
+> ![Scan, page 7](../../images/Skegness-Letters-letter-12-p7.jpg)
+> ![Scan, page 8](../../images/Skegness-Letters-letter-12-p8.jpg)
 
 ### 13. Sunday 19 December 1943 (a Christmas letter)
 
@@ -951,12 +951,12 @@ His Christmas letters have pen drawings of the Lincolnshire fens, and on **2 Jan
 *Notes:* With pen drawings: roof tops at dawn parade, a Lincolnshire landscape and a farm. Churchill was ill with pneumonia in Tunisia ("Poor old Winston"). Mrs Holladay had knitted him mittens.
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Skegness-Letters-letter-13-p1.jpg)
-> ![Scan, page 2](images/Skegness-Letters-letter-13-p2.jpg)
-> ![Scan, page 3](images/Skegness-Letters-letter-13-p3.jpg)
-> ![Scan, page 4](images/Skegness-Letters-letter-13-p4.jpg)
-> ![Scan, page 5](images/Skegness-Letters-letter-13-p5.jpg)
-> ![Scan, page 6](images/Skegness-Letters-letter-13-p6.jpg)
+> ![Scan, page 1](../../images/Skegness-Letters-letter-13-p1.jpg)
+> ![Scan, page 2](../../images/Skegness-Letters-letter-13-p2.jpg)
+> ![Scan, page 3](../../images/Skegness-Letters-letter-13-p3.jpg)
+> ![Scan, page 4](../../images/Skegness-Letters-letter-13-p4.jpg)
+> ![Scan, page 5](../../images/Skegness-Letters-letter-13-p5.jpg)
+> ![Scan, page 6](../../images/Skegness-Letters-letter-13-p6.jpg)
 
 ### 14. c. Tuesday 21 December 1943: a birthday letter to his father
 
@@ -987,8 +987,8 @@ His Christmas letters have pen drawings of the Lincolnshire fens, and on **2 Jan
 > (Philip) He's going to send the shelter pump after Christmas by rail. I am so sorry about your having to deal with that sump all alone.
 
 > [!scan]- Scans (2)
-> ![Scan, page 1](images/Skegness-Letters-letter-14-p1.jpg)
-> ![Scan, page 2](images/Skegness-Letters-letter-14-p2.jpg)
+> ![Scan, page 1](../../images/Skegness-Letters-letter-14-p1.jpg)
+> ![Scan, page 2](../../images/Skegness-Letters-letter-14-p2.jpg)
 
 ### 15. Christmas Day 1943 – Sunday 26 December
 
@@ -1067,14 +1067,14 @@ His Christmas letters have pen drawings of the Lincolnshire fens, and on **2 Jan
 *Notes:* The TAB inoculation is against typhoid and paratyphoid A and B. The Sten carbine pamphlet was sold for the Home Guard. *Dear Octopus* (1943) is the film of Dodie Smith's play.
 
 > [!scan]- Scans (8)
-> ![Scan, page 1](images/Skegness-Letters-letter-15-p1.jpg)
-> ![Scan, page 2](images/Skegness-Letters-letter-15-p2.jpg)
-> ![Scan, page 3](images/Skegness-Letters-letter-15-p3.jpg)
-> ![Scan, page 4](images/Skegness-Letters-letter-15-p4.jpg)
-> ![Scan, page 5](images/Skegness-Letters-letter-15-p5.jpg)
-> ![Scan, page 6](images/Skegness-Letters-letter-15-p6.jpg)
-> ![Scan, page 7](images/Skegness-Letters-letter-15-p7.jpg)
-> ![Scan, page 8](images/Skegness-Letters-letter-15-p8.jpg)
+> ![Scan, page 1](../../images/Skegness-Letters-letter-15-p1.jpg)
+> ![Scan, page 2](../../images/Skegness-Letters-letter-15-p2.jpg)
+> ![Scan, page 3](../../images/Skegness-Letters-letter-15-p3.jpg)
+> ![Scan, page 4](../../images/Skegness-Letters-letter-15-p4.jpg)
+> ![Scan, page 5](../../images/Skegness-Letters-letter-15-p5.jpg)
+> ![Scan, page 6](../../images/Skegness-Letters-letter-15-p6.jpg)
+> ![Scan, page 7](../../images/Skegness-Letters-letter-15-p7.jpg)
+> ![Scan, page 8](../../images/Skegness-Letters-letter-15-p8.jpg)
 
 ## 1944
 
@@ -1138,13 +1138,13 @@ His Christmas letters have pen drawings of the Lincolnshire fens, and on **2 Jan
 *Notes:* He guesses at his technical training posting in riddles: "George A. Birmingham's particular country" (Ireland), the town "where … the car we had before the Austin was made. (Its name begins with an animal)" (probably Wolverhampton, home of the Sunbeam), and "a place which means sea in French" (probably Weston-super-Mare, for RAF Locking). He was posted to Cosford, near Wolverhampton, a few days later. *Dangerous Moonlight* is the film of the Warsaw Concerto. Ingo Jolliphant is presumably a Bruton schoolfellow.
 
 > [!scan]- Scans (7)
-> ![Scan, page 1](images/Skegness-Letters-letter-16-p1.jpg)
-> ![Scan, page 2](images/Skegness-Letters-letter-16-p2.jpg)
-> ![Scan, page 3](images/Skegness-Letters-letter-16-p3.jpg)
-> ![Scan, page 4](images/Skegness-Letters-letter-16-p4.jpg)
-> ![Scan, page 5](images/Skegness-Letters-letter-16-p5.jpg)
-> ![Scan, page 6](images/Skegness-Letters-letter-16-p6.jpg)
-> ![Scan, page 7](images/Skegness-Letters-letter-16-p7.jpg)
+> ![Scan, page 1](../../images/Skegness-Letters-letter-16-p1.jpg)
+> ![Scan, page 2](../../images/Skegness-Letters-letter-16-p2.jpg)
+> ![Scan, page 3](../../images/Skegness-Letters-letter-16-p3.jpg)
+> ![Scan, page 4](../../images/Skegness-Letters-letter-16-p4.jpg)
+> ![Scan, page 5](../../images/Skegness-Letters-letter-16-p5.jpg)
+> ![Scan, page 6](../../images/Skegness-Letters-letter-16-p6.jpg)
+> ![Scan, page 7](../../images/Skegness-Letters-letter-16-p7.jpg)
 
 ## Envelopes
 
@@ -1157,4 +1157,4 @@ Four envelopes scanned together, all to his parents at Tresillian: postmarked SK
 > [Bottom:] Mrs C. M. Silver / Tresillian / West Avenue / Exeter / Devon. [2½d blue stamp; postmark SKEGNESS LINCS 11.45 AM 14 DEC 1943]
 
 > [!scan]- Scans (1)
-> ![Scan, envelope](images/Skegness-Letters-envelopes-envelope.jpg)
+> ![Scan, envelope](../../images/Skegness-Letters-envelopes-envelope.jpg)

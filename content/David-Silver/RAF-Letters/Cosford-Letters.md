@@ -102,15 +102,15 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 *Notes:* Cosford was one of the RAF's great permanent technical training stations. He has chosen "Flight Mech Engines in preference to airframes" and means to "have a shot at doing Architecture in my spare time".
 
 > [!scan]- Scans (9)
-> ![Scan, page 1](images/Cosford-Letters-letter-01-p1.jpg)
-> ![Scan, page 2](images/Cosford-Letters-letter-01-p2.jpg)
-> ![Scan, page 3](images/Cosford-Letters-letter-01-p3.jpg)
-> ![Scan, page 4](images/Cosford-Letters-letter-01-p4.jpg)
-> ![Scan, page 5](images/Cosford-Letters-letter-01-p5.jpg)
-> ![Scan, page 6](images/Cosford-Letters-letter-01-p6.jpg)
-> ![Scan, page 7](images/Cosford-Letters-letter-01-p7.jpg)
-> ![Scan, page 8](images/Cosford-Letters-letter-01-p8.jpg)
-> ![Scan, page 9](images/Cosford-Letters-letter-01-p9.jpg)
+> ![Scan, page 1](../../images/Cosford-Letters-letter-01-p1.jpg)
+> ![Scan, page 2](../../images/Cosford-Letters-letter-01-p2.jpg)
+> ![Scan, page 3](../../images/Cosford-Letters-letter-01-p3.jpg)
+> ![Scan, page 4](../../images/Cosford-Letters-letter-01-p4.jpg)
+> ![Scan, page 5](../../images/Cosford-Letters-letter-01-p5.jpg)
+> ![Scan, page 6](../../images/Cosford-Letters-letter-01-p6.jpg)
+> ![Scan, page 7](../../images/Cosford-Letters-letter-01-p7.jpg)
+> ![Scan, page 8](../../images/Cosford-Letters-letter-01-p8.jpg)
+> ![Scan, page 9](../../images/Cosford-Letters-letter-01-p9.jpg)
 
 ### 02. Sunday, c. 16 January 1944 ("not too dear")
 
@@ -266,24 +266,24 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 *Notes:* The pages were scanned out of order and have been put together by their content. The top of the second page is lost to a scanner fault. His parents had "boiled down" his leave notes (see the note on the envelope at the end). The comic afternoon in Wolverhampton with a hut-mate who finds everything "too dear" is one of the best things in the letters. Beattie's is the Wolverhampton department store.
 
 > [!scan]- Scans (18)
-> ![Scan, page 1](images/Cosford-Letters-letter-02-p1.jpg)
-> ![Scan, page 2](images/Cosford-Letters-letter-02-p2.jpg)
-> ![Scan, page 3](images/Cosford-Letters-letter-02-p3.jpg)
-> ![Scan, page 4](images/Cosford-Letters-letter-02-p4.jpg)
-> ![Scan, page 5](images/Cosford-Letters-letter-02-p5.jpg)
-> ![Scan, page 6](images/Cosford-Letters-letter-02-p6.jpg)
-> ![Scan, page 7](images/Cosford-Letters-letter-02-p7.jpg)
-> ![Scan, page 8](images/Cosford-Letters-letter-02-p8.jpg)
-> ![Scan, page 9](images/Cosford-Letters-letter-02-p9.jpg)
-> ![Scan, page 10](images/Cosford-Letters-letter-02-p10.jpg)
-> ![Scan, page 11](images/Cosford-Letters-letter-02-p11.jpg)
-> ![Scan, page 12](images/Cosford-Letters-letter-02-p12.jpg)
-> ![Scan, page 13](images/Cosford-Letters-letter-02-p13.jpg)
-> ![Scan, page 14](images/Cosford-Letters-letter-02-p14.jpg)
-> ![Scan, page 15](images/Cosford-Letters-letter-02-p15.jpg)
-> ![Scan, page 16](images/Cosford-Letters-letter-02-p16.jpg)
-> ![Scan, page 17](images/Cosford-Letters-letter-02-p17.jpg)
-> ![Scan, page 18](images/Cosford-Letters-letter-02-p18.jpg)
+> ![Scan, page 1](../../images/Cosford-Letters-letter-02-p1.jpg)
+> ![Scan, page 2](../../images/Cosford-Letters-letter-02-p2.jpg)
+> ![Scan, page 3](../../images/Cosford-Letters-letter-02-p3.jpg)
+> ![Scan, page 4](../../images/Cosford-Letters-letter-02-p4.jpg)
+> ![Scan, page 5](../../images/Cosford-Letters-letter-02-p5.jpg)
+> ![Scan, page 6](../../images/Cosford-Letters-letter-02-p6.jpg)
+> ![Scan, page 7](../../images/Cosford-Letters-letter-02-p7.jpg)
+> ![Scan, page 8](../../images/Cosford-Letters-letter-02-p8.jpg)
+> ![Scan, page 9](../../images/Cosford-Letters-letter-02-p9.jpg)
+> ![Scan, page 10](../../images/Cosford-Letters-letter-02-p10.jpg)
+> ![Scan, page 11](../../images/Cosford-Letters-letter-02-p11.jpg)
+> ![Scan, page 12](../../images/Cosford-Letters-letter-02-p12.jpg)
+> ![Scan, page 13](../../images/Cosford-Letters-letter-02-p13.jpg)
+> ![Scan, page 14](../../images/Cosford-Letters-letter-02-p14.jpg)
+> ![Scan, page 15](../../images/Cosford-Letters-letter-02-p15.jpg)
+> ![Scan, page 16](../../images/Cosford-Letters-letter-02-p16.jpg)
+> ![Scan, page 17](../../images/Cosford-Letters-letter-02-p17.jpg)
+> ![Scan, page 18](../../images/Cosford-Letters-letter-02-p18.jpg)
 
 ### 03. Monday, c. 31 January 1944 (visiting James at Tirley Garth)
 
@@ -324,10 +324,10 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 *Notes:* His brother James lived and worked with the Oxford Group (Moral Re-Armament) at its headquarters, Tirley Garth, near Tarporley in Cheshire. The first sheet was scanned with the foot of the second overlapping it.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Cosford-Letters-letter-03-p1.jpg)
-> ![Scan, page 2](images/Cosford-Letters-letter-03-p2.jpg)
-> ![Scan, page 3](images/Cosford-Letters-letter-03-p3.jpg)
-> ![Scan, page 4](images/Cosford-Letters-letter-03-p4.jpg)
+> ![Scan, page 1](../../images/Cosford-Letters-letter-03-p1.jpg)
+> ![Scan, page 2](../../images/Cosford-Letters-letter-03-p2.jpg)
+> ![Scan, page 3](../../images/Cosford-Letters-letter-03-p3.jpg)
+> ![Scan, page 4](../../images/Cosford-Letters-letter-03-p4.jpg)
 
 ### 04. Tuesday, c. 8 February 1944 (back from his first 36-hour pass)
 
@@ -374,12 +374,12 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 *Notes:* The R.T.O. is the Railway Transport Officer. "They are all Scots" — his hut was full of Scotsmen. "I am on magnetos": his course had moved on to ignition.
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Cosford-Letters-letter-04-p1.jpg)
-> ![Scan, page 2](images/Cosford-Letters-letter-04-p2.jpg)
-> ![Scan, page 3](images/Cosford-Letters-letter-04-p3.jpg)
-> ![Scan, page 4](images/Cosford-Letters-letter-04-p4.jpg)
-> ![Scan, page 5](images/Cosford-Letters-letter-04-p5.jpg)
-> ![Scan, page 6](images/Cosford-Letters-letter-04-p6.jpg)
+> ![Scan, page 1](../../images/Cosford-Letters-letter-04-p1.jpg)
+> ![Scan, page 2](../../images/Cosford-Letters-letter-04-p2.jpg)
+> ![Scan, page 3](../../images/Cosford-Letters-letter-04-p3.jpg)
+> ![Scan, page 4](../../images/Cosford-Letters-letter-04-p4.jpg)
+> ![Scan, page 5](../../images/Cosford-Letters-letter-04-p5.jpg)
+> ![Scan, page 6](../../images/Cosford-Letters-letter-04-p6.jpg)
 
 ### 05. Sunday, c. 13 February 1944 (tea with a pilot officer)
 
@@ -471,18 +471,18 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 *Notes:* On lined paper. *The Lamp Still Burns* (1943) was the last film produced by Leslie Howard, who was killed in 1943. Whimple and Whiteway: the Whiteway's cider works are at Whimple, near Exeter. The small slip at the end (written sideways) seems to belong here. "Lyons Holt Halt" is a joke on the camp's railway halt.
 
 > [!scan]- Scans (12)
-> ![Scan, page 1](images/Cosford-Letters-letter-05-p1.jpg)
-> ![Scan, page 2](images/Cosford-Letters-letter-05-p2.jpg)
-> ![Scan, page 3](images/Cosford-Letters-letter-05-p3.jpg)
-> ![Scan, page 4](images/Cosford-Letters-letter-05-p4.jpg)
-> ![Scan, page 5](images/Cosford-Letters-letter-05-p5.jpg)
-> ![Scan, page 6](images/Cosford-Letters-letter-05-p6.jpg)
-> ![Scan, page 7](images/Cosford-Letters-letter-05-p7.jpg)
-> ![Scan, page 8](images/Cosford-Letters-letter-05-p8.jpg)
-> ![Scan, page 9](images/Cosford-Letters-letter-05-p9.jpg)
-> ![Scan, page 10](images/Cosford-Letters-letter-05-p10.jpg)
-> ![Scan, page 11](images/Cosford-Letters-letter-05-p11.jpg)
-> ![Scan, page 12](images/Cosford-Letters-letter-05-p12.jpg)
+> ![Scan, page 1](../../images/Cosford-Letters-letter-05-p1.jpg)
+> ![Scan, page 2](../../images/Cosford-Letters-letter-05-p2.jpg)
+> ![Scan, page 3](../../images/Cosford-Letters-letter-05-p3.jpg)
+> ![Scan, page 4](../../images/Cosford-Letters-letter-05-p4.jpg)
+> ![Scan, page 5](../../images/Cosford-Letters-letter-05-p5.jpg)
+> ![Scan, page 6](../../images/Cosford-Letters-letter-05-p6.jpg)
+> ![Scan, page 7](../../images/Cosford-Letters-letter-05-p7.jpg)
+> ![Scan, page 8](../../images/Cosford-Letters-letter-05-p8.jpg)
+> ![Scan, page 9](../../images/Cosford-Letters-letter-05-p9.jpg)
+> ![Scan, page 10](../../images/Cosford-Letters-letter-05-p10.jpg)
+> ![Scan, page 11](../../images/Cosford-Letters-letter-05-p11.jpg)
+> ![Scan, page 12](../../images/Cosford-Letters-letter-05-p12.jpg)
 
 ### 06. Sunday, c. 20 February 1944 ("133 hours" to leave)
 
@@ -554,16 +554,16 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 *Notes:* The "Stop Press" sheet (with the International Ballet's programme on the back) was sent with it. James was ill ("colitis … the fashionable illness that Axel Munthe told his patients they had"). The gear-pump design was for emptying the family's flooded air-raid shelter.
 
 > [!scan]- Scans (10)
-> ![Scan, page 1](images/Cosford-Letters-letter-06-p1.jpg)
-> ![Scan, page 2](images/Cosford-Letters-letter-06-p2.jpg)
-> ![Scan, page 3](images/Cosford-Letters-letter-06-p3.jpg)
-> ![Scan, page 4](images/Cosford-Letters-letter-06-p4.jpg)
-> ![Scan, page 5](images/Cosford-Letters-letter-06-p5.jpg)
-> ![Scan, page 6](images/Cosford-Letters-letter-06-p6.jpg)
-> ![Scan, page 7](images/Cosford-Letters-letter-06-p7.jpg)
-> ![Scan, page 8](images/Cosford-Letters-letter-06-p8.jpg)
-> ![Scan, page 9](images/Cosford-Letters-letter-06-p9.jpg)
-> ![Scan, page 10](images/Cosford-Letters-letter-06-p10.jpg)
+> ![Scan, page 1](../../images/Cosford-Letters-letter-06-p1.jpg)
+> ![Scan, page 2](../../images/Cosford-Letters-letter-06-p2.jpg)
+> ![Scan, page 3](../../images/Cosford-Letters-letter-06-p3.jpg)
+> ![Scan, page 4](../../images/Cosford-Letters-letter-06-p4.jpg)
+> ![Scan, page 5](../../images/Cosford-Letters-letter-06-p5.jpg)
+> ![Scan, page 6](../../images/Cosford-Letters-letter-06-p6.jpg)
+> ![Scan, page 7](../../images/Cosford-Letters-letter-06-p7.jpg)
+> ![Scan, page 8](../../images/Cosford-Letters-letter-06-p8.jpg)
+> ![Scan, page 9](../../images/Cosford-Letters-letter-06-p9.jpg)
+> ![Scan, page 10](../../images/Cosford-Letters-letter-06-p10.jpg)
 
 ### 07. Tuesday, c. 29 February – Saturday 4 March 1944 (late back from leave)
 
@@ -643,15 +643,15 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 *Notes:* Two pages of the journey are missing; a scrap of one shows at the top of scan 0 133. S.P.s are the RAF Service Police; C.B. is "confined to barracks". He enrols for evening classes at Wolverhampton School of Art.
 
 > [!scan]- Scans (9)
-> ![Scan, page 1](images/Cosford-Letters-letter-07-p1.jpg)
-> ![Scan, page 2](images/Cosford-Letters-letter-07-p2.jpg)
-> ![Scan, page 3](images/Cosford-Letters-letter-07-p3.jpg)
-> ![Scan, page 4](images/Cosford-Letters-letter-07-p4.jpg)
-> ![Scan, page 5](images/Cosford-Letters-letter-07-p5.jpg)
-> ![Scan, page 6](images/Cosford-Letters-letter-07-p6.jpg)
-> ![Scan, page 7](images/Cosford-Letters-letter-07-p7.jpg)
-> ![Scan, page 8](images/Cosford-Letters-letter-07-p8.jpg)
-> ![Scan, page 9](images/Cosford-Letters-letter-07-p9.jpg)
+> ![Scan, page 1](../../images/Cosford-Letters-letter-07-p1.jpg)
+> ![Scan, page 2](../../images/Cosford-Letters-letter-07-p2.jpg)
+> ![Scan, page 3](../../images/Cosford-Letters-letter-07-p3.jpg)
+> ![Scan, page 4](../../images/Cosford-Letters-letter-07-p4.jpg)
+> ![Scan, page 5](../../images/Cosford-Letters-letter-07-p5.jpg)
+> ![Scan, page 6](../../images/Cosford-Letters-letter-07-p6.jpg)
+> ![Scan, page 7](../../images/Cosford-Letters-letter-07-p7.jpg)
+> ![Scan, page 8](../../images/Cosford-Letters-letter-07-p8.jpg)
+> ![Scan, page 9](../../images/Cosford-Letters-letter-07-p9.jpg)
 
 ### 08. Sunday, c. 19 March 1944 (predicting the invasion)
 
@@ -709,12 +709,12 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 *Notes:* Written in a notebook, so the pages are out of order; his numbering 1–6 is followed. "Chief" is his father. Mr Martin was his Bruton master, whom he asked to support his bid for a commission.
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Cosford-Letters-letter-08-p1.jpg)
-> ![Scan, page 2](images/Cosford-Letters-letter-08-p2.jpg)
-> ![Scan, page 3](images/Cosford-Letters-letter-08-p3.jpg)
-> ![Scan, page 4](images/Cosford-Letters-letter-08-p4.jpg)
-> ![Scan, page 5](images/Cosford-Letters-letter-08-p5.jpg)
-> ![Scan, page 6](images/Cosford-Letters-letter-08-p6.jpg)
+> ![Scan, page 1](../../images/Cosford-Letters-letter-08-p1.jpg)
+> ![Scan, page 2](../../images/Cosford-Letters-letter-08-p2.jpg)
+> ![Scan, page 3](../../images/Cosford-Letters-letter-08-p3.jpg)
+> ![Scan, page 4](../../images/Cosford-Letters-letter-08-p4.jpg)
+> ![Scan, page 5](../../images/Cosford-Letters-letter-08-p5.jpg)
+> ![Scan, page 6](../../images/Cosford-Letters-letter-08-p6.jpg)
 
 ### 09. Monday, c. 27 March 1944 (James again, and the ballet)
 
@@ -785,16 +785,16 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 *Notes:* A page introducing the ballet is missing before "Carnaval, Les Sylphides, Everyman". Two pages from another scan run (0 147–0 148, about the ballet company on the Crewe train and Mr Martin's offer to recommend him for a commission) belong with this letter. Some sheets were scanned the right way up.
 
 > [!scan]- Scans (10)
-> ![Scan, page 1](images/Cosford-Letters-letter-09-p1.jpg)
-> ![Scan, page 2](images/Cosford-Letters-letter-09-p2.jpg)
-> ![Scan, page 3](images/Cosford-Letters-letter-09-p3.jpg)
-> ![Scan, page 4](images/Cosford-Letters-letter-09-p4.jpg)
-> ![Scan, page 5](images/Cosford-Letters-letter-09-p5.jpg)
-> ![Scan, page 6](images/Cosford-Letters-letter-09-p6.jpg)
-> ![Scan, page 7](images/Cosford-Letters-letter-09-p7.jpg)
-> ![Scan, page 8](images/Cosford-Letters-letter-09-p8.jpg)
-> ![Scan, page 9](images/Cosford-Letters-letter-09-p9.jpg)
-> ![Scan, page 10](images/Cosford-Letters-letter-09-p10.jpg)
+> ![Scan, page 1](../../images/Cosford-Letters-letter-09-p1.jpg)
+> ![Scan, page 2](../../images/Cosford-Letters-letter-09-p2.jpg)
+> ![Scan, page 3](../../images/Cosford-Letters-letter-09-p3.jpg)
+> ![Scan, page 4](../../images/Cosford-Letters-letter-09-p4.jpg)
+> ![Scan, page 5](../../images/Cosford-Letters-letter-09-p5.jpg)
+> ![Scan, page 6](../../images/Cosford-Letters-letter-09-p6.jpg)
+> ![Scan, page 7](../../images/Cosford-Letters-letter-09-p7.jpg)
+> ![Scan, page 8](../../images/Cosford-Letters-letter-09-p8.jpg)
+> ![Scan, page 9](../../images/Cosford-Letters-letter-09-p9.jpg)
+> ![Scan, page 10](../../images/Cosford-Letters-letter-09-p10.jpg)
 
 ### 10. Easter Day, Sunday 9 April 1944
 
@@ -837,12 +837,12 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 *Notes:* "The worst has happened about my approaching holiday" — leave was being stopped before the invasion. Boscobel House, where Charles II hid in the oak, is near Cosford.
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Cosford-Letters-letter-10-p1.jpg)
-> ![Scan, page 2](images/Cosford-Letters-letter-10-p2.jpg)
-> ![Scan, page 3](images/Cosford-Letters-letter-10-p3.jpg)
-> ![Scan, page 4](images/Cosford-Letters-letter-10-p4.jpg)
-> ![Scan, page 5](images/Cosford-Letters-letter-10-p5.jpg)
-> ![Scan, page 6](images/Cosford-Letters-letter-10-p6.jpg)
+> ![Scan, page 1](../../images/Cosford-Letters-letter-10-p1.jpg)
+> ![Scan, page 2](../../images/Cosford-Letters-letter-10-p2.jpg)
+> ![Scan, page 3](../../images/Cosford-Letters-letter-10-p3.jpg)
+> ![Scan, page 4](../../images/Cosford-Letters-letter-10-p4.jpg)
+> ![Scan, page 5](../../images/Cosford-Letters-letter-10-p5.jpg)
+> ![Scan, page 6](../../images/Cosford-Letters-letter-10-p6.jpg)
 
 ### 11. Thursday 13 April 1944 (meteorology refused)
 
@@ -935,17 +935,17 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 *Notes:* His application to remuster as a meteorologist is turned down, and the Wing Commanding Officer tells him he is too young for a commission and needs "to LEARN TACT". Kit had been wounded or injured in Italy ("laid-up for a long time"). Tong Church, with its Old Curiosity Shop associations, is near Cosford.
 
 > [!scan]- Scans (11)
-> ![Scan, page 1](images/Cosford-Letters-letter-11-p1.jpg)
-> ![Scan, page 2](images/Cosford-Letters-letter-11-p2.jpg)
-> ![Scan, page 3](images/Cosford-Letters-letter-11-p3.jpg)
-> ![Scan, page 4](images/Cosford-Letters-letter-11-p4.jpg)
-> ![Scan, page 5](images/Cosford-Letters-letter-11-p5.jpg)
-> ![Scan, page 6](images/Cosford-Letters-letter-11-p6.jpg)
-> ![Scan, page 7](images/Cosford-Letters-letter-11-p7.jpg)
-> ![Scan, page 8](images/Cosford-Letters-letter-11-p8.jpg)
-> ![Scan, page 9](images/Cosford-Letters-letter-11-p9.jpg)
-> ![Scan, page 10](images/Cosford-Letters-letter-11-p10.jpg)
-> ![Scan, page 11](images/Cosford-Letters-letter-11-p11.jpg)
+> ![Scan, page 1](../../images/Cosford-Letters-letter-11-p1.jpg)
+> ![Scan, page 2](../../images/Cosford-Letters-letter-11-p2.jpg)
+> ![Scan, page 3](../../images/Cosford-Letters-letter-11-p3.jpg)
+> ![Scan, page 4](../../images/Cosford-Letters-letter-11-p4.jpg)
+> ![Scan, page 5](../../images/Cosford-Letters-letter-11-p5.jpg)
+> ![Scan, page 6](../../images/Cosford-Letters-letter-11-p6.jpg)
+> ![Scan, page 7](../../images/Cosford-Letters-letter-11-p7.jpg)
+> ![Scan, page 8](../../images/Cosford-Letters-letter-11-p8.jpg)
+> ![Scan, page 9](../../images/Cosford-Letters-letter-11-p9.jpg)
+> ![Scan, page 10](../../images/Cosford-Letters-letter-11-p10.jpg)
+> ![Scan, page 11](../../images/Cosford-Letters-letter-11-p11.jpg)
 
 ### 12. Sunday 30 April 1944 (before the final board)
 
@@ -1016,14 +1016,14 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 *Notes:* *The Nelson Touch* is the American title of *Corvette K-225* (1943). James Agate was the *Sunday Times* drama critic. The National Parks scheme was being debated. Anton was the *Tatler* cartoonist.
 
 > [!scan]- Scans (8)
-> ![Scan, page 1](images/Cosford-Letters-letter-12-p1.jpg)
-> ![Scan, page 2](images/Cosford-Letters-letter-12-p2.jpg)
-> ![Scan, page 3](images/Cosford-Letters-letter-12-p3.jpg)
-> ![Scan, page 4](images/Cosford-Letters-letter-12-p4.jpg)
-> ![Scan, page 5](images/Cosford-Letters-letter-12-p5.jpg)
-> ![Scan, page 6](images/Cosford-Letters-letter-12-p6.jpg)
-> ![Scan, page 7](images/Cosford-Letters-letter-12-p7.jpg)
-> ![Scan, page 8](images/Cosford-Letters-letter-12-p8.jpg)
+> ![Scan, page 1](../../images/Cosford-Letters-letter-12-p1.jpg)
+> ![Scan, page 2](../../images/Cosford-Letters-letter-12-p2.jpg)
+> ![Scan, page 3](../../images/Cosford-Letters-letter-12-p3.jpg)
+> ![Scan, page 4](../../images/Cosford-Letters-letter-12-p4.jpg)
+> ![Scan, page 5](../../images/Cosford-Letters-letter-12-p5.jpg)
+> ![Scan, page 6](../../images/Cosford-Letters-letter-12-p6.jpg)
+> ![Scan, page 7](../../images/Cosford-Letters-letter-12-p7.jpg)
+> ![Scan, page 8](../../images/Cosford-Letters-letter-12-p8.jpg)
 
 ### 13. Sunday, c. 7 May 1944 (after the final board)
 
@@ -1088,13 +1088,13 @@ He files steel plates to a thousandth of an inch, learns Whitworth threads, carb
 *Notes:* He passes out as a Flight Mechanic (Engines), AC2. The Alexandra Rose Day collection, the Tannoy and the second front ("within the next fortnight") all feature. He plans a War Office correspondence course in meteorology.
 
 > [!scan]- Scans (7)
-> ![Scan, page 1](images/Cosford-Letters-letter-13-p1.jpg)
-> ![Scan, page 2](images/Cosford-Letters-letter-13-p2.jpg)
-> ![Scan, page 3](images/Cosford-Letters-letter-13-p3.jpg)
-> ![Scan, page 4](images/Cosford-Letters-letter-13-p4.jpg)
-> ![Scan, page 5](images/Cosford-Letters-letter-13-p5.jpg)
-> ![Scan, page 6](images/Cosford-Letters-letter-13-p6.jpg)
-> ![Scan, page 7](images/Cosford-Letters-letter-13-p7.jpg)
+> ![Scan, page 1](../../images/Cosford-Letters-letter-13-p1.jpg)
+> ![Scan, page 2](../../images/Cosford-Letters-letter-13-p2.jpg)
+> ![Scan, page 3](../../images/Cosford-Letters-letter-13-p3.jpg)
+> ![Scan, page 4](../../images/Cosford-Letters-letter-13-p4.jpg)
+> ![Scan, page 5](../../images/Cosford-Letters-letter-13-p5.jpg)
+> ![Scan, page 6](../../images/Cosford-Letters-letter-13-p6.jpg)
+> ![Scan, page 7](../../images/Cosford-Letters-letter-13-p7.jpg)
 
 ## A leave plan
 
@@ -1113,4 +1113,4 @@ A worn envelope re-used for a note of his leave entitlement at Cosford (two 36-h
 > [Postmarks …HAMPTON … MAR 44; "FEE PAID"; service number 1587757 on the flap.]
 
 > [!scan]- Scans (1)
-> ![Scan, envelope](images/Cosford-Letters-a-leave-plan-envelope.jpg)
+> ![Scan, envelope](../../images/Cosford-Letters-a-leave-plan-envelope.jpg)

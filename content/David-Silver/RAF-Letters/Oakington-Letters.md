@@ -79,14 +79,14 @@ The longest letter is a comic account of a Saturday in Cambridge in November 194
 *Notes:* He numbers the sheets 1–3. "The Shakespeare murders" is a detective novel. *The Keys of the Kingdom* (1944) is the film of A. J. Cronin's novel. Jane (the car) and Arthur (Chelmsford) recur in these letters.
 
 > [!scan]- Scans (8)
-> ![Scan, page 1](images/Oakington-Letters-letter-01-p1.jpg)
-> ![Scan, page 2](images/Oakington-Letters-letter-01-p2.jpg)
-> ![Scan, page 3](images/Oakington-Letters-letter-01-p3.jpg)
-> ![Scan, page 4](images/Oakington-Letters-letter-01-p4.jpg)
-> ![Scan, page 5](images/Oakington-Letters-letter-01-p5.jpg)
-> ![Scan, page 6](images/Oakington-Letters-letter-01-p6.jpg)
-> ![Scan, page 7](images/Oakington-Letters-letter-01-p7.jpg)
-> ![Scan, page 8](images/Oakington-Letters-letter-01-p8.jpg)
+> ![Scan, page 1](../../images/Oakington-Letters-letter-01-p1.jpg)
+> ![Scan, page 2](../../images/Oakington-Letters-letter-01-p2.jpg)
+> ![Scan, page 3](../../images/Oakington-Letters-letter-01-p3.jpg)
+> ![Scan, page 4](../../images/Oakington-Letters-letter-01-p4.jpg)
+> ![Scan, page 5](../../images/Oakington-Letters-letter-01-p5.jpg)
+> ![Scan, page 6](../../images/Oakington-Letters-letter-01-p6.jpg)
+> ![Scan, page 7](../../images/Oakington-Letters-letter-01-p7.jpg)
+> ![Scan, page 8](../../images/Oakington-Letters-letter-01-p8.jpg)
 
 ### 02. Saturday 11 August 1945 (Japan's surrender offer)
 
@@ -119,10 +119,10 @@ The longest letter is a comic account of a Saturday in Cambridge in November 194
 *Notes:* Letters were being forwarded from Leuchars, and he had seen the Chopin film (*A Song to Remember*) in Dundee, so he had come to Oakington from RAF Leuchars in Fife. "Christopher is not very far away by air. My work is very closely connected with where he is" is as close as he could come, under censorship, to saying where Kit was.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Oakington-Letters-letter-02-p1.jpg)
-> ![Scan, page 2](images/Oakington-Letters-letter-02-p2.jpg)
-> ![Scan, page 3](images/Oakington-Letters-letter-02-p3.jpg)
-> ![Scan, page 4](images/Oakington-Letters-letter-02-p4.jpg)
+> ![Scan, page 1](../../images/Oakington-Letters-letter-02-p1.jpg)
+> ![Scan, page 2](../../images/Oakington-Letters-letter-02-p2.jpg)
+> ![Scan, page 3](../../images/Oakington-Letters-letter-02-p3.jpg)
+> ![Scan, page 4](../../images/Oakington-Letters-letter-02-p4.jpg)
 
 ### 03. A Sunday, autumn 1945 (Harvest Thanksgiving)
 
@@ -160,11 +160,11 @@ The longest letter is a comic account of a Saturday in Cambridge in November 194
 *Notes:* Phil & Dorothy are his brother Philip and Philip's wife; "Wiggy" is Wiggs. The diagram explains how 72-hour ration cards were issued for every other 48-hour pass. Timmy is the family cat. The blank backs of the sheets (scans 0 6, 0 8, 0 10) are not shown.
 
 > [!scan]- Scans (5)
-> ![Scan, page 1](images/Oakington-Letters-letter-03-p1.jpg)
-> ![Scan, page 2](images/Oakington-Letters-letter-03-p2.jpg)
-> ![Scan, page 3](images/Oakington-Letters-letter-03-p3.jpg)
-> ![Scan, page 4](images/Oakington-Letters-letter-03-p4.jpg)
-> ![Scan, page 5](images/Oakington-Letters-letter-03-p5.jpg)
+> ![Scan, page 1](../../images/Oakington-Letters-letter-03-p1.jpg)
+> ![Scan, page 2](../../images/Oakington-Letters-letter-03-p2.jpg)
+> ![Scan, page 3](../../images/Oakington-Letters-letter-03-p3.jpg)
+> ![Scan, page 4](../../images/Oakington-Letters-letter-03-p4.jpg)
+> ![Scan, page 5](../../images/Oakington-Letters-letter-03-p5.jpg)
 
 ### 04. Sunday 18 November 1945 (a day in Cambridge with Barbara)
 
@@ -258,22 +258,22 @@ The longest letter is a comic account of a Saturday in Cambridge in November 194
 *Notes:* Barbara is a relative he was meeting for the first time: she reminds him of Wiggs and Lavender and has Auntie Lillah's voice, and he asks her about Uncle Herbert. *Conflict* (1945) is the Humphrey Bogart thriller. Dellers was a well-known Exeter café, and Colsons a department store in Exeter.
 
 > [!scan]- Scans (16)
-> ![Scan, page 1](images/Oakington-Letters-letter-04-p1.jpg)
-> ![Scan, page 2](images/Oakington-Letters-letter-04-p2.jpg)
-> ![Scan, page 3](images/Oakington-Letters-letter-04-p3.jpg)
-> ![Scan, page 4](images/Oakington-Letters-letter-04-p4.jpg)
-> ![Scan, page 5](images/Oakington-Letters-letter-04-p5.jpg)
-> ![Scan, page 6](images/Oakington-Letters-letter-04-p6.jpg)
-> ![Scan, page 7](images/Oakington-Letters-letter-04-p7.jpg)
-> ![Scan, page 8](images/Oakington-Letters-letter-04-p8.jpg)
-> ![Scan, page 9](images/Oakington-Letters-letter-04-p9.jpg)
-> ![Scan, page 10](images/Oakington-Letters-letter-04-p10.jpg)
-> ![Scan, page 11](images/Oakington-Letters-letter-04-p11.jpg)
-> ![Scan, page 12](images/Oakington-Letters-letter-04-p12.jpg)
-> ![Scan, page 13](images/Oakington-Letters-letter-04-p13.jpg)
-> ![Scan, page 14](images/Oakington-Letters-letter-04-p14.jpg)
-> ![Scan, page 15](images/Oakington-Letters-letter-04-p15.jpg)
-> ![Scan, page 16](images/Oakington-Letters-letter-04-p16.jpg)
+> ![Scan, page 1](../../images/Oakington-Letters-letter-04-p1.jpg)
+> ![Scan, page 2](../../images/Oakington-Letters-letter-04-p2.jpg)
+> ![Scan, page 3](../../images/Oakington-Letters-letter-04-p3.jpg)
+> ![Scan, page 4](../../images/Oakington-Letters-letter-04-p4.jpg)
+> ![Scan, page 5](../../images/Oakington-Letters-letter-04-p5.jpg)
+> ![Scan, page 6](../../images/Oakington-Letters-letter-04-p6.jpg)
+> ![Scan, page 7](../../images/Oakington-Letters-letter-04-p7.jpg)
+> ![Scan, page 8](../../images/Oakington-Letters-letter-04-p8.jpg)
+> ![Scan, page 9](../../images/Oakington-Letters-letter-04-p9.jpg)
+> ![Scan, page 10](../../images/Oakington-Letters-letter-04-p10.jpg)
+> ![Scan, page 11](../../images/Oakington-Letters-letter-04-p11.jpg)
+> ![Scan, page 12](../../images/Oakington-Letters-letter-04-p12.jpg)
+> ![Scan, page 13](../../images/Oakington-Letters-letter-04-p13.jpg)
+> ![Scan, page 14](../../images/Oakington-Letters-letter-04-p14.jpg)
+> ![Scan, page 15](../../images/Oakington-Letters-letter-04-p15.jpg)
+> ![Scan, page 16](../../images/Oakington-Letters-letter-04-p16.jpg)
 
 ### 05. Friday 14 December 1945
 
@@ -315,12 +315,12 @@ The longest letter is a comic account of a Saturday in Cambridge in November 194
 *Notes:* He arranges evening building-construction classes at the Cambridge Technical School for the new year and sees the regional appointments officer about a grant: the first steps towards architecture. His Tube-poster sketch is of an advertisement for Phonotas Ltd, telephone disinfectors.
 
 > [!scan]- Scans (6)
-> ![Scan, page 1](images/Oakington-Letters-letter-05-p1.jpg)
-> ![Scan, page 2](images/Oakington-Letters-letter-05-p2.jpg)
-> ![Scan, page 3](images/Oakington-Letters-letter-05-p3.jpg)
-> ![Scan, page 4](images/Oakington-Letters-letter-05-p4.jpg)
-> ![Scan, page 5](images/Oakington-Letters-letter-05-p5.jpg)
-> ![Scan, page 6](images/Oakington-Letters-letter-05-p6.jpg)
+> ![Scan, page 1](../../images/Oakington-Letters-letter-05-p1.jpg)
+> ![Scan, page 2](../../images/Oakington-Letters-letter-05-p2.jpg)
+> ![Scan, page 3](../../images/Oakington-Letters-letter-05-p3.jpg)
+> ![Scan, page 4](../../images/Oakington-Letters-letter-05-p4.jpg)
+> ![Scan, page 5](../../images/Oakington-Letters-letter-05-p5.jpg)
+> ![Scan, page 6](../../images/Oakington-Letters-letter-05-p6.jpg)
 
 ## 1946
 
@@ -366,10 +366,10 @@ The longest letter is a comic account of a Saturday in Cambridge in November 194
 *Notes:* The two drawings he enclosed are not with the letter. The P.S. about the episcope is a wiring tip: two bulbs in series on one flex will each light at only half strength.
 
 > [!scan]- Scans (4)
-> ![Scan, page 1](images/Oakington-Letters-letter-06-p1.jpg)
-> ![Scan, page 2](images/Oakington-Letters-letter-06-p2.jpg)
-> ![Scan, page 3](images/Oakington-Letters-letter-06-p3.jpg)
-> ![Scan, page 4](images/Oakington-Letters-letter-06-p4.jpg)
+> ![Scan, page 1](../../images/Oakington-Letters-letter-06-p1.jpg)
+> ![Scan, page 2](../../images/Oakington-Letters-letter-06-p2.jpg)
+> ![Scan, page 3](../../images/Oakington-Letters-letter-06-p3.jpg)
+> ![Scan, page 4](../../images/Oakington-Letters-letter-06-p4.jpg)
 
 ## Envelopes
 
@@ -382,4 +382,4 @@ Four envelopes, scanned together, all addressed to "Mrs Silver" at Tresillian: t
 > [Bottom right:] Mrs Silver / Tresillian / West Avenue / Exeter / Devon. [2½d blue stamp; postmark illegible]
 
 > [!scan]- Scans (1)
-> ![Scan, envelope](images/Oakington-Letters-envelopes-envelope.jpg)
+> ![Scan, envelope](../../images/Oakington-Letters-envelopes-envelope.jpg)

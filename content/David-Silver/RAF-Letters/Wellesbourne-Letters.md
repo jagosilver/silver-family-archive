@@ -126,20 +126,20 @@ His letters continue three months later, from architecture school: [Letters from
 *Notes:* *Oklahoma!* opened at the Theatre Royal, Drury Lane, on 30 April 1947. Miss Couldridge (also written Coleridge in the Cosford letters) had been his dancing teacher. Cotman and De Wint were watercolourists whose sketchbooks he saw at the V&A. The Nuffield Centre was a club for the forces in Wardour Street.
 
 > [!scan]- Scans (14)
-> ![Scan, page 1](images/Wellesbourne-Letters-letter-01-p1.jpg)
-> ![Scan, page 2](images/Wellesbourne-Letters-letter-01-p2.jpg)
-> ![Scan, page 3](images/Wellesbourne-Letters-letter-01-p3.jpg)
-> ![Scan, page 4](images/Wellesbourne-Letters-letter-01-p4.jpg)
-> ![Scan, page 5](images/Wellesbourne-Letters-letter-01-p5.jpg)
-> ![Scan, page 6](images/Wellesbourne-Letters-letter-01-p6.jpg)
-> ![Scan, page 7](images/Wellesbourne-Letters-letter-01-p7.jpg)
-> ![Scan, page 8](images/Wellesbourne-Letters-letter-01-p8.jpg)
-> ![Scan, page 9](images/Wellesbourne-Letters-letter-01-p9.jpg)
-> ![Scan, page 10](images/Wellesbourne-Letters-letter-01-p10.jpg)
-> ![Scan, page 11](images/Wellesbourne-Letters-letter-01-p11.jpg)
-> ![Scan, page 12](images/Wellesbourne-Letters-letter-01-p12.jpg)
-> ![Scan, page 13](images/Wellesbourne-Letters-letter-01-p13.jpg)
-> ![Scan, page 14](images/Wellesbourne-Letters-letter-01-p14.jpg)
+> ![Scan, page 1](../../images/Wellesbourne-Letters-letter-01-p1.jpg)
+> ![Scan, page 2](../../images/Wellesbourne-Letters-letter-01-p2.jpg)
+> ![Scan, page 3](../../images/Wellesbourne-Letters-letter-01-p3.jpg)
+> ![Scan, page 4](../../images/Wellesbourne-Letters-letter-01-p4.jpg)
+> ![Scan, page 5](../../images/Wellesbourne-Letters-letter-01-p5.jpg)
+> ![Scan, page 6](../../images/Wellesbourne-Letters-letter-01-p6.jpg)
+> ![Scan, page 7](../../images/Wellesbourne-Letters-letter-01-p7.jpg)
+> ![Scan, page 8](../../images/Wellesbourne-Letters-letter-01-p8.jpg)
+> ![Scan, page 9](../../images/Wellesbourne-Letters-letter-01-p9.jpg)
+> ![Scan, page 10](../../images/Wellesbourne-Letters-letter-01-p10.jpg)
+> ![Scan, page 11](../../images/Wellesbourne-Letters-letter-01-p11.jpg)
+> ![Scan, page 12](../../images/Wellesbourne-Letters-letter-01-p12.jpg)
+> ![Scan, page 13](../../images/Wellesbourne-Letters-letter-01-p13.jpg)
+> ![Scan, page 14](../../images/Wellesbourne-Letters-letter-01-p14.jpg)
 
 ### 02. Sunday, c. 29 June 1947 (ten days to demob)
 
@@ -201,14 +201,14 @@ His letters continue three months later, from architecture school: [Letters from
 *Notes:* The Council of Industrial Design had suggested the Burslem School of Art (in Stoke-on-Trent) after he mentioned ceramics. Wellesbourne was training glider pilots. The Airspeed Consul was a civilian air taxi chartered to the Stratford Memorial Theatre.
 
 > [!scan]- Scans (8)
-> ![Scan, page 1](images/Wellesbourne-Letters-letter-02-p1.jpg)
-> ![Scan, page 2](images/Wellesbourne-Letters-letter-02-p2.jpg)
-> ![Scan, page 3](images/Wellesbourne-Letters-letter-02-p3.jpg)
-> ![Scan, page 4](images/Wellesbourne-Letters-letter-02-p4.jpg)
-> ![Scan, page 5](images/Wellesbourne-Letters-letter-02-p5.jpg)
-> ![Scan, page 6](images/Wellesbourne-Letters-letter-02-p6.jpg)
-> ![Scan, page 7](images/Wellesbourne-Letters-letter-02-p7.jpg)
-> ![Scan, page 8](images/Wellesbourne-Letters-letter-02-p8.jpg)
+> ![Scan, page 1](../../images/Wellesbourne-Letters-letter-02-p1.jpg)
+> ![Scan, page 2](../../images/Wellesbourne-Letters-letter-02-p2.jpg)
+> ![Scan, page 3](../../images/Wellesbourne-Letters-letter-02-p3.jpg)
+> ![Scan, page 4](../../images/Wellesbourne-Letters-letter-02-p4.jpg)
+> ![Scan, page 5](../../images/Wellesbourne-Letters-letter-02-p5.jpg)
+> ![Scan, page 6](../../images/Wellesbourne-Letters-letter-02-p6.jpg)
+> ![Scan, page 7](../../images/Wellesbourne-Letters-letter-02-p7.jpg)
+> ![Scan, page 8](../../images/Wellesbourne-Letters-letter-02-p8.jpg)
 
 ### 03. c. Monday 7 July 1947 (a walk with Christopher to the Rollright Stones)
 
@@ -264,13 +264,13 @@ His letters continue three months later, from architecture school: [Letters from
 *Notes:* The first sheet seems to be missing. The "circle of Druid's stones, seventy I believe" are the Rollright Stones on the Oxfordshire–Warwickshire border, and the railed-round single stone is the King Stone. "Something Folly" is a card in the drawing room at Tresillian, perhaps of Faringdon Folly.
 
 > [!scan]- Scans (7)
-> ![Scan, page 1](images/Wellesbourne-Letters-letter-03-p1.jpg)
-> ![Scan, page 2](images/Wellesbourne-Letters-letter-03-p2.jpg)
-> ![Scan, page 3](images/Wellesbourne-Letters-letter-03-p3.jpg)
-> ![Scan, page 4](images/Wellesbourne-Letters-letter-03-p4.jpg)
-> ![Scan, page 5](images/Wellesbourne-Letters-letter-03-p5.jpg)
-> ![Scan, page 6](images/Wellesbourne-Letters-letter-03-p6.jpg)
-> ![Scan, page 7](images/Wellesbourne-Letters-letter-03-p7.jpg)
+> ![Scan, page 1](../../images/Wellesbourne-Letters-letter-03-p1.jpg)
+> ![Scan, page 2](../../images/Wellesbourne-Letters-letter-03-p2.jpg)
+> ![Scan, page 3](../../images/Wellesbourne-Letters-letter-03-p3.jpg)
+> ![Scan, page 4](../../images/Wellesbourne-Letters-letter-03-p4.jpg)
+> ![Scan, page 5](../../images/Wellesbourne-Letters-letter-03-p5.jpg)
+> ![Scan, page 6](../../images/Wellesbourne-Letters-letter-03-p6.jpg)
+> ![Scan, page 7](../../images/Wellesbourne-Letters-letter-03-p7.jpg)
 
 ## Envelopes
 
@@ -281,4 +281,4 @@ Two envelopes to his parents at Tresillian, postmarked WARWICK & LEAMINGTON SPA 
 > [Bottom:] Mr & Mrs Silver / Tresillian / West Avenue / Exeter / Devon. [2d orange + ½d green stamps; postmark WARWICK & LEAMINGTON SPA 11.45 AM 8 JLY 1947, same slogan]
 
 > [!scan]- Scans (1)
-> ![Scan, envelope](images/Wellesbourne-Letters-envelopes-envelope.jpg)
+> ![Scan, envelope](../../images/Wellesbourne-Letters-envelopes-envelope.jpg)
