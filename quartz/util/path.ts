@@ -231,6 +231,14 @@ export function transformLink(src: FullSlug, target: string, opts: TransformOpti
 
   if (opts.strategy === "relative") {
     return targetSlug as RelativeURL
+  } else if (targetSlug.startsWith("../")) {
+    // "../" links are relative to the page's folder (as on GitHub), so resolve them against it
+    const parts = src.split("/").slice(0, -1)
+    for (const seg of targetSlug.split("/")) {
+      if (seg === "..") parts.pop()
+      else if (seg !== ".") parts.push(seg)
+    }
+    return joinSegments(pathToRoot(src), parts.join("/")) as RelativeURL
   } else {
     const folderTail = isFolderPath(targetSlug) ? "/" : ""
     const canonicalSlug = stripSlashes(targetSlug.slice(".".length))
