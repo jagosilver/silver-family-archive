@@ -12,7 +12,7 @@ Every film, book, play and broadcast that **David Silver** names in his letters 
 
 **44 films, 48 books and 21 plays, ballets and broadcasts.**
 
-**Links.** Film titles link to IMDb (the IMDb id comes from Wikidata, matched on title and year; a few go to an IMDb search). Book titles link to Open Library. Plays and broadcasts link to Wikipedia where there is an article. Titles are given in their usual published form: David's spellings and slips ("Thatched Cottage", "Mr Pym passes By") are kept in the quotations.
+**Links.** Film titles link to IMDb (the IMDb id comes from Wikidata, matched on title and year; a few go to an IMDb search). Book titles link to Open Library, and one to the Internet Archive. Plays and broadcasts link to Wikipedia where there is an article. Titles are given in their usual published form: David's spellings and slips ("Thatched Cottage", "Mr Pym passes By") are kept in the quotations.
 
 ## Films
 
@@ -84,7 +84,7 @@ Every film, book, play and broadcast that **David Silver** names in his letters 
 - **[*Mr. Fortune, Please*](https://openlibrary.org/works/OL6831748W)** (1928, H. C. Bailey). Read it: [Bruton 19](David-Silver/Bruton-Letters#19-a-sunday-at-the-start-of-the-autumn-term-september-1938) (A Sunday at the start of the autumn term, September 1938).
 - **[*A Book of Grey Owl*](https://openlibrary.org/works/OL869022W)** (1938, Grey Owl). Mentioned: [Bruton 24](David-Silver/Bruton-Letters#24-late-november--early-december-1938) (Late November / early December 1938). Chosen as a school prize, 7/6.
 - ***Claws***. Mentioned: [Bruton 24](David-Silver/Bruton-Letters#24-late-november--early-december-1938) (Late November / early December 1938). His other prize, 10/6: “The life of an african lion with Photographs. True … ought to be very good.”
-- ***That Panda book***. Mentioned: [Bruton 24](David-Silver/Bruton-Letters#24-late-november--early-december-1938) (Late November / early December 1938). “that Panda Book by the discoverer of them in Tibet”, which he meant to choose as a prize but chose in a hurry instead.
+- **[*Trailing the Giant Panda*](https://archive.org/details/trailinggiantpan0000kerm/page/n9/mode/2up)** (1929, Theodore Roosevelt Jr. and Kermit Roosevelt). Mentioned: [Bruton 24](David-Silver/Bruton-Letters#24-late-november--early-december-1938) (Late November / early December 1938). “that Panda Book by the discoverer of them in Tibet”, which he meant to choose as a prize but chose in a hurry instead.
 - **[*Tales from Saki (a Penguin)*](https://openlibrary.org/search?q=Tales+from+Saki+Saki)** (Saki). Read it: [Bruton 29](David-Silver/Bruton-Letters#29-sunday-19-february-1939) (Sunday 19 February 1939). Kit sent him “a penguin called ‘Tales from Saki’ … I've read most of the stories already out of the Library.”
 - **[*The Man Who Made Gold*](https://openlibrary.org/works/OL2132093W)** (1930, Hilaire Belloc). Read it: [Bruton 29](David-Silver/Bruton-Letters#29-sunday-19-february-1939) (Sunday 19 February 1939).
 - **[*Georgics, Book IV*](https://openlibrary.org/search?q=Georgics%2C+Book+IV+Virgil)** (Virgil). Read it: [Bruton 41](David-Silver/Bruton-Letters#41-a-wednesday-afternoon-autumn-1939) (A Wednesday afternoon, autumn 1939). A set book: “about bees”.
