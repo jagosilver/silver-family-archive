@@ -10,6 +10,8 @@ tags:
 
 [David Silver](David-Silver/) joined the RAF in 1943, aged nineteen. He had been accepted for aircrew, but was kept on the ground when the eyesight standards were raised, and spent the war as an engine fitter on Spitfires and Hurricanes. His letters to his parents at Tresillian survive from eight stations. They are listed here in the order he was posted. His own spoken account of the same years is on [Grandpa's Second World War tape](WWII-Interview).
 
+![Map of the RAF stations David wrote from, numbered in the order he was posted: 1 Skegness, 2 Cosford, 3 Little Horwood, 4 Oulton, 5 Oakington, 6 Henlow, 7 Andreas and Jurby on the Isle of Man, 8 Wellesbourne; with Leuchars in Fife, where no letters survive, and home at Exeter. *The stations in the order he was posted. He was also at Leuchars in Fife in the summer of 1945, between Oulton and Oakington, but no letters from there survive.*](../../images/RAF-stations-map.svg)
+
 | Dates | Station | Letters | Highlights |
 | --- | --- | --- | --- |
 | Oct 1943 – Jan 1944 | [Skegness](Skegness-Letters) | 16 | Basic training; he turns twenty. |
