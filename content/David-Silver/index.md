@@ -109,6 +109,18 @@ After the war David trained at the RWA School of Architecture in Bristol on a gr
 
 David was an exceptional draftsman, and the only one of his brothers who did not become a doctor. Jago believes he would really have liked to be an artist or illustrator. In that family and generation, architecture was just about respectable and art was not. In retirement he went to watercolour classes at the town hall in Wadebridge, and his letters are full of pen sketches.
 
+### Dix's Field, Southernhay
+
+One of David's student drawings survives: a measured drawing of **No. 13 Dix's Field, Southernhay, Exeter**, a Georgian terrace house of about 1806 that was then the office of the Exeter Benefit Building Society. It shows the street front with its first-floor iron balcony, fanlight doorway and round-arched ground-floor windows. Below the front is a plan, and down the right-hand side a section through the wall and windows. The sheet is lettered *No. 13 Dix's Field, Southernhay, Exeter, Devon* and signed *circa 1806, David Silver*. Tamsin still has it, framed.
+
+![David's measured drawing of No. 13 Dix's Field, Southernhay, Exeter: elevation, plan and section. Photographed in its frame, 2026.](../images/DRS-Dix-Field-drawing.jpg)
+
+Two photographs of the same house survive in the family albums, probably his reference photos for the drawing. The board beside the door reads "Exeter Benefit Building Society".
+
+![No. 13 Dix's Field, with the Exeter Benefit Building Society board beside the door and a 1930s car outside.](../images/OSP-Benefit-Society-front.jpg)
+
+![Close-up of the fanlight doorway and an arched window at No. 13 Dix's Field.](../images/OSP-Benefit-Society-door.jpg)
+
 ## Wadebridge
 
 David and Anthea lived for many years in Wadebridge, Cornwall. He loved the county:

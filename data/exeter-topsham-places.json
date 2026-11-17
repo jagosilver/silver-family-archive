@@ -472,15 +472,15 @@
   },
   {
    "id": "benefit-society",
-   "name": "Exeter Benefit Building Society, Southernhay",
+   "name": "Exeter Benefit Building Society, No. 13 Dix's Field, Southernhay",
    "area": "Exeter",
-   "lat": 50.7222,
-   "lon": -3.5262,
-   "approx": true,
+   "lat": 50.72416,
+   "lon": -3.52479,
+   "approx": false,
    "years": "c.1950",
    "kind": "work",
-   "public_text": "David photographed this Georgian terrace front, then the Exeter Benefit Building Society's office, and drew it for his architecture course. The drawing survives in the family. Probably on Southernhay; position approximate.",
-   "vault_text": "Georgian terrace with balcony and fanlight door, Exeter Benefit Building Society board (Old Silver photos #170–171). David drew it on his architecture course; Tamsin has the drawing. Southernhay not confirmed; position approximate.",
+   "public_text": "A Georgian terrace house of about 1806, then the office of the Exeter Benefit Building Society. David photographed it and made a measured drawing of it on his architecture course; the framed drawing survives in the family.",
+   "vault_text": "No. 13 Dix's Field, Southernhay: Georgian terrace (c. 1806), Exeter Benefit Building Society office. Old Silver photos #170–171; David's measured drawing (Tamsin has it) confirms the address.",
    "site": [
     [
      "David Silver",
