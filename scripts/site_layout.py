@@ -16,7 +16,7 @@ RAF = ["Skegness-Letters", "Cosford-Letters", "Little-Horwood-Letters", "Oulton-
 
 # old slug -> new slug (both relative to content/, no .md)
 MOVES = {
-    "David-Silver": "David-Silver/Biography",
+    "David-Silver": "David-Silver/index",  # biography merged into the hub, 17 Nov 2026
     "Bruton-Letters": "David-Silver/Bruton-Letters",
     "WWII-Interview": "David-Silver/WWII-Interview",
     "Bristol-Letters": "David-Silver/Bristol-Letters",
@@ -25,7 +25,7 @@ MOVES = {
     "Anthea-Silver": "Anthea-Silver/A-Topsham-Childhood",
     "Clifford-Marking-Silver": "Clifford-Marking-Silver/index",  # biography merged into the hub, 17 Nov 2026
     "Acott-Letters": "Gladys-Silver/Acott-Letters",
-    "Christopher-Silver/index": "Christopher-Silver/Biography",
+    "Christopher-Silver/index": "Christopher-Silver/index",  # biography merged into the hub, 17 Nov 2026
     "Trip-on-the-River": "Jago-Silver/Trip-on-the-River",
     "When-The-Wind-Blows": "Jago-Silver/When-The-Wind-Blows",
     "Dissertation": "Jago-Silver/Dissertation",
@@ -56,12 +56,11 @@ def site_path(site, old_slug):
 def fix_links(text):
     """Point links at the person hubs / moved biographies. Moved pages with unique
     file names (Bruton-Letters etc.) still resolve through Quartz's shortest-path links."""
-    for person, bio in (("David-Silver", "David-Silver/Biography"),
+    for person, bio in (("David-Silver", "David-Silver/"),
                         ("Anthea-Silver", "Anthea-Silver/A-Topsham-Childhood"),
                         ("Clifford-Marking-Silver", "Clifford-Marking-Silver/")):
         text = re.sub(r"\]\((?:\.\./)?%s#" % person, "](%s#" % bio, text)
         text = re.sub(r"\]\((?:\.\./)?%s\)" % person, "](%s/)" % person, text)
-    text = text.replace("](Christopher-Silver/#", "](Christopher-Silver/Biography#")
     for s in list(MOVES) + ["Christopher-Silver/Letters"]:
         text = text.replace("](../%s)" % s, "](%s)" % s)
     return text

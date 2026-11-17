@@ -35,7 +35,7 @@ Also: [Places & history](Places/), covering King's School, Bruton, and Roman Top
 
 Geriatrician, photographer, soldier. Christopher Patrick Silver was born in Exeter, served with the RAMC in North Africa, Italy and India, and spent his career caring for the elderly in the East End of London. He was a keen photographer throughout his life. His archive of 229 photographs — glass plates and Kodachrome slides — ranges from Exeter garden portraits in the 1930s to wartime India and a grand North American tour in 1961.
 
-→ [View the photography archive](Christopher-Silver/Biography#photography)
+→ [View the photography archive](Christopher-Silver/#photography)
 
 ---
 

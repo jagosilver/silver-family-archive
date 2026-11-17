@@ -32,4 +32,4 @@ tags:
 
 ## Elsewhere in the archive
 
-- [David Silver](David-Silver/), her husband, and his [biography](David-Silver/Biography).
+- [David Silver](David-Silver/), her husband, and his [biography](David-Silver/).

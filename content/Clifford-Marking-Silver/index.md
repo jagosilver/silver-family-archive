@@ -90,7 +90,7 @@ Clifford appears throughout the letters Christopher and David sent home from **K
 - **Health.** Several letters hope "Daddy" is better after illness, and in 1941 David mentions sharing his father's "liverish turns, when I can't see anything".
 - **Holidays.** In 1936 Christopher urged his parents not to put off a holiday on his account, and around November 1937 they stayed at Percival's Hotel, West Worthing.
 
-The letters themselves are transcribed in full: Christopher's of 1936 on [his page](Christopher-Silver/Biography#bruton-1936), and David's of 1937–1942 as [The Bruton Letters](Bruton-Letters).
+The letters themselves are transcribed in full: Christopher's of 1936 on [his page](Christopher-Silver/#bruton-1936), and David's of 1937–1942 as [The Bruton Letters](Bruton-Letters).
 
 ---
 
@@ -107,8 +107,8 @@ The letters themselves are transcribed in full: Christopher's of 1936 on [his pa
 - **1914–1918** · [The Exeter Volunteers](Clifford-Marking-Silver/#family-photographs).
 - **c. 1926** · [The family on a beach](Clifford-Marking-Silver/#family-photographs), and his children's own pages: [James](James-Clifford-Silver/), [Lavender](Lavender-Silver/) and [Philip](Philip-Silver/).
 - **1930s** · Christopher photographs [Tresillian and its garden](Christopher-Silver/UK#exeter) on glass plates.
-- **1936** · [Christopher's letter home from Bruton](Clifford-Marking-Silver/#clifford-in-his-sons-letters) to his parents (the letter itself is on [Christopher's biography](Christopher-Silver/Biography#bruton-1936)).
+- **1936** · [Christopher's letter home from Bruton](Clifford-Marking-Silver/#clifford-in-his-sons-letters) to his parents (the letter itself is on [Christopher's biography](Christopher-Silver/#bruton-1936)).
 - **1937–1942** · [The Bruton Letters](Bruton-Letters): David's letters home to "C. M. Silver Esq." and his wife, full of cameras, gardens and the toy theatre.
-- **1942** · [The Exeter Blitz](Clifford-Marking-Silver/#the-exeter-blitz): Tresillian is wrecked and the surgery damaged. David's [watercolour and account of the raid](David-Silver/Biography#tresillian-and-the-exeter-blitz).
+- **1942** · [The Exeter Blitz](Clifford-Marking-Silver/#the-exeter-blitz): Tresillian is wrecked and the surgery damaged. David's [watercolour and account of the raid](David-Silver/#tresillian-and-the-exeter-blitz).
 - **1943–1947** · [Letters from the RAF](David-Silver/RAF-Letters/): David's letters home to his parents at Tresillian.
 - **1947–1953** · [Letters from Bristol](Bristol-Letters): David's letters home from architecture school.
