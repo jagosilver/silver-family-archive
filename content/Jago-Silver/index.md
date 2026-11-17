@@ -8,6 +8,8 @@ tags:
 
 *← [Silver Family Archive](./)*
 
+*Places on this page are on the [Exeter and Topsham map](Places/Exeter-and-Topsham-Map).*
+
 **Jago Silver**, who wrote under his childhood name **Jago Titcomb** until the early 2000s, is an illustrator and the compiler of this archive. He is the grandson of [David](David-Silver/) and [Anthea Silver](Anthea-Silver/) and the great-nephew of [Christopher Patrick Silver](Christopher-Silver/). He grew up in Devon and Cornwall, studied at Wadebridge School and Truro College, and took a double first in BA (Hons) Illustration at Falmouth.
 
 ---

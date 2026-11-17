@@ -222,8 +222,7 @@
    "lon": -3.5166,
    "years": "1960",
    "kind": "home",
-   "public": false,
-   "public_text": "",
+   "public_text": "Anthea wrote to David from Alexandra Terrace in July 1960, with Tamsin, Bridget and Candy at home.",
    "vault_text": "18 Alexandra Terrace: Anthea wrote to David from here, 12 July (1960?), with Tamsin, Bridget and Candy.",
    "site": [],
    "vault": [
@@ -240,8 +239,7 @@
    "approx": true,
    "years": "1921?",
    "kind": "event",
-   "public": false,
-   "public_text": "",
+   "public_text": "David believed his grandmother Charlotte Acott was \"buried in Exeter Cemetery\". Which cemetery isn't certain. Position approximate.",
    "vault_text": "David's note: his grandmother Charlotte Acott was \"buried in Exeter Cemetery\". Which cemetery isn't certain.",
    "site": [],
    "vault": [
@@ -430,33 +428,96 @@
    "lon": -3.468176,
    "years": "?–c.1984",
    "kind": "home",
-   "public": false,
-   "public_text": "",
-   "vault_text": "David and Anthea Silver's home in Topsham, off the High Street, before they moved to Westleigh, Wadebridge, c. 1984. Andy rebuilt the workshop here.",
-   "site": [],
+   "public_text": "David and Anthea Silver's home in Topsham until they moved to Westleigh, Wadebridge, in about 1984. A former pigsty in the garden was Andy Titcomb's first workshop, where he made his first teapot in 1983.",
+   "vault_text": "David and Anthea Silver's home in Topsham, off the High Street, until they moved to Westleigh, Wadebridge, c. 1984. The garden pigsty was Andy's first workshop (Andy and Tamsin Ceramics, 1983).",
+   "site": [
+    [
+     "David Silver",
+     "David-Silver/"
+    ],
+    [
+     "Anthea Silver",
+     "Anthea-Silver/"
+    ]
+   ],
    "vault": [
     "Jenin Cottage",
     "Anthea Silver",
-    "David Silver"
+    "David Silver",
+    "Andy Titcomb — Ceramics Career"
    ]
   },
   {
    "id": "43-strand",
-   "name": "43 The Strand (Reka Dom), Flats A and B",
+   "name": "Reka Dom, The Strand (Flats A and B)",
    "area": "Topsham",
    "lat": 50.677648,
    "lon": -3.46175,
    "years": "c.1975–1990",
    "kind": "home",
-   "public": false,
-   "public_text": "",
+   "public_text": "Andy and Tamsin Titcomb rented two flats in this old merchant's house: first Flat A, then Flat B, where Jago grew up, until the family moved to Cornwall in October 1990.",
    "vault_text": "43 The Strand, EX3 0AY. Andy and Tamsin rented Flat A before Jago was born, then Flat B (43B) from 1979 until the move to Cornwall, Oct 1990. Jago's childhood home.",
-   "site": [],
+   "site": [
+    [
+     "Jago Silver",
+     "Jago-Silver/"
+    ]
+   ],
    "vault": [
     "The Strand, Topsham",
     "Tamsin Titcomb",
     "Andy Titcomb",
     "Jago Silver"
+   ]
+  },
+  {
+   "id": "benefit-society",
+   "name": "Exeter Benefit Building Society, Southernhay",
+   "area": "Exeter",
+   "lat": 50.7222,
+   "lon": -3.5262,
+   "approx": true,
+   "years": "c.1950",
+   "kind": "work",
+   "public_text": "David photographed this Georgian terrace front, then the Exeter Benefit Building Society's office, and drew it for his architecture course. The drawing survives in the family. Probably on Southernhay; position approximate.",
+   "vault_text": "Georgian terrace with balcony and fanlight door, Exeter Benefit Building Society board (Old Silver photos #170–171). David drew it on his architecture course; Tamsin has the drawing. Southernhay not confirmed; position approximate.",
+   "site": [
+    [
+     "David Silver",
+     "David-Silver/"
+    ],
+    [
+     "Letters from Bristol",
+     "Bristol-Letters"
+    ]
+   ],
+   "vault": [
+    "Old Silver Photos (Acott & Silver family archive)",
+    "David Silver",
+    "Letters from David Silver at Bristol (1947–1953)"
+   ]
+  },
+  {
+   "id": "first-school",
+   "name": "Topsham First School",
+   "area": "Topsham",
+   "lat": 50.6841,
+   "lon": -3.4647,
+   "approx": true,
+   "years": "1984–1988",
+   "kind": "school",
+   "public_text": "Jago's first school, 1984–88. His grandmother Anthea, an architecture graduate, was involved in its design in some way. Shown at the listed Topsham Infant School on Majorfield Road; the exact site isn't confirmed.",
+   "vault_text": "Jago's first school (Sep 1984–Jul 1988); Anthea involved in the design somehow; Tamsin painted the playground alphabet mural. Shown at the listed Topsham Infant School, Majorfield Road; site not confirmed.",
+   "site": [
+    [
+     "Anthea Silver",
+     "Anthea-Silver/"
+    ]
+   ],
+   "vault": [
+    "Topsham First School",
+    "Anthea Silver",
+    "Topsham School Photos (1984–1991)"
    ]
   }
  ]
