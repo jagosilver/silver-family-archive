@@ -76,6 +76,14 @@ CPS read medicine at Hertford College, Oxford, qualifying in 1942. He photograph
 
 ![File:CPS UK Magdalen College Oxford 02.jpg](../images/CPS-UK-Magdalen-College-Oxford-02.jpg)
 
+## London
+
+### Selfridges, coronation of 1937
+
+In May 1937 Selfridges on Oxford Street was dressed for the coronation of George VI with one of the most famous street decorations of that summer: a huge allegorical display crowned with a winged figure, the royal cypher **GR**, and *GOD SAVE THE KING* across the front. Christopher, then 17, photographed it on a glass plate from a side street, with a delivery tricycle and a few passers-by below.
+
+![Selfridges, Oxford Street, decorated for the coronation of George VI in May 1937: a towering sculptural display with the royal cypher GR, allegorical figures, and GOD SAVE THE KING over the entrance, seen from a side street. *Glass plate by Christopher Silver, aged 17.*](../images/CPS-UK-Selfridges-London-01.jpg)
+
 ## The South West
 
 ### Lyme Regis

@@ -159,7 +159,9 @@ Christopher Silver was a keen and accomplished photographer throughout his life 
 The glass plates were scanned by his great-nephew **Basil Macdonald** in 2025. In total, 229 photographs survive across ten countries and locations. Many subjects remain unidentified — if you recognise anyone or can date a photograph more precisely, please add notes to the relevant page.
 
 ### The 1937 Selfridges photograph
-One photograph stands out for its precise datability: a stunning image of [Selfridges on Oxford Street](Christopher-Silver/UK) decorated for the coronation of George VI in May 1937. The elaborate allegorical sculptural installation — with the royal cypher GR and the inscription *GOD SAVE THE KING* — was a famous landmark of that summer. CPS was 17 years old.
+One photograph stands out for its precise datability: a stunning image of [Selfridges on Oxford Street](Christopher-Silver/UK#selfridges-coronation-of-1937) decorated for the coronation of George VI in May 1937. The elaborate allegorical sculptural installation — with the royal cypher GR and the inscription *GOD SAVE THE KING* — was a famous landmark of that summer. CPS was 17 years old.
+
+![Selfridges, Oxford Street, decorated for the coronation of George VI in May 1937: a towering sculptural display with the royal cypher GR, allegorical figures, and GOD SAVE THE KING over the entrance, seen from a side street. *Glass plate by Christopher Silver, aged 17.*](../images/CPS-UK-Selfridges-London-01.jpg)
 
 ### The 1961 North America tour
 In 1961, CPS and his wife Nancy undertook a grand tour of North America, shooting in Kodachrome colour. The route ran from Halifax, Nova Scotia westward through Toronto, Niagara Falls, Philadelphia, Washington DC, New York and Mount Vernon, then west through Colorado (Idaho Springs, Denver, Central City), Salt Lake City, and across to British Columbia — the Fraser Canyon, the North Thompson River valley, Vancouver, and Victoria. Thirteen photographs survive of Niagara Falls alone.
