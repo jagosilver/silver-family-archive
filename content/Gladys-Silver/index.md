@@ -8,6 +8,8 @@ tags:
 
 *← [Silver Family Archive](./)*
 
+*Places on this page are on the [Exeter and Topsham map](Places/Exeter-and-Topsham-Map).*
+
 ![Gladys Lucy Acott, photographed by Heath & Bradnee, Exeter (identified by Tamsin and Andy Titcomb).](../images/OSP-Gladys-Acott-portrait.jpg)
 
 **Gladys Lucy Silver**, née **Acott**, married the Exeter dentist [Clifford Marking Silver](Clifford-Marking-Silver/) and brought up their six children at Tresillian, West Avenue, Exeter. She was a daughter of **Rupert Philip Acott**, a draper, and grew up at **Mona Lodge**, Lyndhurst Road, Exeter. She came from the [Acotts](Acott-Family/), an Oxford family of builders and printers, one branch of which settled in Exeter; the family also descended from the Baker yeoman farmers of Bampton. Her birthday was 23 June, and her sons wrote home from school and the RAF to wish her many happy returns. She and Clifford were inside Tresillian when it was shot up in the Exeter Blitz of May 1942, and survived unhurt. She was Jago Silver's great-grandmother.

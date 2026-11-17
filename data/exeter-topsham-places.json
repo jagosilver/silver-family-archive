@@ -1,0 +1,426 @@
+{
+ "_readme": "Source of truth for the Exeter & Topsham family map. Add or edit a place here, then run: python3 scripts/build_exeter_map.py  (rebuilds the site map page, the interactive map, the static PNG, the vault note, and adds map links to every page named below). 'public': false keeps a place off the public site. 'approx': true draws a hollow marker. Coordinates are street-level only — never put house numbers in public text.",
+ "places": [
+  {
+   "id": "tresillian",
+   "name": "Tresillian, West Avenue",
+   "area": "Exeter",
+   "lat": 50.7318,
+   "lon": -3.5269,
+   "years": "1899–c.1950",
+   "kind": "home",
+   "public_text": "The Silver family home: Clifford and Gladys brought up their children here. Shot up in the Exeter Blitz, May 1942, and still standing.",
+   "vault_text": "39 West Avenue. Clifford and Gladys Silver's home, where all six children grew up; damaged in the Blitz, 3–4 May 1942; still standing (2022 photo).",
+   "site": [
+    [
+     "Clifford Marking Silver",
+     "Clifford-Marking-Silver/#tresillian"
+    ],
+    [
+     "David Silver",
+     "David-Silver/#tresillian-and-the-exeter-blitz"
+    ]
+   ],
+   "vault": [
+    "Tresillian, Exeter",
+    "Clifford Marking Silver",
+    "David Silver"
+   ]
+  },
+  {
+   "id": "barracks",
+   "name": "Higher Barracks",
+   "area": "Exeter",
+   "lat": 50.73,
+   "lon": -3.5295,
+   "approx": true,
+   "years": "1942",
+   "kind": "event",
+   "public_text": "\"Part of the barracks, full of the army, about 300 yards away from our house\" was destroyed in an air raid David watched as a warden in 1942.",
+   "vault_text": "Barracks about 300 yards from Tresillian, partly destroyed in a 1942 raid (David's 1994 tape). Position approximate.",
+   "site": [
+    [
+     "David's WWII tape",
+     "WWII-Interview"
+    ]
+   ],
+   "vault": [
+    "David Silver — WWII Interview (c. 1994)",
+    "Tresillian, Exeter"
+   ]
+  },
+  {
+   "id": "bedford-circus",
+   "name": "Bedford Circus",
+   "area": "Exeter",
+   "lat": 50.724,
+   "lon": -3.5282,
+   "years": "c.1906–1942",
+   "kind": "work",
+   "public_text": "Clifford's dental surgery stood here \"until 1942\". The Georgian circus was gutted in the Blitz and later demolished; Princesshay now covers the site.",
+   "vault_text": "3 Bedford Circus: Clifford's dental surgery until the Blitz of May 1942. Demolished; site now Princesshay.",
+   "site": [
+    [
+     "Clifford Marking Silver",
+     "Clifford-Marking-Silver/#the-dental-practice"
+    ]
+   ],
+   "vault": [
+    "Bedford Circus, Exeter",
+    "Clifford Marking Silver"
+   ]
+  },
+  {
+   "id": "school-of-art",
+   "name": "Exeter School of Art (Royal Albert Memorial Museum building)",
+   "area": "Exeter",
+   "lat": 50.7252,
+   "lon": -3.5321,
+   "years": "1942–43",
+   "kind": "school",
+   "public_text": "David spent about two terms at the Exeter School of Art before joining the RAF.",
+   "vault_text": "David at Exeter School of Art, c. 1942–43, before the RAF. The school was then in the RAMM building, Queen Street.",
+   "site": [
+    [
+     "David Silver",
+     "David-Silver/#exeter-and-the-war"
+    ]
+   ],
+   "vault": [
+    "David Silver"
+   ]
+  },
+  {
+   "id": "mona-lodge",
+   "name": "Mona Lodge, Lyndhurst Road",
+   "area": "Exeter (St Leonards)",
+   "lat": 50.7194,
+   "lon": -3.5157,
+   "years": "c.1900–1921",
+   "kind": "home",
+   "public_text": "Rupert Philip Acott's house, with lions on the gateposts, and Gladys's childhood home. Muriel Acott was married from here. Still standing.",
+   "vault_text": "Rupert & Charlotte Acott's house; Gladys's childhood home; Muriel's wedding to Basil Scholfield; Clifford photographed Charlotte's room here c. 1905. Still standing (2022 photo).",
+   "site": [
+    [
+     "The Acott Family",
+     "Acott-Family/#rupert-philip-acott-18531941-and-charlotte-rowell"
+    ],
+    [
+     "Gladys Silver",
+     "Gladys-Silver/"
+    ]
+   ],
+   "vault": [
+    "Acott Family",
+    "Old Silver Photos (Acott & Silver family archive)"
+   ]
+  },
+  {
+   "id": "velwell",
+   "name": "Velwell Road, St David's",
+   "area": "Exeter",
+   "lat": 50.7298,
+   "lon": -3.5367,
+   "years": "c.1951–1960s",
+   "kind": "home",
+   "public_text": "Clifford and Gladys's home after Tresillian. David saved the family photographs from here \"when my mother died\".",
+   "vault_text": "64 Velwell Road: Clifford and Gladys's home by Feb 1951; David's Bristol letters went here; the Old Silver photos were saved from here \"before James' bonfire\".",
+   "site": [
+    [
+     "Clifford Marking Silver",
+     "Clifford-Marking-Silver/"
+    ],
+    [
+     "Letters from Bristol",
+     "Bristol-Letters"
+    ]
+   ],
+   "vault": [
+    "Clifford Marking Silver",
+    "Old Silver Photos (Acott & Silver family archive)",
+    "Letters from David Silver at Bristol (1947–1953)"
+   ]
+  },
+  {
+   "id": "st-davids",
+   "name": "St David's Church",
+   "area": "Exeter",
+   "lat": 50.7274,
+   "lon": -3.5382,
+   "years": "1952",
+   "kind": "church",
+   "public_text": "David Silver and Anthea Leigh were married in a side chapel here at the end of December 1952, with James as best man.",
+   "vault_text": "David & Anthea's wedding, side chapel, end of Dec 1952 (probably 31 Dec), James best man.",
+   "site": [
+    [
+     "Letters from Bristol",
+     "Bristol-Letters"
+    ],
+    [
+     "David Silver",
+     "David-Silver/"
+    ],
+    [
+     "Anthea Silver",
+     "Anthea-Silver/"
+    ]
+   ],
+   "vault": [
+    "David Silver",
+    "Anthea Silver",
+    "Letters from David Silver at Bristol (1947–1953)"
+   ]
+  },
+  {
+   "id": "belmont",
+   "name": "The Belmont Nursing Home",
+   "area": "Exeter",
+   "lat": 50.7278,
+   "lon": -3.5187,
+   "approx": true,
+   "years": "1925, 1928",
+   "kind": "event",
+   "public_text": "Anthea Leigh was born here on 30 April 1928, in \"a beautiful Georgian terrace in Exeter, later destroyed in the blitz\". Position approximate.",
+   "vault_text": "Anthea born here 30 Apr 1928 (Mary in 1925). Georgian terrace destroyed in the Blitz. Position approximate (Belmont Road).",
+   "site": [
+    [
+     "A Topsham Childhood",
+     "A-Topsham-Childhood"
+    ]
+   ],
+   "vault": [
+    "The Belmont Nursing Home",
+    "Anthea Silver"
+   ]
+  },
+  {
+   "id": "endsleigh",
+   "name": "Endsleigh School, Grendon Road",
+   "area": "Exeter",
+   "lat": 50.7233,
+   "lon": -3.5132,
+   "years": "c.1937–1939",
+   "kind": "school",
+   "public_text": "\"A girls only day school on the corner of Grendon Road\", where Anthea and her sister Mary went until the daylight raids on Exeter.",
+   "vault_text": "Anthea's day school from nearly 9 until 11; left when daylight raids began.",
+   "site": [
+    [
+     "A Topsham Childhood",
+     "A-Topsham-Childhood"
+    ]
+   ],
+   "vault": [
+    "Endsleigh School",
+    "Anthea Silver"
+   ]
+  },
+  {
+   "id": "alexandra-terrace",
+   "name": "Alexandra Terrace, Blackboy Road",
+   "area": "Exeter",
+   "lat": 50.7297,
+   "lon": -3.5166,
+   "years": "1960",
+   "kind": "home",
+   "public": false,
+   "public_text": "",
+   "vault_text": "18 Alexandra Terrace: Anthea wrote to David from here, 12 July (1960?), with Tamsin, Bridget and Candy.",
+   "site": [],
+   "vault": [
+    "Old Silver Photos (Acott & Silver family archive)",
+    "Anthea Silver"
+   ]
+  },
+  {
+   "id": "higher-cemetery",
+   "name": "Exeter Higher Cemetery",
+   "area": "Exeter",
+   "lat": 50.7277,
+   "lon": -3.505,
+   "approx": true,
+   "years": "1921?",
+   "kind": "event",
+   "public": false,
+   "public_text": "",
+   "vault_text": "David's note: his grandmother Charlotte Acott was \"buried in Exeter Cemetery\". Which cemetery isn't certain.",
+   "site": [],
+   "vault": [
+    "Acott Family"
+   ]
+  },
+  {
+   "id": "sundew",
+   "name": "Sundew and the garage, Countess Wear",
+   "area": "Countess Wear",
+   "lat": 50.6997,
+   "lon": -3.4921,
+   "years": "c.1924–1930",
+   "kind": "home",
+   "public_text": "Tom and Edith Leigh's bungalow and garage on the Countess Wear crossroads, where Anthea was brought home as a baby.",
+   "vault_text": "Tom & Edith Leigh's bungalow and filling station at the Countess Wear crossroads; sold c. 1930.",
+   "site": [
+    [
+     "A Topsham Childhood",
+     "A-Topsham-Childhood"
+    ]
+   ],
+   "vault": [
+    "Sundew",
+    "Countess Wear",
+    "Thomas William Edward Leigh"
+   ]
+  },
+  {
+   "id": "denver",
+   "name": "Denver House and Denver Nurseries, Denver Road",
+   "area": "Topsham",
+   "lat": 50.6886,
+   "lon": -3.4675,
+   "years": "c.1901–1940s",
+   "kind": "home",
+   "public_text": "Thomas Bolt Pyne's house and fruit-tree nursery, employing about thirty men: Anthea's grandparents' home, \"big, comfortable and secure\".",
+   "vault_text": "Thomas Bolt & Angelina Pyne's house and Denver Nurseries.",
+   "site": [
+    [
+     "A Topsham Childhood",
+     "A-Topsham-Childhood"
+    ]
+   ],
+   "vault": [
+    "Denver House",
+    "Denver Nurseries",
+    "Topsham"
+   ]
+  },
+  {
+   "id": "meadow-hayes",
+   "name": "Meadow Hayes",
+   "area": "Topsham",
+   "lat": 50.688,
+   "lon": -3.4685,
+   "approx": true,
+   "years": "1935–1946",
+   "kind": "home",
+   "public_text": "Anthea's childhood home, in the meadow opposite Denver Nurseries, until the family left in 1946. \"I still dream about Meadow Hayes.\"",
+   "vault_text": "The Leigh home (one half; Reg Pyne's family the other), built in Thomas Bolt Pyne's meadow opposite Denver Nurseries. Position approximate.",
+   "site": [
+    [
+     "A Topsham Childhood",
+     "A-Topsham-Childhood"
+    ]
+   ],
+   "vault": [
+    "Meadow Hayes",
+    "Anthea Silver",
+    "Topsham"
+   ]
+  },
+  {
+   "id": "park-field",
+   "name": "Park Field, by the Exeter Road",
+   "area": "Topsham",
+   "lat": 50.6888,
+   "lon": -3.4709,
+   "approx": true,
+   "years": "1934–35",
+   "kind": "event",
+   "public_text": "A sewer trench cut through Park Field, opposite the Pyne nurseries, turned up Romano-British pottery, coins and glass.",
+   "vault_text": "Romano-British finds of 1934–35 in Park Field, opposite Denver Nurseries.",
+   "site": [
+    [
+     "Romano-British Antiquities",
+     "Denver-Excavation"
+    ]
+   ],
+   "vault": [
+    "Romano-British Antiquities Found at Topsham",
+    "Denver House"
+   ]
+  },
+  {
+   "id": "monmouth-hill",
+   "name": "\"Doone\", Monmouth Hill",
+   "area": "Topsham",
+   "lat": 50.6809,
+   "lon": -3.4642,
+   "years": "c.1932–1935",
+   "kind": "home",
+   "public_text": "The Leighs' semi-detached house with a long front garden, where Anthea's sister Gillian was born.",
+   "vault_text": "\"Doone\", the Leighs' semi on Monmouth Hill before Meadow Hayes; Gillian born here c. 1935.",
+   "site": [
+    [
+     "A Topsham Childhood",
+     "A-Topsham-Childhood"
+    ]
+   ],
+   "vault": [
+    "Monmouth Hill, Topsham",
+    "Gillian Leigh"
+   ]
+  },
+  {
+   "id": "strand",
+   "name": "The Strand",
+   "area": "Topsham",
+   "lat": 50.6804,
+   "lon": -3.4644,
+   "years": "1930s",
+   "kind": "work",
+   "public_text": "Anthea's father worked at Mr Seldon's garage on the Strand, and her godmother Peggy Dolling lived here.",
+   "vault_text": "Mr Seldon's garage (Tom Leigh's job); Peggy Dolling's house, next door to Marion's.",
+   "site": [
+    [
+     "A Topsham Childhood",
+     "A-Topsham-Childhood"
+    ]
+   ],
+   "vault": [
+    "The Strand, Topsham",
+    "Mr Seldon"
+   ]
+  },
+  {
+   "id": "st-margarets",
+   "name": "St Margaret's Church",
+   "area": "Topsham",
+   "lat": 50.6827,
+   "lon": -3.4659,
+   "years": "1930s–40s",
+   "kind": "church",
+   "public_text": "\"The church was the centre of the community\": Anthea sang in the choir here for years.",
+   "vault_text": "The Leighs' parish church; Anthea in the choir.",
+   "site": [
+    [
+     "A Topsham Childhood",
+     "A-Topsham-Childhood"
+    ]
+   ],
+   "vault": [
+    "St Margaret's Church, Topsham",
+    "Anthea Silver"
+   ]
+  },
+  {
+   "id": "rosapenna",
+   "name": "Rosapenna",
+   "area": "Topsham",
+   "lat": 50.6845,
+   "lon": -3.4645,
+   "approx": true,
+   "years": "1921–1941",
+   "kind": "home",
+   "public_text": "Rupert Philip Acott moved to Rosapenna in Topsham after his wife died, and lived there until his death in 1941. Exact location not yet found.",
+   "vault_text": "Rupert Acott's last home, 1921–41 (\"still exists\", David 1998). Exact location not yet found — marker is a placeholder in Topsham.",
+   "site": [
+    [
+     "The Acott Family",
+     "Acott-Family/#rupert-philip-acott-18531941-and-charlotte-rowell"
+    ]
+   ],
+   "vault": [
+    "Acott Family",
+    "Topsham"
+   ]
+  }
+ ]
+}

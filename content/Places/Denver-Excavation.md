@@ -11,6 +11,8 @@ tags:
 
 *← [Silver Family Archive](./) · [A Topsham Childhood](Anthea-Silver/)*
 
+*Places on this page are on the [Exeter and Topsham map](Places/Exeter-and-Topsham-Map).*
+
 # Romano-British Antiquities Found at Topsham
 
 ### By L. A. D. Montague

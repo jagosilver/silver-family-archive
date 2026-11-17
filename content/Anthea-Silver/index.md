@@ -8,6 +8,8 @@ tags:
 
 *← [Silver Family Archive](./)*
 
+*Places on this page are on the [Exeter and Topsham map](Places/Exeter-and-Topsham-Map).*
+
 **Anthea Silver**, née **Leigh** (30 April 1928 – July 2009), was born in Exeter and grew up at Countess Wear and in Topsham, Devon. She was the younger daughter of Thomas William Edward Leigh, who ran a garage and filling station, and Edith Irene Leigh (née Pyne), of the Pyne family of Denver Nurseries, Topsham. Her sister was Irene Mary. She went to school at Mrs Hall's, Endsleigh and Ashford, rode horses, and saw out the war in Topsham. She then trained as an architect at the Bristol School of Architecture, where she met [David Silver](David-Silver/), though tuberculosis kept her ill for much of her student years. They married at the end of December 1952. Both qualified as architects. In later life they lived in Wadebridge, Cornwall. She was a gifted and fiercely self-critical artist, and in old age she wrote a memoir of her childhood. She was Jago Silver's maternal grandmother.
 
 **Family.** Parents: Thomas and Edith Leigh (née Pyne). Sister: Irene Mary. Husband: [David Silver](David-Silver/). Three daughters. Grandson: [Jago](Jago-Silver/).

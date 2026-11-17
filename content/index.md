@@ -25,7 +25,7 @@ Each person has a hub page with a short biography and every page about them, in 
 | [Anthea Silver (née Leigh)](Anthea-Silver/) (1928–2009) | David's wife: architect, artist, memoirist of Topsham |
 | [Jago Silver](Jago-Silver/) | David and Anthea's grandson, compiler of this archive |
 
-Also: [Places & history](Places/), covering King's School, Bruton, and Roman Topsham.
+Also: [Places & history](Places/), covering King's School, Bruton, and Roman Topsham, and a [map of the family's Exeter and Topsham](Places/Exeter-and-Topsham-Map).
 
 ---
 

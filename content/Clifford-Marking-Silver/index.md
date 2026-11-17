@@ -10,6 +10,8 @@ tags:
 
 *← [Silver Family Archive](./)*
 
+*Places on this page are on the [Exeter and Topsham map](Places/Exeter-and-Topsham-Map).*
+
 ![Tresillian, the family home in West Avenue, Exeter. *Photographed by Christopher Silver (pre-war glass plate).*](../images/CPS-UK-Exeter-18.jpg)
 
 **Clifford Marking Silver** was a dentist in Exeter, with his surgery in Bedford Circus, the Georgian circus off the High Street. With his wife [Gladys Lucy Silver (née Acott)](Gladys-Silver/) he brought up six children at **Tresillian**, an 1899 Arts & Crafts house in West Avenue. He was a keen photographer and gardener, and passed both enthusiasms on to his sons, whose letters home from school are full of cameras, films and plans for the garden. On the night of 3–4 May 1942, in the Exeter Blitz, Tresillian was raked by cannon fire with Clifford and Gladys inside, and the surgery was damaged in the same raids. Bedford Circus was later demolished. He was Jago Silver's great-grandfather.
@@ -74,6 +76,8 @@ The family home was **Tresillian**, near the top of West Avenue in Exeter: an 18
 The garden was clearly a passion. Christopher's photographs show a carefully planted rockery and a greenhouse full of tomatoes and cacti, and the boys' letters from school are full of the garden: Christopher's crocuses by the greenhouse (1936), the bamboos his father was trying to establish, and the concrete rabbit Clifford wanted to cast for the garden pond, for which David bought him a rabbit-shaped jelly mould as a present in the summer of 1938 or 1939.
 
 ![A rockery in the family garden: primulas in full bloom between rough stone slabs, with irises behind. *The garden at Tresillian, photographed by Christopher Silver.*](../images/CPS-UK-Exeter-01.jpg)
+
+![Tresillian's street front in 2022. The house survived the Blitz and still stands in West Avenue, with the white roughcast walls and red-tiled roof David described. *Image: Google Street View, 2022.*](../images/Tresillian-2022.jpg)
 
 ## The Exeter Blitz
 
