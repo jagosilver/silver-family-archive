@@ -16,11 +16,11 @@ The fortified city of Carcassonne is one of the best-preserved medieval walled t
 
 ![Looking out over the Aude valley from the top of Carcassonne's inner fortifications — two steep conical towers rise in the foreground, the chemin des rondes stretches behind, and the wide agricultural plain of Languedoc extends to the horizon. An elevated, commanding view.](../images/CPS-France-Carcassonne-01.jpg)
 
-![File:CPS France Carcassonne 02.jpg](../images/CPS-France-Carcassonne-02.jpg)
+![Rooftops of a southern French town below the hills.](../images/CPS-France-Carcassonne-02.jpg)
 
-![File:CPS France Carcassonne 03.jpg](../images/CPS-France-Carcassonne-03.jpg)
+![A hill village above olive trees.](../images/CPS-France-Carcassonne-03.jpg)
 
-![File:CPS France Carcassonne 04.jpg](../images/CPS-France-Carcassonne-04.jpg)
+![The walled city of Carcassonne seen across the fields.](../images/CPS-France-Carcassonne-04.jpg)
 
 ## Banyuls-sur-Mer
 
@@ -28,17 +28,17 @@ Banyuls-sur-Mer is a small wine-growing and fishing town on the Côte Vermeille,
 
 ![A French diesel autorail (railcar) pulls into the small station at Banyuls-sur-Mer — a passenger leans from the window as the train arrives. The station building, cut into a hillside, is visible to the right. A crisp piece of railway photography on the Mediterranean coast line.](../images/CPS-France-Banyuls-sur-Mer-South-of-France-01.jpg)
 
-![File:CPS France Banyuls-sur-Mer South of France 02.jpg](../images/CPS-France-Banyuls-sur-Mer-South-of-France-02.jpg)
+![A woman walking towards a small tower above the bay at Banyuls, with the town and mountains beyond.](../images/CPS-France-Banyuls-sur-Mer-South-of-France-02.jpg)
 
-![File:CPS France Banyuls-sur-Mer South of France 03.jpg](../images/CPS-France-Banyuls-sur-Mer-South-of-France-03.jpg)
+![Banyuls-sur-Mer across the bay.](../images/CPS-France-Banyuls-sur-Mer-South-of-France-03.jpg)
 
 ## Elne
 
-![File:CPS France Cathedral of Saint Eulalia and Saint Julia in Elne France 01.jpg](../images/CPS-France-Cathedral-of-Saint-Eulalia-and-Saint-Julia-in-Elne-France-01.jpg)
+![Sunlight in the cloister of Elne Cathedral.](../images/CPS-France-Cathedral-of-Saint-Eulalia-and-Saint-Julia-in-Elne-France-01.jpg)
 
 ## Collioure
 
-![File:CPS France Église Notre-Dame-des-Anges in Collioure 01.jpg](../images/CPS-France-Église-Notre-Dame-des-Anges-in-Collioure-01.jpg)
+![The church of Notre-Dame-des-Anges at Collioure, with its lighthouse tower, and boats on the beach.](../images/CPS-France-Église-Notre-Dame-des-Anges-in-Collioure-01.jpg)
 
 ## See also
 - [Christopher Silver](Christopher-Silver) — main article

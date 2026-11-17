@@ -14,7 +14,7 @@ Three photographs from Vietnam survive in the CPS collection — two unlocated s
 
 ![Fish being dried on wooden racks in front of low buildings with palm trees behind — a coastal or riverside fishing settlement. A characteristically Southeast Asian scene of everyday working life. The scale of the drying racks suggests a significant fishing operation.](../images/CPS-Vietnam-01.jpg)
 
-![File:CPS Vietnam 02.jpg](../images/CPS-Vietnam-02.jpg)
+![Fish drying on racks under palm trees.](../images/CPS-Vietnam-02.jpg)
 
 ## Saigon
 

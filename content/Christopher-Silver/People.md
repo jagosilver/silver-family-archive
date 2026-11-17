@@ -50,6 +50,7 @@ The one group of photographs where identities are at least partially known. CPS 
 ## Remaining People photographs
 
 *The following photographs await identification and description:*
+
 ![People 2 (not yet identified)](../images/CPS-People-02.jpg)
 
 ![People 4 (not yet identified)](../images/CPS-People-04.jpg)

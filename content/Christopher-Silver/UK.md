@@ -22,7 +22,45 @@ CPS was born in Exeter on 21 April 1920. His father [Clifford Marking Silver](Cl
 
 ![A steam locomotive with a passenger coach passes through a station on the Exeter line — a signal box is visible on the left, and a handsome timber-framed station building on the right. Steam and speed captured with a sharp eye.](../images/CPS-UK-Exeter-06.jpg)
 
-*The remaining nineteen Exeter photographs include further garden scenes, interior views, and local subjects. Browse them all: ![CPS UK Exeter 02.jpg](../images/CPS-UK-Exeter-02.jpg), ![CPS UK Exeter 03.jpg](../images/CPS-UK-Exeter-03.jpg), ![CPS UK Exeter 04.jpg](../images/CPS-UK-Exeter-04.jpg), ![CPS UK Exeter 05.jpg](../images/CPS-UK-Exeter-05.jpg), ![CPS UK Exeter 07.jpg](../images/CPS-UK-Exeter-07.jpg), ![CPS UK Exeter 08.jpg](../images/CPS-UK-Exeter-08.jpg), ![CPS UK Exeter 09.jpg](../images/CPS-UK-Exeter-09.jpg), ![CPS UK Exeter 10.jpg](../images/CPS-UK-Exeter-10.jpg), ![CPS UK Exeter 11.jpg](../images/CPS-UK-Exeter-11.jpg), ![CPS UK Exeter 13.jpg](../images/CPS-UK-Exeter-13.jpg), ![CPS UK Exeter 14.jpg](../images/CPS-UK-Exeter-14.jpg), ![CPS UK Exeter 15.jpg](../images/CPS-UK-Exeter-15.jpg), ![CPS UK Exeter 16.jpg](../images/CPS-UK-Exeter-16.jpg), ![CPS UK Exeter 17.jpg](../images/CPS-UK-Exeter-17.jpg), ![CPS UK Exeter 19.jpg](../images/CPS-UK-Exeter-19.jpg), ![CPS UK Exeter 20.jpg](../images/CPS-UK-Exeter-20.jpg), ![CPS UK Exeter 21.jpg](../images/CPS-UK-Exeter-21.jpg), ![CPS UK Exeter 22.jpg](../images/CPS-UK-Exeter-22.jpg), ![CPS UK Exeter 23.jpg](../images/CPS-UK-Exeter-23.jpg).*
+The remaining Exeter photographs: the garden, the greenhouse and the Blitz.
+
+![Daffodils and spring flowers in the rockery at Tresillian.](../images/CPS-UK-Exeter-02.jpg)
+
+![The family sitting out in deckchairs in the garden at Tresillian.](../images/CPS-UK-Exeter-03.jpg)
+
+![Cleared bomb sites in Exeter, probably after the Blitz of 1942, with church towers beyond.](../images/CPS-UK-Exeter-04.jpg)
+
+![Exeter Cathedral's towers seen across cleared ground, probably after the Blitz of 1942.](../images/CPS-UK-Exeter-05.jpg)
+
+![A path winding through the garden at Tresillian.](../images/CPS-UK-Exeter-07.jpg)
+
+![Anemones and a hyacinth in pots on a window ledge.](../images/CPS-UK-Exeter-08.jpg)
+
+![The same anemones, a second exposure.](../images/CPS-UK-Exeter-09.jpg)
+
+![A tortoise beside a model train on its garden track.](../images/CPS-UK-Exeter-10.jpg)
+
+![Crocuses in the rockery.](../images/CPS-UK-Exeter-11.jpg)
+
+![Tresillian from the garden: the roughcast gable, the greenhouse and the long path.](../images/CPS-UK-Exeter-13.jpg)
+
+![Marrows ripening in the vegetable garden.](../images/CPS-UK-Exeter-14.jpg)
+
+![A paved garden path leading to the greenhouse.](../images/CPS-UK-Exeter-15.jpg)
+
+![Two tortoises on the lawn.](../images/CPS-UK-Exeter-16.jpg)
+
+![Primulas in pots on the staging in the greenhouse.](../images/CPS-UK-Exeter-17.jpg)
+
+![A bay-windowed terrace house in Exeter with "To be let" boards outside.](../images/CPS-UK-Exeter-19.jpg)
+
+![A train passing the signal box at an Exeter station, with houses on the hill above.](../images/CPS-UK-Exeter-20.jpg)
+
+![Primulas in the greenhouse, a second view.](../images/CPS-UK-Exeter-21.jpg)
+
+![An aerial photograph of Exeter, rephotographed.](../images/CPS-UK-Exeter-22.jpg)
+
+![Cacti flowering in the greenhouse.](../images/CPS-UK-Exeter-23.jpg)
 
 ## Yorkshire
 
@@ -36,7 +74,7 @@ CPS photographed several of the great ruined abbeys and historic buildings of No
 
 ![Looking inland from the stone pier at Whitby harbour. A handsome stone capstan stands in the foreground; the quayside, bridge, and town stretch away into the distance.](../images/CPS-UK-Whitby-03.jpg)
 
-![File:CPS UK Whitby 04.jpg](../images/CPS-UK-Whitby-04.jpg)
+![The ruins of Whitby Abbey on the clifftop.](../images/CPS-UK-Whitby-04.jpg)
 
 ### Rievaulx Abbey
 
@@ -62,7 +100,7 @@ Rievaulx, in the North York Moors, is one of the finest ruined Cistercian abbeys
 
 ![A low stone bridge over the River Windrush at Bourton-on-the-Water in the Cotswolds, with overhanging willows and the shallow, clear river reflecting the arches. A peaceful, understated composition.](../images/CPS-UK-Bourton-On-The-Water-01.jpg)
 
-![File:CPS UK Bourton On The Water 02.jpg](../images/CPS-UK-Bourton-On-The-Water-02.jpg)
+![A stone cottage above a wooded valley.](../images/CPS-UK-Bourton-On-The-Water-02.jpg)
 
 ### Market Hall, Birmingham
 
@@ -74,7 +112,7 @@ CPS read medicine at Hertford College, Oxford, qualifying in 1942. He photograph
 
 ![The New Building at Magdalen College, Oxford — an expansive Palladian range dating to 1733, seen from across the college grounds. The arcaded ground floor and the long, symmetrical facade are imposing in the morning light.](../images/CPS-UK-Magdalen-College-Oxford-01.jpg)
 
-![File:CPS UK Magdalen College Oxford 02.jpg](../images/CPS-UK-Magdalen-College-Oxford-02.jpg)
+![Statues and climbing plants on a college wall at Magdalen.](../images/CPS-UK-Magdalen-College-Oxford-02.jpg)
 
 ## London
 
@@ -90,7 +128,7 @@ In May 1937 Selfridges on Oxford Street was dressed for the coronation of George
 
 ![Two men lean on the railings above Lyme Regis harbour, watching the yachts and sailing boats moored below. The town and its wooded hills are visible in the background. A leisurely, sociable scene.](../images/CPS-UK-Lyme-Regis-01.jpg)
 
-![File:CPS UK Lyme Regis 02.jpg](../images/CPS-UK-Lyme-Regis-02.jpg)
+![Boats moored in the harbour at Lyme Regis, inside the Cobb.](../images/CPS-UK-Lyme-Regis-02.jpg)
 
 ### Blackingstone Rock, Dartmoor
 
@@ -104,7 +142,23 @@ CPS photographed the interior of a church in Suffolk in considerable detail — 
 
 ![Close-up of a carved wooden bench-end or pew-end in St Andrew's Church, Suffolk: a female head in profile, wearing a decorated headdress, mounted on a shaped finial. Medieval craftsmanship of the highest quality, recorded with great care.](../images/CPS-UK-St-Andrews-Church-Suffolk-01.jpg)
 
-*Eight further Suffolk church photographs: ![CPS UK St Andrews Church Suffolk 02.jpg](../images/CPS-UK-St-Andrews-Church-Suffolk-02.jpg), ![CPS UK St Andrews Church Suffolk 03.jpg](../images/CPS-UK-St-Andrews-Church-Suffolk-03.jpg), ![CPS UK St Andrews Church Suffolk 04.jpg](../images/CPS-UK-St-Andrews-Church-Suffolk-04.jpg), ![CPS UK St Andrews Church Suffolk 05.jpg](../images/CPS-UK-St-Andrews-Church-Suffolk-05.jpg), ![CPS UK St Andrews Church Suffolk 06.jpg](../images/CPS-UK-St-Andrews-Church-Suffolk-06.jpg), ![CPS UK St Andrews Church Suffolk 07.jpg](../images/CPS-UK-St-Andrews-Church-Suffolk-07.jpg), ![CPS UK St Andrews Church Suffolk 08.jpg](../images/CPS-UK-St-Andrews-Church-Suffolk-08.jpg), ![CPS UK St Andrews Church Suffolk 09.jpg](../images/CPS-UK-St-Andrews-Church-Suffolk-09.jpg).*
+*Eight further Suffolk church photographs.*
+
+![A vaulted stone passage with an old oak door.](../images/CPS-UK-St-Andrews-Church-Suffolk-02.jpg)
+
+![A church tower and a timber-framed building among trees.](../images/CPS-UK-St-Andrews-Church-Suffolk-03.jpg)
+
+![A carved bench end with two crowned heads.](../images/CPS-UK-St-Andrews-Church-Suffolk-04.jpg)
+
+![Washing lines across a flat roof among old buildings.](../images/CPS-UK-St-Andrews-Church-Suffolk-05.jpg)
+
+![A carved bench end with two faces.](../images/CPS-UK-St-Andrews-Church-Suffolk-06.jpg)
+
+![A marble tomb effigy in a side chapel.](../images/CPS-UK-St-Andrews-Church-Suffolk-07.jpg)
+
+![Effigies on a canopied tomb.](../images/CPS-UK-St-Andrews-Church-Suffolk-08.jpg)
+
+![The carved bench end with two faces, from closer.](../images/CPS-UK-St-Andrews-Church-Suffolk-09.jpg)
 
 ## The Lake District
 
