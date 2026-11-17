@@ -12,8 +12,36 @@ tags:
 
 ## Family
 
-- **Wife:** Gladys Lucy Silver (née Acott), of an Oxford family of builders and printers, one branch of which settled in Exeter. Her family's history is told in [The Acott Letters](Acott-Letters), written in 1942 by Edwin Acott to his niece Muriel; Gladys was most likely Muriel's sister, though that is not yet confirmed. Her birthday was 23 June: David wrote to wish her "Many happy returns" from school (in c. 1939 and 1942).
-- **Children:** James Clifford, Lavender Charlotte, Philip Sidney, [Christopher Patrick](Christopher-Silver/) (21 April 1920 – 12 November 2012), [David Rodney](David-Silver/) (2 January 1924 – 19 April 2003) and Rosemary.
+- **Wife:** Gladys Lucy Silver (née Acott), of an Oxford family of builders and printers, one branch of which settled in Exeter. Her family's history is told in [The Acott Letters](Acott-Letters), written in 1942 by Edwin Acott to his niece Muriel; Gladys was Muriel's younger sister, both daughters of Rupert Philip Acott of Mona Lodge, Exeter (see [The Acott Family](Acott-Family/)). Her birthday was 23 June: David wrote to wish her "Many happy returns" from school (in c. 1939 and 1942).
+- **Children:** [James Clifford](James-Clifford-Silver/), [Lavender Charlotte](Lavender-Silver/), [Philip Sidney](Philip-Silver/), [Christopher Patrick](Christopher-Silver/) (21 April 1920 – 12 November 2012), [David Rodney](David-Silver/) (2 January 1924 – 19 April 2003) and Rosemary.
+
+## From the family photographs
+
+David Silver saved his parents' photographs from their house in Velwell Road, and in 1998–99 wrote what he knew on the backs. Unlabelled prints were identified by Tamsin and Andy Titcomb in 2026. They add:
+
+- Clifford was born in **1880**, the son of **James Silver** (1814–1885).
+- He trained at the **Royal Dental Hospital, Leicester Square**, about 1905–06, and practised at **3 Bedford Circus "until 1942"**.
+- He was engaged to Gladys Lucy Acott around 1905, when he photographed her grandmother's room at Mona Lodge.
+- He served in the **Exeter Volunteers** in the First World War: "meant to be available & I think even in France if everything got to a terrible state. It never did — we won in both wars." (David)
+- In about 1932 he drove through the **watersplash at Yettington**, and in 1936 he bought a new **Austin, AFJ 960**, which was sold before the Blitz.
+
+![James Silver (1814–1885), Clifford's father: “James Silver (my grandfather (David's)) 1814–1885”.](../images/OSP-James-Silver-1814-1885.jpg)
+
+![Students of the Royal Dental Hospital, Leicester Square, about 1905–06. Clifford is behind and to the right of the man with the umbrella, with a moustache and glasses.](../images/OSP-Royal-Dental-Hospital-students.jpg)
+
+![The wedding of Clifford Marking Silver and Gladys Lucy Acott, about 1906–09.](../images/OSP-Clifford-and-Gladys-wedding.jpg)
+
+![The Exeter Volunteers in the First World War. Clifford is fourth from the right in the back row, wearing glasses.](../images/OSP-Exeter-Volunteers-WWI.jpg)
+
+![Clifford in uniform with his rifle in the garden. Tamsin and Andy identified this as Clifford in the Home Guard; the uniform, puttees and webbing look like the First World War, so it may be the Volunteers.](../images/OSP-Clifford-in-uniform.jpg)
+
+![The family on a beach, about 1926: Philip, Lavender, James, Gladys and Clifford, with David and Christopher in front.](../images/OSP-Silver-family-beach-c1926.jpg)
+
+![“Going through the watersplash. About 1932 or 33. CM Silver's car at Yettington.”](../images/OSP-Yettington-watersplash.jpg)
+
+![Clifford and James walking back to the new Austin, AFJ 960, near Steps Bridge, about 1936–39: “I took this photograph of my father and I think James… after either getting river sand or rolling moss.” (David)](../images/OSP-Clifford-and-James-Austin.jpg)
+
+![The family at the dinner table, photographed by Christopher. David and his father Clifford are among them.](../images/OSP-Silver-family-at-dinner.jpg)
 
 ## The dental practice
 

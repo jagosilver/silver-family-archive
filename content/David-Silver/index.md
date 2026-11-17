@@ -12,7 +12,7 @@ tags:
 
 **David Rodney Silver** (2 January 1924 – 19 April 2003) was an architect, a wartime RAF engine fitter and, by his grandson's account, a frustrated artist. He was born in Exeter, the son of the dentist [Clifford Marking Silver](Clifford-Marking-Silver/) and [Gladys Lucy Silver (née Acott)](Gladys-Silver/), and grew up at Tresillian in West Avenue. He boarded at King's School, Bruton, from 1937 to 1942, spent a couple of terms at Exeter School of Art, and then served four years in the RAF, overhauling and test-running Merlin engines. After demob in 1947 he trained at the Bristol School of Architecture, where he met [Anthea Leigh](Anthea-Silver/); they married at the end of 1952. He spent most of his career as an architect in the civil service, and in retirement he and Anthea lived in Wadebridge, Cornwall, where he went to watercolour classes and filled his letters with pen sketches. He was Jago Silver's maternal grandfather, known to the family as **Grandpa**.
 
-**Family.** Parents: [Clifford](Clifford-Marking-Silver/) and [Gladys](Gladys-Silver/). Brothers and sisters: James, Lavender, Philip, [Christopher](Christopher-Silver/) and Rosemary. Wife: [Anthea](Anthea-Silver/). Three daughters. Grandson: [Jago](Jago-Silver/).
+**Family.** Parents: [Clifford](Clifford-Marking-Silver/) and [Gladys](Gladys-Silver/). Brothers and sisters: [James](James-Clifford-Silver/), [Lavender](Lavender-Silver/), [Philip](Philip-Silver/), [Christopher](Christopher-Silver/) and Rosemary. Wife: [Anthea](Anthea-Silver/). Three daughters. Grandson: [Jago](Jago-Silver/).
 
 → The full biography, with his paintings, sketches and letters to his grandson: **[David Silver: biography](David-Silver/Biography)**
 
@@ -44,4 +44,16 @@ tags:
 
 - His brother Christopher photographed him as a young man: [People](Christopher-Silver/People).
 - Anthea's memoir of her Topsham childhood: [A Topsham Childhood](A-Topsham-Childhood).
-- His mother's family: [The Acott Letters (1942)](Acott-Letters).
+- His mother's family: [The Acott Family](Acott-Family/) and [The Acott Letters (1942)](Acott-Letters).
+
+## Childhood photographs
+
+![David (left) and Christopher as small children, late 1920s.](../images/OSP-David-and-Christopher.jpg)
+
+![David as a boy, 1930s.](../images/OSP-David-Silver-boy.jpg)
+
+![The family on a beach, about 1926: Philip, Lavender, James, Gladys and Clifford, with David, aged about two, and Christopher in front.](../images/OSP-Silver-family-beach-c1926.jpg)
+
+![The Silver children on a Cornish summer holiday at Treknow, 1930s. “We went to Treknow the last time in 1940.” (David)](../images/OSP-Silver-children-Cornwall.jpg)
+
+*From the Old Silver photos collection; unlabelled prints identified by Tamsin and Andy Titcomb, 2026.*

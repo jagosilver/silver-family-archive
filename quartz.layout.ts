@@ -41,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer({
       // people in family order, then each folder's pages by the first year in their title
       sortFn: (a, b) => {
-        const order = ["Clifford-Marking-Silver", "Gladys-Silver", "Christopher-Silver", "David-Silver",
+        const order = ["Clifford-Marking-Silver", "Gladys-Silver", "Acott-Family", "James-Clifford-Silver", "Lavender-Silver", "Philip-Silver", "Christopher-Silver", "David-Silver",
           "Anthea-Silver", "Jago-Silver", "Places", "Biography", "A-Topsham-Childhood",
           "UK", "Cornwall", "Wales", "Ireland", "France", "People", "India", "Vietnam", "Canada", "USA", "Letters"]
         // no named helpers here: the function is serialised, and esbuild would wrap them in __name()
@@ -81,7 +81,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer({
       // people in family order, then each folder's pages by the first year in their title
       sortFn: (a, b) => {
-        const order = ["Clifford-Marking-Silver", "Gladys-Silver", "Christopher-Silver", "David-Silver",
+        const order = ["Clifford-Marking-Silver", "Gladys-Silver", "Acott-Family", "James-Clifford-Silver", "Lavender-Silver", "Philip-Silver", "Christopher-Silver", "David-Silver",
           "Anthea-Silver", "Jago-Silver", "Places", "Biography", "A-Topsham-Childhood",
           "UK", "Cornwall", "Wales", "Ireland", "France", "People", "India", "Vietnam", "Canada", "USA", "Letters"]
         // no named helpers here: the function is serialised, and esbuild would wrap them in __name()

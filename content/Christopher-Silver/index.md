@@ -11,7 +11,7 @@ tags:
 
 **Christopher Patrick Silver** (21 April 1920 – 12 November 2012) was a geriatrician in the East End of London and a lifelong photographer. He was born in Exeter, the son of the dentist [Clifford Marking Silver](Clifford-Marking-Silver/) and [Gladys Lucy Silver (née Acott)](Gladys-Silver/), and was educated at King's School, Bruton, and Hertford College, Oxford, qualifying in medicine in 1942. He served with the RAMC in North Africa, Italy and India, broke a leg in the blackout in Italy, and was demobilised in 1946 as a temporary major. From 1961 he was a consultant geriatrician at St Matthew's, Shoreditch, and later at the London Hospital, where he modernised the care of the elderly in Tower Hamlets and devised **Silver's test** of cognitive ability. In retirement he wrote a history of Brunel's Crimean War hospital, *Renkioi* (2007). His glass plates and Kodachrome slides, 229 of which survive, are the heart of this archive. The family called him "Fluffy"; to his brother David he was "Kit".
 
-**Family.** Parents: [Clifford](Clifford-Marking-Silver/) and [Gladys](Gladys-Silver/). Brothers and sisters: James, Lavender, Philip, [David](David-Silver/) and Rosemary. Wife: Nancy Silver (née Pym), classicist and headmistress. Four children. Great-nephew: [Jago](Jago-Silver/).
+**Family.** Parents: [Clifford](Clifford-Marking-Silver/) and [Gladys](Gladys-Silver/). Brothers and sisters: [James](James-Clifford-Silver/), [Lavender](Lavender-Silver/), [Philip](Philip-Silver/), [David](David-Silver/) and Rosemary. Wife: Nancy Silver (née Pym), classicist and headmistress. Four children. Great-nephew: [Jago](Jago-Silver/).
 
 → The full biography and the photography archive: **[Christopher Patrick Silver: biography and photographs](Christopher-Silver/Biography)**
 
@@ -28,4 +28,5 @@ tags:
 - **1961** · The North America tour in Kodachrome: [Canada](Christopher-Silver/Canada) and [USA](Christopher-Silver/USA).
 - **1998–2006** · [Letters to his great-nephew Jago](Christopher-Silver/Letters): photography, the Exacta camera and the Renkioi montage.
 - **2007** · [Published work](Christopher-Silver/Biography#published-work): *Renkioi: Brunel's forgotten Crimean war hospital*.
+- **1920s–1930s** · Childhood photographs with his brother David, on [David's page](David-Silver/#childhood-photographs).
 - **Undated** · Glass plates from holidays: [Cornwall](Christopher-Silver/Cornwall), [Wales](Christopher-Silver/Wales), [Ireland](Christopher-Silver/Ireland) and [France](Christopher-Silver/France).

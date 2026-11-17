@@ -16,6 +16,10 @@ Each person has a hub page with a short biography and every page about them, in 
 | --- | --- |
 | [Clifford Marking Silver](Clifford-Marking-Silver/) | Exeter dentist, of Tresillian, West Avenue |
 | [Gladys Silver (née Acott)](Gladys-Silver/) | his wife, of the Acotts of Oxford |
+| [The Acott Family](Acott-Family/) | Gladys's family: Oxford printers and Exeter drapers, 1781–1941 |
+| [James Clifford Silver](James-Clifford-Silver/) (1910–1966) | their eldest son, of Moral Re-Armament at Tirley Garth |
+| [Lavender Silver](Lavender-Silver/) | their elder daughter, who served in the ATS |
+| [Philip Silver](Philip-Silver/) (b. 1915) | their son, a doctor |
 | [Christopher Patrick Silver](Christopher-Silver/) (1920–2012) | their son: geriatrician, soldier, photographer |
 | [David Silver](David-Silver/) (1924–2003) | their son: architect, RAF engine fitter, artist |
 | [Anthea Silver (née Leigh)](Anthea-Silver/) (1928–2009) | David's wife: architect, artist, memoirist of Topsham |
@@ -109,7 +113,7 @@ In a summer vacation, probably 1951, he also rode his new motorbike alone around
 
 In 1942 Edwin Acott, a retired Great Western Railway clerk, wrote two long letters to his niece Muriel in Exeter. They trace the Acott family back to Edward Acott, an Oxford builder born in 1781, and the Baker yeoman farmers of Bampton. Along the way come a printer who blew off his thumb with a powder flask, a New Zealand newspaper, an Anglo-Saxon dictionary, a blind carthorse called Tom, and Edwin's own Victorian Oxford boyhood. These are the forebears of Gladys Lucy Acott, mother of David and Christopher Silver.
 
-→ [Read the letters](Acott-Letters)
+→ [Read the letters](Acott-Letters) · [Meet the Acott family, with their photographs](Acott-Family/) · [Edgar Acott's letters of 1874–76](Acott-Family/Edgar-Vernon-Acott)
 
 ---
 
