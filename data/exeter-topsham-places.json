@@ -421,6 +421,43 @@
     "Acott Family",
     "Topsham"
    ]
+  },
+  {
+   "id": "jenin-cottage",
+   "name": "Jenin Cottage",
+   "area": "Topsham",
+   "lat": 50.686461,
+   "lon": -3.468176,
+   "years": "?–c.1984",
+   "kind": "home",
+   "public": false,
+   "public_text": "",
+   "vault_text": "David and Anthea Silver's home in Topsham, off the High Street, before they moved to Westleigh, Wadebridge, c. 1984. Andy rebuilt the workshop here.",
+   "site": [],
+   "vault": [
+    "Jenin Cottage",
+    "Anthea Silver",
+    "David Silver"
+   ]
+  },
+  {
+   "id": "43-strand",
+   "name": "43 The Strand (Reka Dom), Flats A and B",
+   "area": "Topsham",
+   "lat": 50.677648,
+   "lon": -3.46175,
+   "years": "c.1975–1990",
+   "kind": "home",
+   "public": false,
+   "public_text": "",
+   "vault_text": "43 The Strand, EX3 0AY. Andy and Tamsin rented Flat A before Jago was born, then Flat B (43B) from 1979 until the move to Cornwall, Oct 1990. Jago's childhood home.",
+   "site": [],
+   "vault": [
+    "The Strand, Topsham",
+    "Tamsin Titcomb",
+    "Andy Titcomb",
+    "Jago Silver"
+   ]
   }
  ]
 }
