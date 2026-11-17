@@ -499,15 +499,14 @@
   },
   {
    "id": "first-school",
-   "name": "Topsham First School",
+   "name": "Topsham First School, Majorfield Road",
    "area": "Topsham",
    "lat": 50.6841,
    "lon": -3.4647,
-   "approx": true,
    "years": "1984–1988",
    "kind": "school",
-   "public_text": "Jago's first school, 1984–88. His grandmother Anthea, an architecture graduate, was involved in its design in some way. Shown at the listed Topsham Infant School on Majorfield Road; the exact site isn't confirmed.",
-   "vault_text": "Jago's first school (Sep 1984–Jul 1988); Anthea involved in the design somehow; Tamsin painted the playground alphabet mural. Shown at the listed Topsham Infant School, Majorfield Road; site not confirmed.",
+   "public_text": "Jago's first school, 1984–88, in the old Quaker meeting house on Majorfield Road (a school since 1852). His grandmother Anthea, an architecture graduate, was involved in its design in some way, and his great-grandmother Edith Leigh lived two doors along.",
+   "vault_text": "Jago's first school (Sep 1984–Jul 1988), Majorfield Road (listed Topsham Infant School, former Quaker meeting house); Anthea involved in the design somehow; Tamsin painted the playground alphabet mural. Owl Granny lived two houses away.",
    "site": [
     [
      "Anthea Silver",
@@ -517,7 +516,30 @@
    "vault": [
     "Topsham First School",
     "Anthea Silver",
-    "Topsham School Photos (1984–1991)"
+    "Topsham School Photos (1984–1991)",
+    "Edith Irene Leigh"
+   ]
+  },
+  {
+   "id": "owl-granny",
+   "name": "Owl Granny's house, Majorfield Road",
+   "area": "Topsham",
+   "lat": 50.6838,
+   "lon": -3.4645,
+   "approx": true,
+   "years": "1980s",
+   "kind": "home",
+   "public_text": "Edith Leigh (\"Owl Granny\") lived two houses from Topsham First School. Jago walked round to her for \"home lunch\": steak and kidney pie, then apple pie. Which house isn't recorded; position approximate.",
+   "vault_text": "Edith Irene Leigh's home in the 1980s, two houses from Topsham First School on Majorfield Road; Jago's \"home lunch\" from Sep 1984. Exact house not recorded.",
+   "site": [
+    [
+     "A Topsham Childhood",
+     "A-Topsham-Childhood"
+    ]
+   ],
+   "vault": [
+    "Edith Irene Leigh",
+    "Topsham First School"
    ]
   }
  ]
