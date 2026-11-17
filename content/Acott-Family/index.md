@@ -10,6 +10,8 @@ tags:
 
 ![Mona Lodge, Lyndhurst Road, Exeter: Rupert Philip Acott's house and Gladys's childhood home, with lions on the gateposts.](../images/OSP-Mona-Lodge.jpg)
 
+![Mona Lodge in 2022, still standing in Lyndhurst Road and now painted white. *Image: Google Street View, 2022.*](../images/Mona-Lodge-2022.jpg)
+
 The **Acotts** were an Oxford family of builders, printers and tradesmen. One branch settled in Exeter, where **Gladys Lucy Acott** grew up and married the dentist [Clifford Marking Silver](Clifford-Marking-Silver/). Most of what is known about them comes from two sources: Edwin Acott's [family-history letters of 1942](Acott-Letters), and the photographs that [David Silver](David-Silver/) saved from his parents' house in Velwell Road, Exeter, "when my mother died". In 1998–99 David wrote what he knew on the backs of those photographs, some of them addressed "For Tamsin, Bridget & Candy", his three daughters. This page gathers the people, in order of generation, with their pictures.
 
 ---
