@@ -10,9 +10,9 @@ tags:
 
 Every place in Exeter and Topsham that appears in these pages, from the Acotts' Mona Lodge and the Silvers' Tresillian to Anthea Leigh's childhood homes by the Exe. Click a numbered marker for the story and the pages about it. A hollow marker means the position is approximate. The map is rebuilt whenever new places turn up in the archive.
 
-<iframe src="../maps/exeter-topsham.html" title="Interactive map of family places in Exeter and Topsham" style="width:100%;height:600px;border:1px solid #ccc;border-radius:6px" loading="lazy"></iframe>
+<iframe src="https://jagosilver.github.io/silver-family-archive/static/maps/exeter-topsham.html" title="Interactive map of family places in Exeter and Topsham" style="width:100%;height:600px;border:1px solid #ccc;border-radius:6px" loading="lazy"></iframe>
 
-*[Open the map full screen](../maps/exeter-topsham.html)*
+*[Open the map full screen](https://jagosilver.github.io/silver-family-archive/static/maps/exeter-topsham.html)*
 
 ## The places
 

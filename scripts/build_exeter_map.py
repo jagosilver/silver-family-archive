@@ -3,7 +3,7 @@
     python3 scripts/build_exeter_map.py
 
 Writes, every run (safe to re-run):
-  site   content/maps/exeter-topsham.html          interactive Leaflet map (public places only)
+  site   quartz/static/maps/exeter-topsham.html    interactive Leaflet map (public places only)
          content/images/Exeter-Topsham-map.jpg, Topsham-map.jpg   static numbered maps (public only)
          content/Places/Exeter-and-Topsham-Map.md  the site page: map + numbered table
   vault  attachments/Exeter and Topsham family map.jpg, Topsham family map.jpg   (all places)
@@ -31,6 +31,7 @@ CACHE = os.path.expanduser("~/.cache/silver-map-tiles")
 SITE_PAGE = "Places/Exeter-and-Topsham-Map"
 VAULT_NOTE = "Exeter and Topsham Family Map"
 LIVE_URL = "https://jagosilver.github.io/silver-family-archive/" + SITE_PAGE
+MAP_URL = "https://jagosilver.github.io/silver-family-archive/static/maps/exeter-topsham.html"
 ZOOM = 14
 UA = "silver-family-archive-map-builder/1.0 (personal family history site)"
 
@@ -129,7 +130,7 @@ def build_site():
 
     feats = []
     for n, p in zip(nums, public):
-        links = " · ".join(f'<a href="../{s}" target="_top">{t}</a>' for t, s in p["site"])
+        links = " · ".join(f'<a href="../../{s}" target="_top">{t}</a>' for t, s in p["site"])
         feats.append({"n": n, "lat": p["lat"], "lon": p["lon"], "approx": bool(p.get("approx")),
                       "name": p["name"], "area": p["area"], "years": p["years"],
                       "text": p["public_text"], "links": links})
@@ -159,8 +160,11 @@ for (const p of places) {
 map.fitBounds(b, {padding: [30, 30]});
 </script></body></html>
 """
-    os.makedirs(os.path.join(SITE, "content/maps"), exist_ok=True)
-    open(os.path.join(SITE, "content/maps/exeter-topsham.html"), "w").write(html)
+    # quartz/static is copied verbatim (content/ assets get their .html stripped and are served
+    # as octet-stream, which breaks the iframe), and the iframe uses an absolute URL so Quartz
+    # does not rewrite it.
+    os.makedirs(os.path.join(SITE, "quartz/static/maps"), exist_ok=True)
+    open(os.path.join(SITE, "quartz/static/maps/exeter-topsham.html"), "w").write(html)
 
     rows = []
     for n, p in zip(nums, public):
@@ -179,9 +183,9 @@ tags:
 
 Every place in Exeter and Topsham that appears in these pages, from the Acotts' Mona Lodge and the Silvers' Tresillian to Anthea Leigh's childhood homes by the Exe. Click a numbered marker for the story and the pages about it. A hollow marker means the position is approximate. The map is rebuilt whenever new places turn up in the archive.
 
-<iframe src="../maps/exeter-topsham.html" title="Interactive map of family places in Exeter and Topsham" style="width:100%;height:600px;border:1px solid #ccc;border-radius:6px" loading="lazy"></iframe>
+<iframe src="{MAP_URL}" title="Interactive map of family places in Exeter and Topsham" style="width:100%;height:600px;border:1px solid #ccc;border-radius:6px" loading="lazy"></iframe>
 
-*[Open the map full screen](../maps/exeter-topsham.html)*
+*[Open the map full screen]({MAP_URL})*
 
 ## The places
 
