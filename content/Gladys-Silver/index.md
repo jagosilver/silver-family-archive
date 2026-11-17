@@ -38,6 +38,6 @@ More of her family, with their photographs, is on [The Acott Family](Acott-Famil
 - **c. 1906–09** · [Her wedding to Clifford](Clifford-Marking-Silver/#family-photographs).
 - **1916** · [With her parents, sisters and first three children](Acott-Family/#rupert-philip-acott-18531941-and-charlotte-rowell) in the garden.
 - **1937–1942** · [The Bruton Letters](Bruton-Letters): David's letters home, addressed to "Mrs G. L. Silver" as often as to his father.
-- **1942** · [The Exeter Blitz](Clifford-Marking-Silver/Biography#the-exeter-blitz) at Tresillian.
+- **1942** · [The Exeter Blitz](Clifford-Marking-Silver/#the-exeter-blitz) at Tresillian.
 - **1943–1947** · [Letters from the RAF](David-Silver/RAF-Letters/): David's letters home.
 - **1947–1953** · [Letters from Bristol](Bristol-Letters): David's letters home, including his news that he and Anthea are to marry.

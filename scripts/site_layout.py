@@ -23,7 +23,7 @@ MOVES = {
     "France-Letters": "David-Silver/France-Letters",
     **{s: "David-Silver/RAF-Letters/" + s for s in RAF},
     "Anthea-Silver": "Anthea-Silver/A-Topsham-Childhood",
-    "Clifford-Marking-Silver": "Clifford-Marking-Silver/Biography",
+    "Clifford-Marking-Silver": "Clifford-Marking-Silver/index",  # biography merged into the hub, 17 Nov 2026
     "Acott-Letters": "Gladys-Silver/Acott-Letters",
     "Christopher-Silver/index": "Christopher-Silver/Biography",
     "Trip-on-the-River": "Jago-Silver/Trip-on-the-River",
@@ -58,7 +58,7 @@ def fix_links(text):
     file names (Bruton-Letters etc.) still resolve through Quartz's shortest-path links."""
     for person, bio in (("David-Silver", "David-Silver/Biography"),
                         ("Anthea-Silver", "Anthea-Silver/A-Topsham-Childhood"),
-                        ("Clifford-Marking-Silver", "Clifford-Marking-Silver/Biography")):
+                        ("Clifford-Marking-Silver", "Clifford-Marking-Silver/")):
         text = re.sub(r"\]\((?:\.\./)?%s#" % person, "](%s#" % bio, text)
         text = re.sub(r"\]\((?:\.\./)?%s\)" % person, "](%s/)" % person, text)
     text = text.replace("](Christopher-Silver/#", "](Christopher-Silver/Biography#")
