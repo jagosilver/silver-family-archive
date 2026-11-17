@@ -16,12 +16,26 @@ tags:
 
 ---
 
+## Family photographs
+
+![The wedding of Clifford Marking Silver and Gladys Lucy Acott, about 1906–09.](../images/OSP-Clifford-and-Gladys-wedding.jpg)
+
+![Mona Lodge, Lyndhurst Road, Exeter: Gladys's childhood home.](../images/OSP-Mona-Lodge.jpg)
+
+![1916: Gladys with her parents Rupert and Charlotte Acott, her sisters Muriel and Dorothy, and her children James, Lavender and Philip.](../images/OSP-Acott-Silver-group-1916.jpg)
+
+![The family on a beach, about 1926: Philip, Lavender, James, Gladys and Clifford, with David and Christopher in front.](../images/OSP-Silver-family-beach-c1926.jpg)
+
+More of her family, with their photographs, is on [The Acott Family](Acott-Family/).
+
+---
+
 ## Pages, in date order
 
 - **1781 onwards** · [The Acott Letters](Acott-Letters): Edwin Acott's two 1942 letters to his niece Muriel (Gladys's sister) on the family history, from Edward Acott, an Oxford builder born in 1781, to Edwin's Victorian Oxford boyhood.
 - **1874–1876** · [Letters from Edgar Vernon Acott](Acott-Family/Edgar-Vernon-Acott), her uncle, to her father Rupert and her mother Charlotte.
 - **c. 1905** · [Her grandmother's room at Mona Lodge](Acott-Family/#rupert-philip-acott-18531941-and-charlotte-rowell), photographed by Clifford when they were engaged.
-- **c. 1906–09** · [Her wedding to Clifford](Clifford-Marking-Silver/Biography#from-the-family-photographs).
+- **c. 1906–09** · [Her wedding to Clifford](Clifford-Marking-Silver/#family-photographs).
 - **1916** · [With her parents, sisters and first three children](Acott-Family/#rupert-philip-acott-18531941-and-charlotte-rowell) in the garden.
 - **1937–1942** · [The Bruton Letters](Bruton-Letters): David's letters home, addressed to "Mrs G. L. Silver" as often as to his father.
 - **1942** · [The Exeter Blitz](Clifford-Marking-Silver/Biography#the-exeter-blitz) at Tresillian.

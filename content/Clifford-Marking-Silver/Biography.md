@@ -25,23 +25,7 @@ David Silver saved his parents' photographs from their house in Velwell Road, an
 - He served in the **Exeter Volunteers** in the First World War: "meant to be available & I think even in France if everything got to a terrible state. It never did — we won in both wars." (David)
 - In about 1932 he drove through the **watersplash at Yettington**, and in 1936 he bought a new **Austin, AFJ 960**, which was sold before the Blitz.
 
-![James Silver (1814–1885), Clifford's father: “James Silver (my grandfather (David's)) 1814–1885”.](../images/OSP-James-Silver-1814-1885.jpg)
-
-![Students of the Royal Dental Hospital, Leicester Square, about 1905–06. Clifford is behind and to the right of the man with the umbrella, with a moustache and glasses.](../images/OSP-Royal-Dental-Hospital-students.jpg)
-
-![The wedding of Clifford Marking Silver and Gladys Lucy Acott, about 1906–09.](../images/OSP-Clifford-and-Gladys-wedding.jpg)
-
-![The Exeter Volunteers in the First World War. Clifford is fourth from the right in the back row, wearing glasses.](../images/OSP-Exeter-Volunteers-WWI.jpg)
-
-![Clifford in uniform with his rifle in the garden. Tamsin and Andy identified this as Clifford in the Home Guard; the uniform, puttees and webbing look like the First World War, so it may be the Volunteers.](../images/OSP-Clifford-in-uniform.jpg)
-
-![The family on a beach, about 1926: Philip, Lavender, James, Gladys and Clifford, with David and Christopher in front.](../images/OSP-Silver-family-beach-c1926.jpg)
-
-![“Going through the watersplash. About 1932 or 33. CM Silver's car at Yettington.”](../images/OSP-Yettington-watersplash.jpg)
-
-![Clifford and James walking back to the new Austin, AFJ 960, near Steps Bridge, about 1936–39: “I took this photograph of my father and I think James… after either getting river sand or rolling moss.” (David)](../images/OSP-Clifford-and-James-Austin.jpg)
-
-![The family at the dinner table, photographed by Christopher. David and his father Clifford are among them.](../images/OSP-Silver-family-at-dinner.jpg)
+The photographs themselves are on [Clifford's main page](Clifford-Marking-Silver/#family-photographs).
 
 ## The dental practice
 
