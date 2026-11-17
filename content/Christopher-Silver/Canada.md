@@ -10,6 +10,24 @@ tags:
 
 The Canadian photographs were taken in **1961** on Kodachrome colour film — vivid, warm-toned slides that capture the full sweep of a trans-Canada road journey. CPS was 41 that year. The route appears to have taken him and his wife Nancy from the Atlantic coast (Halifax, Nova Scotia) westward through Ontario (Toronto, Niagara) and the prairies (Regina, Saskatchewan) to the Pacific coast of British Columbia, including the Fraser Canyon, the North Thompson River valley, Vancouver, and Victoria. These are among the most visually striking photographs in the collection, benefiting from the exceptional colour fidelity of Kodachrome 1961 film.
 
+## The route
+
+Christopher made a lantern slide of the whole journey, drawn in heavy black lines over a railway map of North America: Halifax, Quebec, Montreal and Toronto, then west by Winnipeg and Edmonton to Vancouver, and home through the United States by Salt Lake City, Denver, Kansas City, Washington and New York. A second, hand-drawn slide maps the capture of Quebec in 1759. He may have shown both at talks about the trip.
+
+![The 1961 route drawn on a railway map of North America: Halifax, Quebec, Montreal, Toronto, Edmonton and Vancouver in Canada, then Salt Lake City, Denver, Kansas City, Washington and New York in the United States.](../images/CPS-Canada-06.jpg)
+
+![A hand-drawn lantern slide: "Capture of Quebec. Battle on Heights of Abraham, 13 Sept. 1759", showing the British and French advances, the Anse au Foulon, Montcalm's headquarters and the River St Lawrence.](../images/CPS-Canada-05.jpg)
+
+## Travelling
+
+![A stainless-steel dome car of a transcontinental train at a station platform in the Rockies, with snowy peaks and pines beyond.](../images/CPS-Canada-03.jpg)
+
+![On the deck of a ferry among the islands off British Columbia: passengers at the rail, with a lighthouse and wooded islands across the water.](../images/CPS-Canada-01.jpg)
+
+![A lifeboat on its davits on the same ferry, with island hills across the water.](../images/CPS-Canada-02.jpg)
+
+![Passengers silhouetted against the windows of an airport departure lounge, with an airliner on the apron outside.](../images/CPS-Canada-04.jpg)
+
 ## Nova Scotia — Halifax
 
 ![An indoor ice rink in Halifax, Nova Scotia — skaters of all ages on the ice, with a large modernist glass-and-steel pavilion building behind. Spectators watch from a raised concourse. Lively and very 1960s in feel.](../images/CPS-Canada-Novia-Scotia---Halifax-01.jpg)

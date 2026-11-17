@@ -10,7 +10,7 @@ tags:
 
 The People photographs form one of the most intriguing and frustrating parts of the collection. Twenty-three photographs survive showing individuals and groups (with thirty-eight further unidentified plates at the end of the page) — family members, friends, medical colleagues, and strangers on a promenade. The identities of most subjects are unknown. As Basil Macdonald noted when sending the scans: *"I'd really like to know who everybody is as I can only guess three or four people."*
 
-Some tentative identifications are offered below, but all should be treated as provisional. If you recognise anyone, please add notes to the discussion page.
+Some tentative identifications are offered below, but all should be treated as provisional. If you recognise anyone, please [tell us](https://github.com/jagosilver/silver-family-archive/issues/new?title=Photo%20identification%3A%20People) (see *How to help* at the end of the page).
 
 ## Portraits — Christopher Silver
 .
@@ -50,129 +50,131 @@ The one group of photographs where identities are at least partially known. CPS 
 ## Remaining People photographs
 
 *The following photographs await identification and description:*
-![File:CPS People 02.jpg](../images/CPS-People-02.jpg)
+![People 2 (not yet identified)](../images/CPS-People-02.jpg)
 
-![File:CPS People 04.jpg](../images/CPS-People-04.jpg)
+![People 4 (not yet identified)](../images/CPS-People-04.jpg)
 
-![File:CPS People 05.jpg](../images/CPS-People-05.jpg)
+![People 5 (not yet identified)](../images/CPS-People-05.jpg)
 
-![File:CPS People 07.jpg](../images/CPS-People-07.jpg)
+![People 7 (not yet identified)](../images/CPS-People-07.jpg)
 
-![File:CPS People 08.jpg](../images/CPS-People-08.jpg)
+![People 8 (not yet identified)](../images/CPS-People-08.jpg)
 
-![File:CPS People 10.jpg](../images/CPS-People-10.jpg)
+![People 10 (not yet identified)](../images/CPS-People-10.jpg)
 
-![File:CPS People 12.jpg](../images/CPS-People-12.jpg)
+![People 12 (not yet identified)](../images/CPS-People-12.jpg)
 
-![File:CPS People 13.jpg](../images/CPS-People-13.jpg)
+![People 13 (not yet identified)](../images/CPS-People-13.jpg)
 
-![File:CPS People 15.jpg](../images/CPS-People-15.jpg)
+![People 15 (not yet identified)](../images/CPS-People-15.jpg)
 
-![File:CPS People 16.jpg](../images/CPS-People-16.jpg)
+![People 16 (not yet identified)](../images/CPS-People-16.jpg)
 
-![File:CPS People 18.jpg](../images/CPS-People-18.jpg)
+![People 18 (not yet identified)](../images/CPS-People-18.jpg)
 
-![File:CPS People 19.jpg](../images/CPS-People-19.jpg)
+![People 19 (not yet identified)](../images/CPS-People-19.jpg)
 
-![File:CPS People 20.jpg](../images/CPS-People-20.jpg)
+![People 20 (not yet identified)](../images/CPS-People-20.jpg)
 
-![File:CPS People 21.jpg](../images/CPS-People-21.jpg)
+![People 21 (not yet identified)](../images/CPS-People-21.jpg)
 
 ## Unidentified photographs
 
-Thirty-eight more of Christopher's plates and slides are of people, places or objects that nobody has yet identified. Most are not portraits, but they are grouped here so they can be seen. If you recognise a place or a face, please say. Numbers are the scan numbers (CPS-Unknown-01 to 38).
+Thirty-eight more of Christopher's plates and slides are of people, places or objects that nobody has yet identified. Most are not portraits, but they are grouped here so they can be seen. If you recognise a place or a face, please say. Each caption starts with its number, from Unknown 1 to Unknown 38, so it can be referred to.
 
 ### People
 
-![17. Two women in regional costume, one in a lace bonnet, holding up a patterned cloth.](../images/CPS-Unknown-17.jpg)
+![Unknown 17: Two women in regional costume, one in a lace bonnet, holding up a patterned cloth.](../images/CPS-Unknown-17.jpg)
 
-![21. A hospital ward or ward schoolroom, with children at desks and a nurse.](../images/CPS-Unknown-21.jpg)
+![Unknown 21: A hospital ward or ward schoolroom, with children at desks and a nurse.](../images/CPS-Unknown-21.jpg)
 
 ### Medical and X-ray plates
 
-![2. A histopathology slide seen through the microscope: one of Christopher's medical specimens, which turned up among the glass plates.](../images/CPS-Unknown-02.jpg)
+![Unknown 2: A histopathology slide seen through the microscope: one of Christopher's medical specimens, which turned up among the glass plates.](../images/CPS-Unknown-02.jpg)
 
-![14. An X-ray film beside a room interior: two images on one plate.](../images/CPS-Unknown-14.jpg)
+![Unknown 14: An X-ray film beside a room interior: two images on one plate.](../images/CPS-Unknown-14.jpg)
 
-![15. An X-ray of a long bone beside a room interior: two images on one plate.](../images/CPS-Unknown-15.jpg)
+![Unknown 15: An X-ray of a long bone beside a room interior: two images on one plate.](../images/CPS-Unknown-15.jpg)
 
 ### Landscapes and views
 
-![5. Bare trees by a walled enclosure, with a spire behind.](../images/CPS-Unknown-05.jpg)
+![Unknown 5: Bare trees by a walled enclosure, with a spire behind.](../images/CPS-Unknown-05.jpg)
 
-![6. A tree beside a dirt road, with two figures walking towards distant hills.](../images/CPS-Unknown-06.jpg)
+![Unknown 6: A tree beside a dirt road, with two figures walking towards distant hills.](../images/CPS-Unknown-06.jpg)
 
-![7. A wide, dry valley with mountains beyond.](../images/CPS-Unknown-07.jpg)
+![Unknown 7: A wide, dry valley with mountains beyond.](../images/CPS-Unknown-07.jpg)
 
-![8. Looking down a stony track to a town on the plain.](../images/CPS-Unknown-08.jpg)
+![Unknown 8: Looking down a stony track to a town on the plain.](../images/CPS-Unknown-08.jpg)
 
-![9. A bay at dusk, with a headland across the water.](../images/CPS-Unknown-09.jpg)
+![Unknown 9: A bay at dusk, with a headland across the water.](../images/CPS-Unknown-09.jpg)
 
-![10. A tree silhouetted against mountains.](../images/CPS-Unknown-10.jpg)
+![Unknown 10: A tree silhouetted against mountains.](../images/CPS-Unknown-10.jpg)
 
-![18. Steps and a promenade above a bay, with a modern block of flats.](../images/CPS-Unknown-18.jpg)
+![Unknown 18: Steps and a promenade above a bay, with a modern block of flats.](../images/CPS-Unknown-18.jpg)
 
-![19. A standing stone in a field, with a round tower on the skyline.](../images/CPS-Unknown-19.jpg)
+![Unknown 19: A standing stone in a field, with a round tower on the skyline.](../images/CPS-Unknown-19.jpg)
 
-![22. Trees on a slope above water, against the light.](../images/CPS-Unknown-22.jpg)
+![Unknown 22: Trees on a slope above water, against the light.](../images/CPS-Unknown-22.jpg)
 
-![23. Looking down over rough grass to a row of houses by the shore.](../images/CPS-Unknown-23.jpg)
+![Unknown 23: Looking down over rough grass to a row of houses by the shore.](../images/CPS-Unknown-23.jpg)
 
-![27. A rocky mountain stream among pines.](../images/CPS-Unknown-27.jpg)
+![Unknown 27: A rocky mountain stream among pines.](../images/CPS-Unknown-27.jpg)
 
-![28. Two Scots pines on moorland.](../images/CPS-Unknown-28.jpg)
+![Unknown 28: Two Scots pines on moorland.](../images/CPS-Unknown-28.jpg)
 
-![29. Pines on a small island in a reedy lake.](../images/CPS-Unknown-29.jpg)
+![Unknown 29: Pines on a small island in a reedy lake.](../images/CPS-Unknown-29.jpg)
 
-![30. Beech woods.](../images/CPS-Unknown-30.jpg)
+![Unknown 30: Beech woods.](../images/CPS-Unknown-30.jpg)
 
-![31. Trees reflected in a woodland pool.](../images/CPS-Unknown-31.jpg)
+![Unknown 31: Trees reflected in a woodland pool.](../images/CPS-Unknown-31.jpg)
 
-![32. Cows standing in a lake below mountains.](../images/CPS-Unknown-32.jpg)
+![Unknown 32: Cows standing in a lake below mountains.](../images/CPS-Unknown-32.jpg)
 
-![33. Trees on a hillside, with a box or hive in the foreground.](../images/CPS-Unknown-33.jpg)
+![Unknown 33: Trees on a hillside, with a box or hive in the foreground.](../images/CPS-Unknown-33.jpg)
 
-![35. Terraced hillsides in a mountain valley, perhaps vineyards in the south of France.](../images/CPS-Unknown-35.jpg)
+![Unknown 35: Terraced hillsides in a mountain valley, perhaps vineyards in the south of France.](../images/CPS-Unknown-35.jpg)
 
-![36. An avenue of plane trees.](../images/CPS-Unknown-36.jpg)
+![Unknown 36: An avenue of plane trees.](../images/CPS-Unknown-36.jpg)
 
-![4. A garden path with a trellis gate under trees.](../images/CPS-Unknown-04.jpg)
+![Unknown 4: A garden path with a trellis gate under trees.](../images/CPS-Unknown-04.jpg)
 
 ### Towns and buildings
 
-![34. A village square with a pump, steps and a chair under a tree, perhaps in France.](../images/CPS-Unknown-34.jpg)
+![Unknown 34: A village square with a pump, steps and a chair under a tree, perhaps in France.](../images/CPS-Unknown-34.jpg)
 
-![25. Looking down from a high window onto city buildings, in colour (1961?).](../images/CPS-Unknown-25.jpg)
+![Unknown 25: Looking down from a high window onto city buildings, in colour (1961?).](../images/CPS-Unknown-25.jpg)
 
-![26. Modern office buildings seen from a high window, in colour (1961?).](../images/CPS-Unknown-26.jpg)
+![Unknown 26: Modern office buildings seen from a high window, in colour (1961?).](../images/CPS-Unknown-26.jpg)
 
-![24. An exhibition of maps and charts of the United States and the world, in colour.](../images/CPS-Unknown-24.jpg)
+![Unknown 24: An exhibition of maps and charts of the United States and the world, in colour.](../images/CPS-Unknown-24.jpg)
 
-![11. A bare room with a window seat and cupboards.](../images/CPS-Unknown-11.jpg)
+![Unknown 11: A bare room with a window seat and cupboards.](../images/CPS-Unknown-11.jpg)
 
 ### Models, toys and pictures
 
-![1. A model house and garden, built as a table-top display.](../images/CPS-Unknown-01.jpg)
+![Unknown 1: A model house and garden, built as a table-top display.](../images/CPS-Unknown-01.jpg)
 
-![3. Carved figures, including a monk and a woman in a crinoline, set against a painted backdrop of a church.](../images/CPS-Unknown-03.jpg)
+![Unknown 3: Carved figures, including a monk and a woman in a crinoline, set against a painted backdrop of a church.](../images/CPS-Unknown-03.jpg)
 
-![16. A china or papier-mâché mouse figure.](../images/CPS-Unknown-16.jpg)
+![Unknown 16: A china or papier-mâché mouse figure.](../images/CPS-Unknown-16.jpg)
 
-![37. A still life of toys: a woolly lamb, rabbits, a carved monk and a little Christmas tree on a toy table.](../images/CPS-Unknown-37.jpg)
+![Unknown 37: A still life of toys: a woolly lamb, rabbits, a carved monk and a little Christmas tree on a toy table.](../images/CPS-Unknown-37.jpg)
 
-![38. Another arrangement of the same toys.](../images/CPS-Unknown-38.jpg)
+![Unknown 38: Another arrangement of the same toys.](../images/CPS-Unknown-38.jpg)
 
-![12. A reproduction of an eighteenth-century painting of a girl with a basket.](../images/CPS-Unknown-12.jpg)
+![Unknown 12: A reproduction of an eighteenth-century painting of a girl with a basket.](../images/CPS-Unknown-12.jpg)
 
-![13. A caricature of a seated man, signed "A.F.H.", pinned to a board.](../images/CPS-Unknown-13.jpg)
+![Unknown 13: A caricature of a seated man, signed "A.F.H.", pinned to a board.](../images/CPS-Unknown-13.jpg)
 
-![20. Aerial view of fields, or a close-up of a patterned surface.](../images/CPS-Unknown-20.jpg)
+![Unknown 20: Aerial view of fields, or a close-up of a patterned surface.](../images/CPS-Unknown-20.jpg)
 
 ## Notes on identification
 
 Basil Macdonald's note: *"I'd really like to know who everybody is as I can only guess three or four people. I'd also like to know who may have taken which photos, what sort of date, and on what camera."*
 
-If you can identify any subject, please add information to the talk page or edit the caption directly.
+## How to help
+
+If you can identify a person, place or date in any of these photographs, please [open a note on the archive's GitHub page](https://github.com/jagosilver/silver-family-archive/issues/new?title=Photo%20identification%3A%20) and say which photo it is: give the number at the start of the caption (for example *Unknown 17*) or the heading it sits under. You don't need to be sure; a guess helps too. Identifications will be added to the captions here.
 
 ## See also
 - [Christopher Silver](Christopher-Silver) — main article
