@@ -25,3 +25,4 @@ tags:
 - **2003** · [Authorship: is 'software art' challenging our accepted notions?](Dissertation): BA dissertation, University College Falmouth.
 - **2003** · [Last words](David-Silver/#last-words) with his grandfather.
 - **2009** · [Eulogy for Anthea](Anthea-Silver/A-Topsham-Childhood#eulogy).
+- **2026** · [*When I Grow Up*: BBC Radio Cornwall interview](Jago-Silver/BBC-Radio-Cornwall-2026): Jago tells Mel Osborne how he became a children's book illustrator, with audio and transcript.
